@@ -45,15 +45,10 @@ p {
 table {
     table-layout: fixed;
     height:100%
-    border-spacing: 1px;
     border-collapse: separate;
     margin-left:auto; 
     margin-right:auto;
   }
-
-  td { 
-    padding: 1px;
-}
 
 .dead { 
     background-color: lightgray;
