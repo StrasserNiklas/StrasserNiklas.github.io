@@ -23,7 +23,7 @@
   <main>
     <h1>Conways´s Game of Life.</h1>
 
-    <div>
+    <div id="toolDiv">
       <button id="start" >Start</button>
       <button id="pause" >Pause</button>
       <button id="clear" >Clear</button>
@@ -41,8 +41,11 @@
       </div>
       <input id="setWidth" type="text">
       <button id="setSize" >Set size</button>
-      
 
+      <label>Speed (ms): </label>
+      <input id="speedSlider" type="range" min="20" max="200" value="100">
+      <label id="speedLabel"></label>
+      
       <!-- Trigger/Open The Modal -->
       <button id="modalButton">Set levels</button>
 
@@ -61,23 +64,9 @@
 
       </div>
     </div>
-
-    <!-- <div id="test">
-      <textarea id="levelArea"></textarea>
-      <button id="loadLevels">Load levels</button>
-    </div> -->
-
-
-
     <div>
       <cgol-pitch height="25" width="60"></cgol-pitch>
     </div>
   </main>
-
-
-
-
-
 </body>
-
 </html>

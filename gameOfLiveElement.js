@@ -3,7 +3,7 @@ class CgolPitch extends HTMLElement {
         super();
 
         this.modalLevelsButtonHandler = this.modalLevelsButtonHandler.bind(this);
-        this.cellCl = this.cellClickHandler.bind(this);
+        this.cellClickHandler = this.cellClickHandler.bind(this);
         this.startButtonHandler = this.startButtonHandler.bind(this);
         this.pauseButtonHandler = this.pauseButtonHandler.bind(this);
         this.clearButtonHandler = this.clearButtonHandler.bind(this);
@@ -13,7 +13,8 @@ class CgolPitch extends HTMLElement {
         this.setSizeButtonHandler = this.setSizeButtonHandler.bind(this);
         this.startPlaying = this.startPlaying.bind(this);
 
-        this.$rows = 25;// parseInt(this.getAttribute('height'));
+        this.$speed = 100;
+        this.$rows = 25;// this.getAttribute('height');
         this.$columns = 60; // parseInt(this.getAttribute('width'));
         this.$countOfGenerations = 0;
         this.$changeInGeneration = false;
@@ -25,6 +26,11 @@ class CgolPitch extends HTMLElement {
         this.$tableDiv = document.createElement('div');
         this.setGenerationLabel();
 
+        var speedLabel = document.getElementById('speedLabel');
+        speedLabel.textContent = this.$speed;
+
+        var speedSlider = document.getElementById('speedSlider');
+        speedSlider.addEventListener('input', this.setSpeed.bind(this));
         window.addEventListener('resize', this.recalculateCellWidth.bind(this));
 
         this.attachShadow({ mode: 'open' }); // manipulate content of dom freely
@@ -40,17 +46,19 @@ p {
 
 table {
     table-layout: fixed;
-    width:100%;
+    
+    height:100%
     border-spacing: 1px;
+    border-collapse: separate;
+    margin-left:auto; 
+    margin-right:auto;
   }
 
-// td {
-//     width: 10px;
-//     height: 10px;
-// }
+  td { 
+    padding: 1px;
+}
 
 .dead { 
-    // float: left;
     background-color: lightgray;
     border: 0.5px solid black;
   } 
@@ -61,7 +69,7 @@ table {
   } 
 
   .wasAlive {
-    background-color:lightblue;
+    background-color: #FFC391;
     border: 0.5px solid black;
   }
 
@@ -77,6 +85,14 @@ table {
         this.recalculateCellWidth();
     }
 
+    setSpeed() {
+        var speedSlider = document.getElementById('speedSlider');
+        this.$speed = parseInt(speedSlider.value);
+
+        var speedLabel = document.getElementById('speedLabel');
+        speedLabel.textContent = this.$speed;
+    }
+
     setGenerationLabel() {
         var generationCountLabel = document.getElementById('generationLabel');
         generationCountLabel.textContent = this.$countOfGenerations;
@@ -84,14 +100,34 @@ table {
 
     recalculateCellWidth(e) {
         var windowWidth = window.innerWidth;
+        var windowWHeight = window.innerHeight;
+
+        var toolDiv = document.getElementById('toolDiv');
+        var realHeight = windowWHeight - toolDiv.offsetHeight;
+
+        var cellHeight = realHeight / this.$rows;
         var cellWidth = windowWidth / this.$columns;
 
-        for (var i = 0; i < this.$rows; i++) {
-            for (var j = 0; j < this.$columns; j++) {
-                var cell = this.shadowRoot.getElementById(i + '_' + j);
+        if (this.$rows > this.$columns) {
+            for (var k = 0; k < this.$rows; k++) {
+                for (var l = 0; l < this.$columns; l++) {
+                    var cellH = this.shadowRoot.getElementById(k + '_' + l);
 
-                cell.width = cellWidth - 6;
-                cell.height = cell.width;
+                    cellH.height = cellHeight - 7; // cellWidth - 6;
+                    cellH.width = cellH.height;
+                }
+            }
+
+            // var table = this.shadowRoot.getElementById('gameTable');
+            // table.width = ;// '10%';
+        } else {
+            for (var i = 0; i < this.$rows; i++) {
+                for (var j = 0; j < this.$columns; j++) {
+                    var cell = this.shadowRoot.getElementById(i + '_' + j);
+
+                    cell.width = cellWidth - 6;
+                    cell.height = cell.width;
+                }
             }
         }
     }
@@ -103,7 +139,7 @@ table {
         this.setGenerationLabel();
 
         if (this.$gameIsAlive) {
-            setTimeout(this.startPlaying, 100);
+            setTimeout(this.startPlaying, this.$speed);
         }
     }
 
@@ -225,6 +261,7 @@ table {
 
     setupGrid() {
         var table = document.createElement('table');
+        table.setAttribute('id', 'gameTable');
 
         for (var i = 0; i < this.$rows; i++) {
             var tr = document.createElement('tr');
@@ -276,9 +313,6 @@ table {
                 this.$nextGrid[i][j] = 0;
             }
         }
-    }
-
-    discoMode() {
     }
 
     setupGameButtons() {
@@ -333,6 +367,18 @@ table {
             return;
         }
 
+        // this.$grid = new Array(this.$rows);
+        // this.$nextGrid = new Array(this.$columns);
+        // this.initializeGrids();
+
+        // this.shadowRoot.removeChild(this.$tableDiv);
+        // this.$tableDiv = document.createElement('div');
+        // this.setupGrid();
+
+        if (this.$discoModeActive) {
+            this.discoButtonHandler();
+        }
+
         this.resetGrids();
         this.resetCells();
         this.$countOfGenerations = 0;
@@ -369,13 +415,12 @@ table {
             return;
         }
 
-        this.$rows = parseInt(width.value);
-        this.$columns = parseInt(height.value);
+        this.$rows = parseInt(height.value);
+        this.$columns = parseInt(width.value);
 
         this.$grid = new Array(this.$rows);
         this.$nextGrid = new Array(this.$columns);
         this.initializeGrids();
-
         this.shadowRoot.removeChild(this.$tableDiv);
         this.$tableDiv = document.createElement('div');
         this.setupGrid();
@@ -385,6 +430,7 @@ table {
     loadLevelButtonHandler() {
         var table = document.createElement('table');
 
+        // validating
         var textArea = document.getElementById('levelArea');
         var arrayOfLines = textArea.value.split('\n');
         for (var i = 0; i < arrayOfLines.length; i++) {
@@ -394,6 +440,34 @@ table {
                 textArea.style.backgroundColor = '#CB4335';
                 return;
             }
+
+            for (var h = 0; h < arrayOfLines[i].length; h++) {
+                if (arrayOfLines[i][h] === '0' || arrayOfLines[i][h] === '1') {
+                    continue;
+                } else {
+                    textArea.style.backgroundColor = '#CB4335';
+                    return;
+                }
+            }
+        }
+
+        // assigning
+        var longest = 0;
+
+        for (var l = 0; l < arrayOfLines.length; l++) {
+            var length = parseInt(arrayOfLines[l].length);
+
+            if (length > longest) {
+                longest = length;
+            }
+        }
+
+        if (longest < 10) {
+            this.$columns = 10;
+        }
+
+        if (arrayOfLines.length < 10) {
+            this.$rows = 10;
         }
 
         textArea.style.backgroundColor = '#FFFFFF';
@@ -402,11 +476,28 @@ table {
             var tr = document.createElement('tr');
 
             for (var j = 0; j < this.$columns; j++) {
-                var cell = document.createElement('td');
-                cell.setAttribute('id', k + '_' + j);
-                cell.setAttribute('class', 'dead');
-                cell.addEventListener('click', this.cellClickHandler.bind(this));
-                tr.appendChild(cell);
+                if (k >= arrayOfLines.length) {
+                    var deadCell = document.createElement('td');
+                    deadCell.setAttribute('id', k + '_' + j);
+                    deadCell.setAttribute('class', 'dead');
+                    deadCell.addEventListener('click', this.cellClickHandler.bind(this));
+                    tr.appendChild(deadCell);
+                    continue;
+                }
+
+                if (arrayOfLines[k][j] === '0' || j > arrayOfLines[k].length) {
+                    var cell = document.createElement('td');
+                    cell.setAttribute('id', k + '_' + j);
+                    cell.setAttribute('class', 'dead');
+                    cell.addEventListener('click', this.cellClickHandler.bind(this));
+                    tr.appendChild(cell);
+                } else if (arrayOfLines[k][j] === '1') {
+                    var liveCell = document.createElement('td');
+                    liveCell.setAttribute('id', k + '_' + j);
+                    liveCell.setAttribute('class', 'alive');
+                    liveCell.addEventListener('click', this.cellClickHandler.bind(this));
+                    tr.appendChild(liveCell);
+                }
             }
             table.appendChild(tr);
         }
@@ -428,7 +519,38 @@ table {
             var discoButton = document.getElementById('disco');
             discoButton.style.backgroundColor = 'greenyellow';
 
+            var tempTable = document.createElement('table');
+
+            for (var i = 0; i < this.$rows; i++) {
+                var tr = document.createElement('tr');
+
+                for (var j = 0; j < this.$columns; j++) {
+                    var cell = this.shadowRoot.getElementById(i + '_' + j);
+                    var newCell = document.createElement('td');
+                    newCell.setAttribute('id', i + '_' + j);
+
+                    if (this.$grid[i][j] === 0) {
+                        cell.setAttribute('class', 'dead');
+                    } else if (this.$grid[i][j] === 1) {
+                        cell.setAttribute('class', 'alive');
+                    } else if (this.$grid[i][j] === 2) {
+                        cell.setAttribute('class', 'wasAlive');
+                    }
+
+                    cell.addEventListener('click', this.cellClickHandler.bind(this));
+                    tr.appendChild(newCell);
+                }
+
+                tempTable.appendChild(tr);
+            }
+
+            this.shadowRoot.removeChild(this.$tableDiv);
+            this.$tableDiv = document.createElement('div');
+            this.$tableDiv.appendChild(tempTable);
+            this.shadowRoot.appendChild(this.$tableDiv);
+
             this.updateView();
+            this.recalculateCellWidth();
         } else {
             this.$discoModeActive = true;
             this.setRandomColorForDiscoButton();
@@ -452,6 +574,8 @@ table {
                 }
             }
         }
+
+        this.$discoModeActive = false;
     }
 
     getRandomColor() {

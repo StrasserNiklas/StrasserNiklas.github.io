@@ -12,6 +12,10 @@
     margin: 0.1em;
   }
 
+  #speedSlider {
+    width: 100px;
+  }
+
   label {
     margin: 0.1em;
   }
