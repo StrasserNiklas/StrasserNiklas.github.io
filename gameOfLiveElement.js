@@ -15,8 +15,6 @@ class CgolPitch extends HTMLElement {
         this.loadLevelButtonHandler = this.loadLevelButtonHandler.bind(this);
 
         this.$speed = 100;
-        this.$rows = 25;// this.getAttribute('height');
-        this.$columns = 60; // parseInt(this.getAttribute('width'));
         this.$countOfGenerations = 0;
         this.$changeInGeneration = false;
         this.$discoModeActive = false;
@@ -24,7 +22,6 @@ class CgolPitch extends HTMLElement {
         this.$grid = new Array(this.$rows);
         this.$nextGrid = new Array(this.$columns);
 
-        // this.$tableDiv = document.createElement('div');
         this.setGenerationLabel();
 
         var speedLabel = document.getElementById('speedLabel');
@@ -78,6 +75,9 @@ table {
     }
 
     connectedCallback() {
+        this.$rows = parseInt(this.getAttribute('height'));
+        this.$columns = parseInt(this.getAttribute('width'));
+
         this.setupGameButtons();
         this.initializeGrids();
         this.resetGrids();
@@ -399,12 +399,6 @@ table {
 
         if (height.value < 10) {
             height.style.backgroundColor = '#CB4335';
-
-            var span = document.createElement('span');
-            span.setAttribute('class', 'tooltiptext');
-            span.textContent = 'Test';
-
-            height.appendChild(span);
             return;
         }
 
@@ -442,7 +436,7 @@ table {
 
             if (Number.isNaN(value)) {
                 textArea.style.backgroundColor = '#CB4335';
-                // textArea.title = 'lalallalalal';
+                textArea.title = 'Only use 1s and 0s to load a level!';
                 return;
             }
 
@@ -451,6 +445,7 @@ table {
                     continue;
                 } else {
                     textArea.style.backgroundColor = '#CB4335';
+                    textArea.title = 'Only use 1s and 0s to load a level!';
                     return;
                 }
             }
@@ -475,6 +470,7 @@ table {
             this.$rows = 10;
         }
 
+        textArea.title = '';
         textArea.style.backgroundColor = '#FFFFFF';
 
         this.initializeGrids();
