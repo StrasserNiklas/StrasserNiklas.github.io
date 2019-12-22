@@ -12,6 +12,7 @@ class CgolPitch extends HTMLElement {
         this.discoButtonHandler = this.discoButtonHandler.bind(this);
         this.setSizeButtonHandler = this.setSizeButtonHandler.bind(this);
         this.startPlaying = this.startPlaying.bind(this);
+        this.loadLevelButtonHandler = this.loadLevelButtonHandler.bind(this);
 
         this.$speed = 100;
         this.$rows = 25;// this.getAttribute('height');
@@ -23,7 +24,7 @@ class CgolPitch extends HTMLElement {
         this.$grid = new Array(this.$rows);
         this.$nextGrid = new Array(this.$columns);
 
-        this.$tableDiv = document.createElement('div');
+        // this.$tableDiv = document.createElement('div');
         this.setGenerationLabel();
 
         var speedLabel = document.getElementById('speedLabel');
@@ -46,7 +47,6 @@ p {
 
 table {
     table-layout: fixed;
-    
     height:100%
     border-spacing: 1px;
     border-collapse: separate;
@@ -108,18 +108,18 @@ table {
         var cellHeight = realHeight / this.$rows;
         var cellWidth = windowWidth / this.$columns;
 
-        if (this.$rows > this.$columns) {
+        if (this.$rows >= this.$columns) {
             for (var k = 0; k < this.$rows; k++) {
                 for (var l = 0; l < this.$columns; l++) {
                     var cellH = this.shadowRoot.getElementById(k + '_' + l);
 
-                    cellH.height = cellHeight - 7; // cellWidth - 6;
+                    cellH.height = cellHeight - 9; // cellWidth - 6;
                     cellH.width = cellH.height;
                 }
             }
 
-            // var table = this.shadowRoot.getElementById('gameTable');
-            // table.width = ;// '10%';
+            var table = this.shadowRoot.getElementById('gameTable');
+            table.style.width = '1%';
         } else {
             for (var i = 0; i < this.$rows; i++) {
                 for (var j = 0; j < this.$columns; j++) {
@@ -129,6 +129,9 @@ table {
                     cell.height = cell.width;
                 }
             }
+
+            var table1 = this.shadowRoot.getElementById('gameTable');
+            table1.style.width = '100%';
         }
     }
 
@@ -260,6 +263,8 @@ table {
     }
 
     setupGrid() {
+        this.$tableDiv = document.createElement('div');
+
         var table = document.createElement('table');
         table.setAttribute('id', 'gameTable');
 
@@ -276,6 +281,7 @@ table {
             table.appendChild(tr);
         }
 
+        // this.shadowRoot.removeChild(this.$tableDiv);
         this.$tableDiv.appendChild(table);
         this.shadowRoot.appendChild(this.$tableDiv);
     }
@@ -428,8 +434,6 @@ table {
     }
 
     loadLevelButtonHandler() {
-        var table = document.createElement('table');
-
         // validating
         var textArea = document.getElementById('levelArea');
         var arrayOfLines = textArea.value.split('\n');
@@ -438,6 +442,7 @@ table {
 
             if (Number.isNaN(value)) {
                 textArea.style.backgroundColor = '#CB4335';
+                // textArea.title = 'lalallalalal';
                 return;
             }
 
@@ -472,44 +477,27 @@ table {
 
         textArea.style.backgroundColor = '#FFFFFF';
 
-        for (var k = 0; k < this.$rows; k++) {
-            var tr = document.createElement('tr');
+        this.initializeGrids();
+        this.shadowRoot.removeChild(this.$tableDiv);
+        this.setupGrid();
 
+        for (var k = 0; k < this.$rows; k++) {
             for (var j = 0; j < this.$columns; j++) {
                 if (k >= arrayOfLines.length) {
-                    var deadCell = document.createElement('td');
-                    deadCell.setAttribute('id', k + '_' + j);
-                    deadCell.setAttribute('class', 'dead');
-                    deadCell.addEventListener('click', this.cellClickHandler.bind(this));
-                    tr.appendChild(deadCell);
+                    this.$grid[k][j] = 0;
                     continue;
                 }
 
                 if (arrayOfLines[k][j] === '0' || j > arrayOfLines[k].length) {
-                    var cell = document.createElement('td');
-                    cell.setAttribute('id', k + '_' + j);
-                    cell.setAttribute('class', 'dead');
-                    cell.addEventListener('click', this.cellClickHandler.bind(this));
-                    tr.appendChild(cell);
+                    this.$grid[k][j] = 0;
                 } else if (arrayOfLines[k][j] === '1') {
-                    var liveCell = document.createElement('td');
-                    liveCell.setAttribute('id', k + '_' + j);
-                    liveCell.setAttribute('class', 'alive');
-                    liveCell.addEventListener('click', this.cellClickHandler.bind(this));
-                    tr.appendChild(liveCell);
+                    this.$grid[k][j] = 1;
                 }
             }
-            table.appendChild(tr);
         }
 
-        this.shadowRoot.removeChild(this.$tableDiv);
-        this.$tableDiv = document.createElement('div');
-        this.setupGrid();
+        this.updateView();
         this.recalculateCellWidth();
-
-        this.$tableDiv.appendChild(table);
-
-        this.shadowRoot.appendChild(this.$tableDiv);
     }
 
     discoButtonHandler() {
@@ -537,7 +525,7 @@ table {
                         cell.setAttribute('class', 'wasAlive');
                     }
 
-                    cell.addEventListener('click', this.cellClickHandler.bind(this));
+                    newCell.addEventListener('click', this.cellClickHandler.bind(this));
                     tr.appendChild(newCell);
                 }
 
