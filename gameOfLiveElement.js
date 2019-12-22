@@ -459,10 +459,14 @@ table {
 
         if (longest < 10) {
             this.$columns = 10;
+        } else {
+            this.$columns = longest;
         }
 
         if (arrayOfLines.length < 10) {
             this.$rows = 10;
+        } else {
+            this.$rows = arrayOfLines.length;
         }
 
         textArea.title = '';
