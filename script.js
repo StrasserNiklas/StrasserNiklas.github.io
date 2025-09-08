@@ -4656,7 +4656,7 @@ function displayActivities(activities) {
 
         // Create the description with the copy button
         const description = document.createElement('p');
-        description.textContent = `Description: ${activity.description}`;
+        description.textContent = `${activity.description}`;
 
         let buddies;
 
@@ -4724,3 +4724,4 @@ document.getElementById('toggleButton').addEventListener('click', function() {
         this.textContent = 'Gridliste';
     }
 });
+
