@@ -22,6 +22,10 @@ h1 {
     gap: 0.5rem;
 }
 
+.buddies {
+    font-weight: bold;
+}
+
 .activity-item {
     background-color: #fff;
     border-radius: 8px;
