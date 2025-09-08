@@ -4644,13 +4644,13 @@ function displayActivities(activities) {
 
         // Create the date
         const date = document.createElement('p');
-        date.textContent = `Date: ${activity.date}`;
+        date.textContent = `${activity.date}`;
 
         // Create the link
         const link = document.createElement('p');
         const hyperlink = document.createElement('a');
         hyperlink.href = activity.link;
-        hyperlink.textContent = 'View Activity';
+        hyperlink.textContent = 'Aktivität';
         hyperlink.target = '_blank';
         link.appendChild(hyperlink);
 
@@ -4724,4 +4724,5 @@ document.getElementById('toggleButton').addEventListener('click', function() {
         this.textContent = 'Gridliste';
     }
 });
+
 
