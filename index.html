@@ -7,14 +7,37 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Dinkels Aktivitäten</h1>
+    <div class="tab">
+        <button class="tablinks" onclick="openFahrer(event, 'Dinkels')">Dinkels</button>
+        <button class="tablinks" onclick="openFahrer(event, 'Julian')">Julian</button>
+        <button class="tablinks" onclick="openFahrer(event, 'Niki')">Niki</button>
+        <button class="tablinks" onclick="openFahrer(event, 'Martin')">Niki</button>
+    </div>
+
+    <div id="Dinkels" class="container">
+        <h1 id="h1-dinkels">Dinkels Aktivitäten</h1>
         <button id="toggleButton">Einzelliste</button>
-        <div id="activity-list" class="activity-list"></div>
+        <div id="activity-list-dinkels" class="activity-list"></div>
+    </div>
+
+    <div id="Julian" class="container" style="display: none;">
+        <h1 id="h1-julian">Julian Aktivitäten</h1>
+        <button id="toggleButton">Einzelliste</button>
+        <div id="activity-list-julian" class="activity-list"></div>
+    </div>
+
+    <div id="Niki" class="container" style="display: none;">
+        <h1 id="h1-niki">Niki Aktivitäten</h1>
+        <button id="toggleButton">Einzelliste</button>
+        <div id="activity-list-niki" class="activity-list"></div>
+    </div>
+
+    <div id="Martin" class="container" style="display: none;">
+        <h1 id="h1-martin">Martin Aktivitäten</h1>
+        <button id="toggleButton">Einzelliste</button>
+        <div id="activity-list-martin" class="activity-list"></div>
     </div>
 
     <script src="script.js"></script>
 </body>
-
 </html>
-
