@@ -17108,6 +17108,7 @@ function displayActivities(activities, listName, h1Name, clearName) {
     let startDate = formatDate(activities[activities.length - 1].date);
     h1.textContent = `${clearName} Aktivitäten - ${activities.length} (${startDate} - ${endDate})`;
     const activityList = document.getElementById(listName);
+    activityList.innerHTML = '';
 
     activities.forEach(activity => {
         const activityItem = document.createElement('div');
@@ -17179,6 +17180,100 @@ function copyToClipboard(text) {
     });
 }
 
+function openFahrer(evt, fahrer) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("container");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  if (fahrer === 'Dinkels') {
+    currentList = 'activity-list-dinkels';
+    displayActivities(activitiesDinkels, 'activity-list-dinkels', 'h1-dinkels', 'Dinkels');
+  } else if (fahrer === 'Niki') {
+    currentList = 'activity-list-niki';
+    displayActivities(activitiesNiki, 'activity-list-niki', 'h1-niki', 'Niki');
+  } else if (fahrer === 'Julian') {
+    currentList = 'activity-list-julian';
+    displayActivities(activitiesJulian, 'activity-list-julian', 'h1-julian', 'Julian');
+  } else if (fahrer === 'Martin') {
+    currentList = 'activity-list-martin';
+    displayActivities(activitiesMartin, 'activity-list-martin', 'h1-martin', 'Martin');
+  }
+
+  document.getElementById(fahrer).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+let currentList = 'activity-list-dinkels';
+let withBuddies = false;
+
+displayActivities(activitiesDinkels, 'activity-list-dinkels', 'h1-dinkels', 'Dinkels');
+
+document.getElementById('toggleButton-buddies-dinkels').addEventListener('click', function() {
+    const activityList = document.getElementById(currentList);
+    withBuddies = !withBuddies;
+
+    if (withBuddies) {
+      var button = document.getElementById('toggleButton-buddies-dinkels');
+      button.textContent = "Alle";
+      displayActivities(activitiesDinkels.filter(entry => entry.buddies.length > 0), 'activity-list-dinkels', 'h1-dinkels', 'Dinkels');
+    } else {
+      var button = document.getElementById('toggleButton-buddies-dinkels');
+      button.textContent = "Mit Buddies";
+      displayActivities(activitiesDinkels, 'activity-list-dinkels', 'h1-dinkels', 'Dinkels');
+    }
+});
+
+document.getElementById('toggleButton-buddies-julian').addEventListener('click', function() {
+    const activityList = document.getElementById(currentList);
+    withBuddies = !withBuddies;
+
+    if (withBuddies) {
+      var button = document.getElementById('toggleButton-buddies-julian');
+      button.textContent = "Alle";
+      displayActivities(activitiesJulian.filter(entry => entry.buddies.length > 0), 'activity-list-julian', 'h1-julian', 'Julian');
+    } else {
+      var button = document.getElementById('toggleButton-buddies-julian');
+      button.textContent = "Mit Buddies";
+      displayActivities(activitiesJulian, 'activity-list-julian', 'h1-julian', 'Julian');
+    }
+});
+
+document.getElementById('toggleButton-buddies-niki').addEventListener('click', function() {
+    const activityList = document.getElementById(currentList);
+    withBuddies = !withBuddies;
+
+    if (withBuddies) {
+      var button = document.getElementById('toggleButton-buddies-niki');
+      button.textContent = "Alle";
+      displayActivities(activitiesNiki.filter(entry => entry.buddies.length > 0), 'activity-list-niki', 'h1-niki', 'Niki');
+    } else {
+      var button = document.getElementById('toggleButton-buddies-niki');
+      button.textContent = "Mit Buddies";
+      displayActivities(activitiesNiki, 'activity-list-niki', 'h1-niki', 'Niki');
+    }
+});
+
+document.getElementById('toggleButton-buddies-martin').addEventListener('click', function() {
+    const activityList = document.getElementById(currentList);
+    withBuddies = !withBuddies;
+
+    if (withBuddies) {
+      var button = document.getElementById('toggleButton-buddies-martin');
+      button.textContent = "Alle";
+      displayActivities(activitiesMartin.filter(entry => entry.buddies.length > 0), 'activity-list-martin', 'h1-martin', 'Martin');
+    } else {
+      var button = document.getElementById('toggleButton-buddies-martin');
+      button.textContent = "Mit Buddies";
+      displayActivities(activitiesMartin, 'activity-list-martin', 'h1-martin', 'Martin');
+    }
+});
+
 document.getElementById('toggleButton-dinkels').addEventListener('click', function() {
     const activityList = document.getElementById(currentList);
     if (activityList.style.display === 'block') {
@@ -17222,36 +17317,3 @@ document.getElementById('toggleButton-martin').addEventListener('click', functio
         this.textContent = 'Gridliste';
     }
 });
-
-function openFahrer(evt, fahrer) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("container");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-
-  if (fahrer === 'Dinkels') {
-    currentList = 'activity-list-dinkels';
-    displayActivities(activitiesDinkels, 'activity-list-dinkels', 'h1-dinkels', 'Dinkels');
-  } else if (fahrer === 'Niki') {
-    currentList = 'activity-list-niki';
-    displayActivities(activitiesNiki, 'activity-list-niki', 'h1-niki', 'Niki');
-  } else if (fahrer === 'Julian') {
-    currentList = 'activity-list-julian';
-    displayActivities(activitiesJulian, 'activity-list-julian', 'h1-julian', 'Julian');
-  } else if (fahrer === 'Martin') {
-    currentList = 'activity-list-martin';
-    displayActivities(activitiesMartin, 'activity-list-martin', 'h1-martin', 'Martin');
-  }
-
-  document.getElementById(fahrer).style.display = "block";
-  evt.currentTarget.className += " active";
-}
-
-let currentList = 'activity-list-dinkels';
-
-displayActivities(activitiesDinkels, 'activity-list-dinkels', 'h1-dinkels', 'Dinkels');
