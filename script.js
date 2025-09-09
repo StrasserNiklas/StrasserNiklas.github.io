@@ -4663,6 +4663,7 @@ function displayActivities(activities) {
         if (activity.buddies.length > 0) {
           buddies = document.createElement('p');
           buddies.classList.add(['buddies'])
+          buddies.style = 'color: red;'
 
           //if (activity.buddies.length === 0) {//
           //  buddies.textContent = `Buddies: Forever alone`;
@@ -4724,5 +4725,4 @@ document.getElementById('toggleButton').addEventListener('click', function() {
         this.textContent = 'Gridliste';
     }
 });
-
 
