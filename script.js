@@ -17179,10 +17179,41 @@ function copyToClipboard(text) {
     });
 }
 
-//displayActivities(activitiesDinkels, 'activity-list-dinkels');
+document.getElementById('toggleButton-dinkels').addEventListener('click', function() {
+    const activityList = document.getElementById(currentList);
+    if (activityList.style.display === 'block') {
+        activityList.style.display = 'flex';
+        this.textContent = 'Einzelliste';
+    } else {
+        activityList.style.display = 'block';
+        this.textContent = 'Gridliste';
+    }
+});
 
-document.getElementById('toggleButton').addEventListener('click', function() {
-    const activityList = document.getElementById('activity-list-dinkels');
+document.getElementById('toggleButton-julian').addEventListener('click', function() {
+    const activityList = document.getElementById(currentList);
+    if (activityList.style.display === 'block') {
+        activityList.style.display = 'flex';
+        this.textContent = 'Einzelliste';
+    } else {
+        activityList.style.display = 'block';
+        this.textContent = 'Gridliste';
+    }
+});
+
+document.getElementById('toggleButton-niki').addEventListener('click', function() {
+    const activityList = document.getElementById(currentList);
+    if (activityList.style.display === 'block') {
+        activityList.style.display = 'flex';
+        this.textContent = 'Einzelliste';
+    } else {
+        activityList.style.display = 'block';
+        this.textContent = 'Gridliste';
+    }
+});
+
+document.getElementById('toggleButton-martin').addEventListener('click', function() {
+    const activityList = document.getElementById(currentList);
     if (activityList.style.display === 'block') {
         activityList.style.display = 'flex';
         this.textContent = 'Einzelliste';
@@ -17204,18 +17235,23 @@ function openFahrer(evt, fahrer) {
   }
 
   if (fahrer === 'Dinkels') {
+    currentList = 'activity-list-dinkels';
     displayActivities(activitiesDinkels, 'activity-list-dinkels', 'h1-dinkels', 'Dinkels');
   } else if (fahrer === 'Niki') {
+    currentList = 'activity-list-niki';
     displayActivities(activitiesNiki, 'activity-list-niki', 'h1-niki', 'Niki');
   } else if (fahrer === 'Julian') {
+    currentList = 'activity-list-julian';
     displayActivities(activitiesJulian, 'activity-list-julian', 'h1-julian', 'Julian');
   } else if (fahrer === 'Martin') {
+    currentList = 'activity-list-martin';
     displayActivities(activitiesMartin, 'activity-list-martin', 'h1-martin', 'Martin');
   }
-
 
   document.getElementById(fahrer).style.display = "block";
   evt.currentTarget.className += " active";
 }
+
+let currentList = 'activity-list-dinkels';
 
 displayActivities(activitiesDinkels, 'activity-list-dinkels', 'h1-dinkels', 'Dinkels');
