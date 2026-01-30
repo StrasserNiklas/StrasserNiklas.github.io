@@ -23855,7 +23855,7 @@ document.getElementById('toggleButton-buddies-maxi').addEventListener('click', f
     if (withBuddies) {
       var button = document.getElementById('toggleButton-buddies-maxi');
       button.textContent = "Alle";
-      displayActivities(activitiesMaxi.filter(entry => entry.buddies.length > 0), 'activity-list-maxi', 'h1-maxi', 'maxi');
+      displayActivities(activitiesMaxi.filter(entry => entry.buddies.length > 0), 'activity-list-maxi', 'h1-maxi', 'Maxi');
     } else {
       var button = document.getElementById('toggleButton-buddies-maxi');
       button.textContent = "Mit Buddies";
