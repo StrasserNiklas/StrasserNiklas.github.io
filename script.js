@@ -23776,7 +23776,7 @@ function openFahrer(evt, fahrer) {
     displayActivities(activitiesMartin, 'activity-list-martin', 'h1-martin', 'Martin');
   } else if (fahrer === 'Maxi') {
     currentList = 'activity-list-maxi';
-    displayActivities(activitiesMartin, 'activity-list-maxi', 'h1-maxi', 'maxi');
+    displayActivities(activitiesMaxi, 'activity-list-maxi', 'h1-maxi', 'Maxi');
   }
 
   document.getElementById(fahrer).style.display = "block";
