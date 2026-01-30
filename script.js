@@ -23855,11 +23855,11 @@ document.getElementById('toggleButton-buddies-maxi').addEventListener('click', f
     if (withBuddies) {
       var button = document.getElementById('toggleButton-buddies-maxi');
       button.textContent = "Alle";
-      displayActivities(activitiesmaxi.filter(entry => entry.buddies.length > 0), 'activity-list-maxi', 'h1-maxi', 'maxi');
+      displayActivities(activitiesMaxi.filter(entry => entry.buddies.length > 0), 'activity-list-maxi', 'h1-maxi', 'maxi');
     } else {
       var button = document.getElementById('toggleButton-buddies-maxi');
       button.textContent = "Mit Buddies";
-      displayActivities(activitiesmaxi, 'activity-list-maxi', 'h1-maxi', 'Maxi');
+      displayActivities(activitiesMaxi, 'activity-list-maxi', 'h1-maxi', 'Maxi');
     }
 });
 
