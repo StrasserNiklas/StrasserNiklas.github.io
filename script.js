@@ -17095,6 +17095,6577 @@ const activitiesMartin = [
   }
 ];
 
+const activitiesMaxi = [
+  {
+    "date": "Gestern um 17:08",
+    "activity": "Zwift - Neues Workout on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/17218720996",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Gestern um 11:16",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/17215194329",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Januar 2026 um 17:14",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/17207372292",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "25. Januar 2026",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/17169757668",
+    "description": "",
+    "buddies": [
+      "Richard F."
+    ]
+  },
+  {
+    "date": "18. Januar 2026",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/17090490737",
+    "description": "",
+    "buddies": [
+      "Richard F."
+    ]
+  },
+  {
+    "date": "Am 14. Dezember 2025 um 16:08",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/16742362057",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Dezember 2025 um 13:31",
+    "activity": "Zwift - Pushing Limits Club: 13.12 - MIT - KrA 4x15 min - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16731432477",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Dezember 2025 um 07:53",
+    "activity": "Zwift - Pushing Limits Club: 11.12 - LIT 1h - Pushing Limits Club on Flat Route in Watopia",
+    "link": "https://www.strava.com/activities/16710523223",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Dezember 2025 um 16:54",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/16695125876",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Dezember 2025 um 10:27",
+    "activity": "Zwift - Neues Workout on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16682538743",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Dezember 2025 um 16:08",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/16742362057",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Dezember 2025 um 13:31",
+    "activity": "Zwift - Pushing Limits Club: 13.12 - MIT - KrA 4x15 min - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16731432477",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Dezember 2025 um 07:53",
+    "activity": "Zwift - Pushing Limits Club: 11.12 - LIT 1h - Pushing Limits Club on Flat Route in Watopia",
+    "link": "https://www.strava.com/activities/16710523223",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Dezember 2025 um 16:54",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/16695125876",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Dezember 2025 um 10:27",
+    "activity": "Zwift - Neues Workout on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16682538743",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. November 2025 um 17:23",
+    "activity": "Zwift - Pushing Limits Club: 30.11 - LIT - 0h45 min - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16612396656",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. November 2025 um 09:12",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/16607434799",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. November 2025 um 15:18",
+    "activity": "Zwift - Pushing Limits Club: 29.11 - MIT - KrA 4x10 min - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16602090031",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. November 2025 um 16:55",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/16592513791",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. November 2025 um 07:36",
+    "activity": "Zwift - Pushing Limits Club: 27.11 - HIIT 3x(8x30/30s) - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16579263881",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. November 2025 um 14:49",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/16544499407",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. November 2025 um 12:45",
+    "activity": "Zwift - Pushing Limits Club: 22.11 - MIT - KrA 3x10 min - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16533632489",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. November 2025 um 13:00",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/16523810773",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. November 2025 um 16:50",
+    "activity": "Zwift - Pushing Limits Club: 20.11 - [6x20sec FatMax Time Crunch] - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16516209322",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. November 2025 um 17:20",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/16415623079",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. November 2025 um 19:57",
+    "activity": "Zwift - Pushing Limits Club: 08.11 - HIIT 3x(6x30/30s) - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16397434359",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. November 2025 um 16:36",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/16397557762",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. November 2025 um 10:29",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/16397554706",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. November 2025 um 15:24",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/16374592440",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. November 2025 um 10:14",
+    "activity": "Zwift - Pushing Limits Club: 06.11 - SIT - Sprint Training (8x10\")  - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16372562581",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. November 2025 um 17:16",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/16354072026",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. November 2025 um 10:28",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/16350252483",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. November 2025 um 14:24",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/16332652633",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. November 2025 um 19:44",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/16324800887",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Oktober 2025 um 15:46",
+    "activity": "Zwift - Neues Workout on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16313480265",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Oktober 2025 um 11:37",
+    "activity": "Zwift - Pushing Limits Club: 30.10 - LIT 1h - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16301228755",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Oktober 2025 um 15:55",
+    "activity": "Zwift - Neues Workout on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16293436328",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Oktober 2025 um 10:24",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/16290377991",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Oktober 2025 um 17:46",
+    "activity": "Zwift - Neues Workout on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16283999241",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "28. Oktober 2025",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/16282247409",
+    "description": "",
+    "buddies": [
+      "Sarah Tretthann"
+    ]
+  },
+  {
+    "date": "Am 26. Oktober 2025 um 09:45",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/16260044384",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Oktober 2025 um 12:12",
+    "activity": "Zwift - Pushing Limits Club: 25.10 - LIT - 2:00h - Pushing Limits Club on The Classic in Watopia",
+    "link": "https://www.strava.com/activities/16250809311",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Oktober 2025 um 08:10",
+    "activity": "Zwift - Pushing Limits Club: 23.10 - LIT - 1h - Doppel-Pyramide - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16229368209",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Oktober 2025 um 16:29",
+    "activity": "Zwift - Pushing Limits Club: 22.10 - SIT - Sprint Training (6x10\")  - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16222903995",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Oktober 2025 um 17:01",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/16212189244",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Oktober 2025 um 14:50",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/16211301371",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "17. Oktober 2025",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16170903671",
+    "description": "",
+    "buddies": [
+      "Richard F.",
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 16. Oktober 2025 um 13:36",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/16159224429",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Oktober 2025 um 18:06",
+    "activity": "Zwift - Pushing Limits Club: 15.10 - SIT - Sprint Training (5x10\")  - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16151126905",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Oktober 2025 um 12:55",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/16148293879",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Oktober 2025 um 07:14",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/16134201029",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Oktober 2025 um 17:48",
+    "activity": "Afternoon Weight Training",
+    "link": "https://www.strava.com/activities/16130817780",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Oktober 2025 um 14:11",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/16126869221",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Oktober 2025 um 16:34",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/16119165051",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Oktober 2025 um 14:02",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/16105258513",
+    "description": "15m Becken",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Oktober 2025 um 16:22",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/16096461358",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Oktober 2025 um 07:10",
+    "activity": "Zwift - Pushing Limits Club: 10.10 - LIT - 1:40h - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16092685981",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Oktober 2025 um 17:21",
+    "activity": "Zwift - Pushing Limits Club: 09.10 - LIT - 1h Pyramide - Pushing Limits Club on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/16086863671",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Oktober 2025 um 17:22",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/16076036418",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Oktober 2025 um 20:27",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/16066928521",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Oktober 2025 um 18:04",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/16044215670",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Oktober 2025 um 14:04",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16169714837",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Oktober 2025 um 19:51",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/16001625456",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. September 2025 um 13:31",
+    "activity": "Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/15986699014",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. September 2025 um 16:12",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/15976025854",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. September 2025 um 17:21",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/15967133610",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "27. September 2025",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/15950542566",
+    "description": "Kurz von der sonne begrüßt ☀️ \nGemütlich heut mit Stefan Krajnik",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 26. September 2025 um 19:49",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/15945166812",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. September 2025 um 12:10",
+    "activity": "Zwift - Neues Workout on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/15930872003",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "22. September 2025",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15899900159",
+    "description": "",
+    "buddies": [
+      "David Reischer",
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "20. September 2025",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15876130398",
+    "description": "",
+    "buddies": [
+      "Christoph Winkler",
+      "Felix Brandstetter"
+    ]
+  },
+  {
+    "date": "Am 15. September 2025 um 14:42",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15820156632",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. September 2025 um 19:03",
+    "activity": "Zwift - Neues Workout on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/15812311122",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. September 2025 um 07:02",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/15771516597",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "9. September 2025",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15753257762",
+    "description": "",
+    "buddies": [
+      "Richard F."
+    ]
+  },
+  {
+    "date": "Am 8. September 2025 um 11:02",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/15739411960",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. September 2025 um 08:52",
+    "activity": "Morning Kayaking",
+    "link": "https://www.strava.com/activities/15726799751",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. September 2025 um 12:52",
+    "activity": "Lunch Kayaking",
+    "link": "https://www.strava.com/activities/15717984536",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "31. August 2025",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15648591994",
+    "description": "",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 28. August 2025 um 17:40",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15618632297",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. August 2025 um 17:07",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/15582187204",
+    "description": "Beweisfoto mit der Schwimmnixxe",
+    "buddies": []
+  },
+  {
+    "date": "21. August 2025",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15537074764",
+    "description": "",
+    "buddies": [
+      "Richard F."
+    ]
+  },
+  {
+    "date": "Am 14. August 2025 um 07:14",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/15452356862",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. August 2025 um 16:08",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/15445514312",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. August 2025 um 17:27",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/15342346300",
+    "description": "Mit arielle Lisa Koch",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Juli 2025 um 12:47",
+    "activity": "Zwift - 1:15 Rad on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/15252306536",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Juli 2025 um 12:21",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/15185268848",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Juli 2025 um 15:08",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15177790210",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Juli 2025 um 14:26",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15133630413",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "11. Juli 2025",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15081042712",
+    "description": "",
+    "buddies": [
+      "Stefan Krajnik",
+      "David Reischer",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "7. Juli 2025",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15035959148",
+    "description": "",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 4. Juli 2025 um 16:24",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15005787986",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Juli 2025 um 17:14",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/14974310772",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Juni 2025 um 16:34",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/14963508306",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "29. Juni 2025",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/14950996449",
+    "description": "Mit dem Streeter",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 15. Juni 2025 um 15:51",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/14808490690",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Juni 2025 um 10:46",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/14805385431",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "13. Juni 2025",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/14787347764",
+    "description": "Hausberg mit Stefan Krajnik",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "7. Juni 2025",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/14721719565",
+    "description": "„Ganz locker“ mit Stefan Krajnik unterwegs heut\nEs wird Zeit zum Socken bestellen wenn die Farbe nicht mehr zu den Schuhen passt 🤌🏼",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 5. Juni 2025 um 19:30",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/14706809581",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "1. Juni 2025",
+    "activity": "Fahrt am Morgen",
+    "link": "https://www.strava.com/activities/14660109145",
+    "description": "Beim Everester Niklas Strasser nachn rechten schauen und den Sunday Ride im helenental abschließen mit Richard F. ☀️",
+    "buddies": [
+      "Richard F."
+    ]
+  },
+  {
+    "date": "Am 27. Mai 2025 um 17:16",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/14611532425",
+    "description": "Lisa Koch pflügt elegant durchs Wasser 🧜‍♀️",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Mai 2025 um 09:32",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/14476305524",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "3. Mai 2025",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/14363615689",
+    "description": "Einmal mit Hans Dampf und Thomas der Lokomotive durchgaren lassen im Wienerwald 🔥 Christoph Winkler & Niklas Strasser",
+    "buddies": [
+      "Niklas Strasser",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 29. April 2025 um 17:50",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/14323437224",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. April 2025 um 17:34",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/14323436599",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "23. April 2025",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/14262990039",
+    "description": "",
+    "buddies": [
+      "Sarah Tretthann"
+    ]
+  },
+  {
+    "date": "19. April 2025",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/14225080166",
+    "description": "Kalte kuchl Runde 🤌🏼",
+    "buddies": [
+      "Richard F."
+    ]
+  },
+  {
+    "date": "Am 18. April 2025 um 19:34",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/14216126380",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "16. April 2025",
+    "activity": "Afternoon Walk",
+    "link": "https://www.strava.com/activities/14194503805",
+    "description": "",
+    "buddies": [
+      "Sarah Tretthann"
+    ]
+  },
+  {
+    "date": "Am 16. April 2025 um 10:44",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/14192122608",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "9. April 2025",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/14128330687",
+    "description": "",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 8. April 2025 um 14:51",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/14116603445",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. April 2025 um 11:17",
+    "activity": "Zwift - Alpha on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/14094945780",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. März 2025 um 16:36",
+    "activity": "Zwift - HIIT 3x(6x30/30s) on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/14021915189",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. März 2025 um 12:45",
+    "activity": "Zwift - 1:30 Walze on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/14002059260",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "26. März 2025",
+    "activity": "Afternoon Walk",
+    "link": "https://www.strava.com/activities/13993130742",
+    "description": "",
+    "buddies": [
+      "Sarah Tretthann"
+    ]
+  },
+  {
+    "date": "Am 26. März 2025 um 10:43",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/13993130205",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "25. März 2025",
+    "activity": "Afternoon Walk",
+    "link": "https://www.strava.com/activities/13993128358",
+    "description": "",
+    "buddies": [
+      "Sarah Tretthann"
+    ]
+  },
+  {
+    "date": "Am 24. März 2025 um 12:17",
+    "activity": "Zwift - Neues Workout on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/13972544746",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "20. März 2025",
+    "activity": "Hausberghügel",
+    "link": "https://www.strava.com/activities/13936894055",
+    "description": "Mit dem Buben",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 20. März 2025 um 06:43",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/13933000362",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. März 2025 um 15:10",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/13917040014",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. März 2025 um 10:14",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/13914777885",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. März 2025 um 16:39",
+    "activity": "Zwift - Neues Workout on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/13908555216",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. März 2025 um 17:01",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/13900813310",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. März 2025 um 09:55",
+    "activity": "Zwift - Half Hour of Power on Volcano Flat in Watopia",
+    "link": "https://www.strava.com/activities/13886490005",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. März 2025 um 14:11",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/13871356143",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. März 2025 um 17:27",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/13863344237",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "9. März 2025",
+    "activity": "Fahrt am Morgen",
+    "link": "https://www.strava.com/activities/13833282179",
+    "description": "Mit den sundayboys ☀️ Niklas Strasser Richard F.",
+    "buddies": [
+      "Richard F.",
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "6. März 2025",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/13829742786",
+    "description": "",
+    "buddies": [
+      "Richard F.",
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 26. Februar 2025 um 14:29",
+    "activity": "Zwift - 1:15 Rad on Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/13732924006",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Februar 2025 um 14:32",
+    "activity": "Zwift - The Gorby in Watopia",
+    "link": "https://www.strava.com/activities/13723244577",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Februar 2025 um 17:21",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/13670930893",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Februar 2025 um 18:54",
+    "activity": "Zwift - LIT - 1h Pyramide in Watopia",
+    "link": "https://www.strava.com/activities/13662856151",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Februar 2025 um 16:26",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/13662203854",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Februar 2025 um 10:48",
+    "activity": "Morning Backcountry Ski",
+    "link": "https://www.strava.com/activities/13623771685",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Februar 2025 um 08:53",
+    "activity": "Morning Backcountry Ski",
+    "link": "https://www.strava.com/activities/13623771566",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Februar 2025 um 10:20",
+    "activity": "Morning Backcountry Ski",
+    "link": "https://www.strava.com/activities/13598362046",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "8. Februar 2025",
+    "activity": "Nachmittagstraining",
+    "link": "https://www.strava.com/activities/13600307173",
+    "description": "",
+    "buddies": [
+      "Lena Novacek",
+      "Lisa Koch"
+    ]
+  },
+  {
+    "date": "Am 5. Februar 2025 um 16:13",
+    "activity": "Zwift - LIT - 1h Pyramide in Watopia",
+    "link": "https://www.strava.com/activities/13547715224",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Februar 2025 um 14:30",
+    "activity": "Zwift - High Intensity/5min in Watopia",
+    "link": "https://www.strava.com/activities/13510314274",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Januar 2025 um 10:41",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/13499823522",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Januar 2025 um 17:47",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/13485489461",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Januar 2025 um 19:05",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/13476899489",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Januar 2025 um 18:50",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/13460334722",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Januar 2025 um 13:49",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/13450822757",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Januar 2025 um 06:34",
+    "activity": "Zu schön um nicht auf Strava zu posten",
+    "link": "https://www.strava.com/activities/13364438554",
+    "description": "El teide mit Traum Wetter ☀️ durch die lavafelder",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. November 2024 um 19:35",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/12916553258",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "14. November 2024",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/12899426049",
+    "description": "",
+    "buddies": [
+      "Richard F."
+    ]
+  },
+  {
+    "date": "Am 14. November 2024 um 10:55",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/12898033327",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. November 2024 um 19:44",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/12893920667",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. November 2024 um 17:32",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/12877257845",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. November 2024 um 16:22",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/12869594877",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. November 2024 um 12:26",
+    "activity": "Lunch Hike",
+    "link": "https://www.strava.com/activities/12859375311",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. November 2024 um 10:43",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/12843514563",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. November 2024 um 17:11",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12838088373",
+    "description": "Mit Meerjungfrau Lisa Koch  😎",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. November 2024 um 16:44",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/12831069847",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. November 2024 um 17:24",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/12815615782",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. November 2024 um 12:32",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/12815596524",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Oktober 2024 um 10:02",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/12788083575",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Oktober 2024 um 19:05",
+    "activity": "Paddeln",
+    "link": "https://www.strava.com/activities/12784313442",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Oktober 2024 um 17:16",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12782756223",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Oktober 2024 um 12:44",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/12772837369",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Oktober 2024 um 16:53",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/12766234578",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Oktober 2024 um 10:51",
+    "activity": "Morning Hike",
+    "link": "https://www.strava.com/activities/12764931470",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Oktober 2024 um 13:06",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12740686427",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Oktober 2024 um 15:36",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/12734278500",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Oktober 2024 um 17:09",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12726734364",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Oktober 2024 um 15:44",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/12709828234",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Oktober 2024 um 18:10",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/12686373089",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Oktober 2024 um 16:53",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/12678134537",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Oktober 2024 um 09:04",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/12675365100",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Oktober 2024 um 19:44",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/12671960056",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Oktober 2024 um 16:04",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/12653598989",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "13. Oktober 2024",
+    "activity": "Hausrunde mit den Boys",
+    "link": "https://www.strava.com/activities/12644295488",
+    "description": "Stefan Krajnik & Markus",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 12. Oktober 2024 um 12:25",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/12636340661",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Oktober 2024 um 14:30",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/12629095243",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Oktober 2024 um 08:28",
+    "activity": "Lauf am Morgen",
+    "link": "https://www.strava.com/activities/12619378973",
+    "description": "Trailing",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Oktober 2024 um 19:50",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/12616071810",
+    "description": "Badeschluss",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Oktober 2024 um 15:25",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/12598372688",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Oktober 2024 um 18:45",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/12586699746",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Oktober 2024 um 17:09",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12573490357",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Oktober 2024 um 20:21",
+    "activity": "Zwift - 45´-1:00 Walze Rad in Watopia",
+    "link": "https://www.strava.com/activities/12559133621",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Oktober 2024 um 11:15",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/12546627850",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "29. September 2024",
+    "activity": "Sunday Long",
+    "link": "https://www.strava.com/activities/12532761416",
+    "description": "Mit Niklas Strasser so ziemlich die ganze Zeit im Wind.\nAm Schluss mit Druck nachhause 💨\nHerzfrequenz macht was sie will 🫶🏼",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 27. September 2024 um 13:06",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12515305787",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. September 2024 um 15:46",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/12508952150",
+    "description": "Kleine Schritte…",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. September 2024 um 16:12",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/12384167405",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. September 2024 um 12:47",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/12331898145",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "4. September 2024",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/12326475916",
+    "description": "Zum Volleyball und wieder zurück 🏐 \n\nAm Sonntag wohl nicht alles gegeben wenn heut das kettenschloss reißt 🤔",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 3. September 2024 um 12:19",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/12313742957",
+    "description": "Wichtig und richtig",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. September 2024 um 14:23",
+    "activity": "Ironman Zell am See - Run",
+    "link": "https://www.strava.com/activities/12299148877",
+    "description": "Beim laufen leider hochgegangen und am Ende 18. in der AK geworden\n\nKleines Trostpflaster: bester Österreicher in der AK",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. September 2024 um 14:19",
+    "activity": "Afternoon Workout",
+    "link": "https://www.strava.com/activities/12299148663",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. September 2024 um 11:48",
+    "activity": "Ironman Zell am See - Bike",
+    "link": "https://www.strava.com/activities/12299551117",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. September 2024 um 11:44",
+    "activity": "Lunch Workout",
+    "link": "https://www.strava.com/activities/12299148540",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. September 2024 um 11:12",
+    "activity": "Ironman zell am See - swim",
+    "link": "https://www.strava.com/activities/12299148578",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. August 2024 um 09:40",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/12286740267",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. August 2024 um 17:30",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/12274148106",
+    "description": "Wird wohl eine hitzeschlacht am Sonntag",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. August 2024 um 08:43",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/12261851401",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. August 2024 um 17:18",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12256251258",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. August 2024 um 14:42",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/12255172418",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. August 2024 um 13:49",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/12255172243",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. August 2024 um 10:47",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/12228365404",
+    "description": "Danke an Niklas Strasser für den Support als Wassermann 🧜🏽‍♂️",
+    "buddies": []
+  },
+  {
+    "date": "24. August 2024",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/12228475031",
+    "description": "4x15min racepace? 🤔",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 23. August 2024 um 17:03",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12222864597",
+    "description": "20x100@1:35",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. August 2024 um 12:19",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/12213102769",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. August 2024 um 06:57",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/12201955737",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. August 2024 um 10:22",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/12176994076",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. August 2024 um 06:08",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/12175756677",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. August 2024 um 15:05",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12171126430",
+    "description": "Erste Hälfte ziemlich wellig 🌊",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. August 2024 um 06:58",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/12167928520",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. August 2024 um 14:58",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12162650869",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. August 2024 um 06:38",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/12160344279",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. August 2024 um 17:10",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/12157090136",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. August 2024 um 11:08",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/12152306299",
+    "description": "Leider nicht ans Ufer wegen zuvielen Seglern",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. August 2024 um 14:10",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12127767290",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. August 2024 um 18:45",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/12123352266",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. August 2024 um 14:06",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12111021164",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. August 2024 um 16:47",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12103993037",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. August 2024 um 08:08",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/12100683132",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. August 2024 um 11:07",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/12093393436",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. August 2024 um 08:19",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/12092910046",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. August 2024 um 18:40",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/12088199098",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "7. August 2024",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/12088382090",
+    "description": "Inkl. Beweisfoto Foto den Coach Alex Krenn 💪🏼",
+    "buddies": [
+      "Richard F."
+    ]
+  },
+  {
+    "date": "Am 5. August 2024 um 18:42",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/12070866904",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. August 2024 um 06:59",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/12057255396",
+    "description": "Feucht fröhliche Angelegenheit - letzte Stunde im schüttregen verbracht 🌧️",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. August 2024 um 09:06",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/12049199673",
+    "description": "Laufform ist da 💥",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. August 2024 um 07:00",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/12049198859",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. August 2024 um 15:39",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/12045242332",
+    "description": "Viel Wind 💨 aber Hauptsache 30er schnitt",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. August 2024 um 13:01",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12043172614",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. August 2024 um 12:06",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/12034452840",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Juli 2024 um 20:54",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/12030464379",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Juli 2024 um 18:54",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/12012556810",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Juli 2024 um 09:53",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/12008289173",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "28. Juli 2024",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/12004414462",
+    "description": "Mit pfützenpiraten David Reischer 🏊‍♂️",
+    "buddies": [
+      "David Reischer"
+    ]
+  },
+  {
+    "date": "Am 28. Juli 2024 um 06:33",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/11999064330",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Juli 2024 um 11:22",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/11992210639",
+    "description": "☀️ 🔥 ☀️",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Juli 2024 um 09:13",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/11991762057",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Juli 2024 um 14:09",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11968872169",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Juli 2024 um 06:37",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/11966770029",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Juli 2024 um 21:15",
+    "activity": "Night Ride",
+    "link": "https://www.strava.com/activities/11963546993",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Juli 2024 um 19:25",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/11963125933",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Juli 2024 um 14:52",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11952167454",
+    "description": "Die ersten 10min vergessen zu drücken",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Juli 2024 um 08:05",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/11949405428",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Juli 2024 um 04:28",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/11931805030",
+    "description": "Viel kopfsache um die Zeit 😴 \n\nKudos an die kaindorf Truppe 💪🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Juli 2024 um 10:14",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/11925669845",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Juli 2024 um 13:01",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11918618153",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Juli 2024 um 06:02",
+    "activity": "Long run",
+    "link": "https://www.strava.com/activities/11916407916",
+    "description": "Earlybird Edition\n\nFlyby mit Karin Winkler",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Juli 2024 um 16:56",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11912071047",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Juli 2024 um 08:46",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/11899795831",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Juli 2024 um 10:44",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/11892189542",
+    "description": "Kreuz und quer im Pensionisten Becken 👴🏼 👵🏽 🫠",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Juli 2024 um 04:31",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/11874241593",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Juli 2024 um 13:01",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11869452311",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "12. Juli 2024",
+    "activity": "Earlybird 🦅",
+    "link": "https://www.strava.com/activities/11867710750",
+    "description": "",
+    "buddies": [
+      "Niklas Strasser",
+      "David Reischer"
+    ]
+  },
+  {
+    "date": "Am 11. Juli 2024 um 10:21",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/11860978686",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "10. Juli 2024",
+    "activity": "Ab durch die Mittagshitze ☀️",
+    "link": "https://www.strava.com/activities/11855244054",
+    "description": "Calippo in der Flasche und der Ride gehört dir ✌🏼",
+    "buddies": [
+      "Niklas Strasser",
+      "David Reischer"
+    ]
+  },
+  {
+    "date": "Am 9. Juli 2024 um 11:06",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/11844700900",
+    "description": "Mit David Reischer",
+    "buddies": []
+  },
+  {
+    "date": "9. Juli 2024",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/11843334080",
+    "description": "Hitze hat langsam zugeschlagen ☀️ \nMit sunnyboy Niklas Strasser",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "7. Juli 2024",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11832143712",
+    "description": "Durchgenässt durchs helenental 🌧️",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 6. Juli 2024 um 07:02",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/11819160597",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Juli 2024 um 16:43",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11815308084",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Juli 2024 um 09:31",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/11812580833",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Juli 2024 um 20:50",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/11809988431",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Juli 2024 um 10:58",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/11796833648",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Juli 2024 um 09:31",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/11796511508",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Juli 2024 um 09:56",
+    "activity": "Grundlage",
+    "link": "https://www.strava.com/activities/11789055279",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "30. Juni 2024",
+    "activity": "Long ride",
+    "link": "https://www.strava.com/activities/11773191471",
+    "description": "Mit den Sundaybois David Reischer Niklas Strasser",
+    "buddies": [
+      "David Reischer",
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "29. Juni 2024",
+    "activity": "Long run",
+    "link": "https://www.strava.com/activities/11769849981",
+    "description": "Mit Turnschuh Niklas Strasser 👟",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 28. Juni 2024 um 18:30",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/11761109314",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Juni 2024 um 21:35",
+    "activity": "Night Ride",
+    "link": "https://www.strava.com/activities/11755080912",
+    "description": "Back in town",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Juni 2024 um 18:26",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/11745813637",
+    "description": "Höhenmeter sammeln 🏔️",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Juni 2024 um 10:59",
+    "activity": "Aschauertal erkunden",
+    "link": "https://www.strava.com/activities/11743303262",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Juni 2024 um 07:23",
+    "activity": "Kitzbühler Horn",
+    "link": "https://www.strava.com/activities/11733834201",
+    "description": "Wenn man schon mal in der Gegend ist 🤓",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Juni 2024 um 12:00",
+    "activity": "Challange Walchsee Run",
+    "link": "https://www.strava.com/activities/11719221795",
+    "description": "Neue PB auf der mitteldistanz mit 4:48:05h",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Juni 2024 um 09:25",
+    "activity": "Challenge Walchsee Bike",
+    "link": "https://www.strava.com/activities/11720705438",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Juni 2024 um 08:46",
+    "activity": "Challenge Walchsee Swim",
+    "link": "https://www.strava.com/activities/11719221419",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Juni 2024 um 12:09",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/11710657097",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Juni 2024 um 17:25",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11705770343",
+    "description": "Streckencheck 1/2",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Juni 2024 um 17:07",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11698228601",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Juni 2024 um 15:22",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/11681210690",
+    "description": "Inklusive kurzer kühlpause an der triesting 🚿 🥵",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Juni 2024 um 14:17",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11681253344",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Juni 2024 um 16:26",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/11666901587",
+    "description": "Koppellauf",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Juni 2024 um 14:14",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11666896787",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Juni 2024 um 17:23",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/11659680081",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "15. Juni 2024",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/11655956082",
+    "description": "Strong Company heut mit Richard F.",
+    "buddies": [
+      "Richard F."
+    ]
+  },
+  {
+    "date": "Am 14. Juni 2024 um 10:27",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/11649070352",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Juni 2024 um 11:32",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/11641790024",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Juni 2024 um 15:06",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11636345825",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Juni 2024 um 14:55",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11626883457",
+    "description": "5x400m @~1:50",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Juni 2024 um 07:12",
+    "activity": "Long run",
+    "link": "https://www.strava.com/activities/11624488075",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "9. Juni 2024",
+    "activity": "Active Recovery",
+    "link": "https://www.strava.com/activities/11613685640",
+    "description": "Es is nie zu spät um Lena Novacek für den Sprint Triathlon 2025 in Neufeld vorzubereiten - heute Abbruch wegen Platzregen 🌧️\n\nInkl KOM Versuch 🤓",
+    "buddies": [
+      "Lena Novacek"
+    ]
+  },
+  {
+    "date": "Am 9. Juni 2024 um 10:39",
+    "activity": "Neufeld Triathlon laufen",
+    "link": "https://www.strava.com/activities/11609598203",
+    "description": "Zu schnell angelaufen 🤓\nGut gepaced aber zum Schluss hat die Hitze gewonnen ☀️ happy mit dem Ergebnis 💪🏼\n\nGesamt 43. mit einer Zeit von 2:23:48",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Juni 2024 um 09:31",
+    "activity": "Neufeld Triathlon radfahren",
+    "link": "https://www.strava.com/activities/11609598093",
+    "description": "Gleich gute Beine gefunden und konnte gut drücken. Am Anfang stand primär im Fokus meine HF zu kontrollieren. Danach an einer nassen Strecke solide Werte geschafft. \nNP 249 Watt und 238 Watt avg",
+    "buddies": []
+  },
+  {
+    "date": "9. Juni 2024",
+    "activity": "Neufeld Triathlon schwimmen",
+    "link": "https://www.strava.com/activities/11609598010",
+    "description": "Zu spät gedrückt, ziemliche schlacht im Wasser aber nach der ersten Boje eine gute pace gefunden",
+    "buddies": [
+      "Gotti Kellner"
+    ]
+  },
+  {
+    "date": "Am 8. Juni 2024 um 13:55",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11602883424",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Juni 2024 um 13:10",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11595152240",
+    "description": "@Südstadt",
+    "buddies": []
+  },
+  {
+    "date": "6. Juni 2024",
+    "activity": "Streckencheck ✅",
+    "link": "https://www.strava.com/activities/11585897816",
+    "description": "Mit Zweirad Maschine David Reischer 🔥\nInklusive graveleinlage an der original Strecke 🤦🏽‍♂️",
+    "buddies": [
+      "David Reischer"
+    ]
+  },
+  {
+    "date": "Am 5. Juni 2024 um 16:44",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/11580440043",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Juni 2024 um 15:22",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11580376178",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Juni 2024 um 15:18",
+    "activity": "Ausschwimmen",
+    "link": "https://www.strava.com/activities/11571208427",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Juni 2024 um 14:51",
+    "activity": "Neufeld prep",
+    "link": "https://www.strava.com/activities/11571207601",
+    "description": "Wiedermal der schnellste im Becken 🔥",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Juni 2024 um 14:38",
+    "activity": "Einschwimmen",
+    "link": "https://www.strava.com/activities/11571207304",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Juni 2024 um 18:27",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/11557855690",
+    "description": "2km auf 4:00\n2km auf 4:30",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Juni 2024 um 16:40",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11557357783",
+    "description": "1h drücken 🔥 leider nicht ganz auf 250watt gekommen aber die Form passt 💪🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Juni 2024 um 17:28",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11549168370",
+    "description": "Heut wieder mit Aquaman David Reischer 🧜🏽‍♂️",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Juni 2024 um 15:03",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/11547966441",
+    "description": "Long effort Session",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Mai 2024 um 17:09",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/11533929860",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Mai 2024 um 17:23",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/11525796025",
+    "description": "5x1k @4:05",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Mai 2024 um 11:41",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/11515422964",
+    "description": "MS: 15x100 @~1:40",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Mai 2024 um 18:47",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/11510807351",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Mai 2024 um 17:30",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11511000066",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Mai 2024 um 09:12",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/11484381268",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "23. Mai 2024",
+    "activity": "Helenental Klassiker",
+    "link": "https://www.strava.com/activities/11480348077",
+    "description": "Gemütlicher Roller mit Muskelmann Stefan und abschließend verdientem Eisbecher 🍦",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 19. Mai 2024 um 19:01",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/11449955498",
+    "description": "5km zügig",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Mai 2024 um 16:48",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11449453987",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Mai 2024 um 19:07",
+    "activity": "Ausschwimmen",
+    "link": "https://www.strava.com/activities/11441078612",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Mai 2024 um 18:32",
+    "activity": "Mainset: 70.3 Distanz",
+    "link": "https://www.strava.com/activities/11441180021",
+    "description": "Heut mit der Seeschlange David Reischer im neuen neo 💪🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Mai 2024 um 18:21",
+    "activity": "Einschwimmen",
+    "link": "https://www.strava.com/activities/11441178859",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Mai 2024 um 13:07",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11430966441",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "16. Mai 2024",
+    "activity": "Gemütlicher Tulln Roller",
+    "link": "https://www.strava.com/activities/11425542128",
+    "description": "Easy heut mit Niklas Strasser",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 15. Mai 2024 um 19:02",
+    "activity": "Tempo run",
+    "link": "https://www.strava.com/activities/11418502138",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Mai 2024 um 18:13",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/11409623913",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Mai 2024 um 15:49",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/11408733589",
+    "description": "5km zügig",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Mai 2024 um 14:27",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11408323202",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Mai 2024 um 10:57",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/11399041820",
+    "description": "Saisonkarte ✅",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Mai 2024 um 06:11",
+    "activity": "Long run",
+    "link": "https://www.strava.com/activities/11390108497",
+    "description": "Blumen pflücken für die Mama 🌺",
+    "buddies": []
+  },
+  {
+    "date": "11. Mai 2024",
+    "activity": "Wienerwaldpartie",
+    "link": "https://www.strava.com/activities/11383329075",
+    "description": "N🍦 Begleitung von Christoph Winkler",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 10. Mai 2024 um 17:17",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11378587109",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Mai 2024 um 11:21",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/11367625470",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Mai 2024 um 07:57",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/11367631040",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Mai 2024 um 11:22",
+    "activity": "Ausschwimmen",
+    "link": "https://www.strava.com/activities/11359413881",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Mai 2024 um 10:46",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/11359413579",
+    "description": "Mit neo 70.3 Distanz auf Zug",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Mai 2024 um 10:35",
+    "activity": "Einschwimmen",
+    "link": "https://www.strava.com/activities/11359412996",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Mai 2024 um 11:43",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/11351976649",
+    "description": "4x 20min Pyramide",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Mai 2024 um 09:58",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/11335589999",
+    "description": "Ersten 2km auf 4:05 angelaufen, den Rest auf Rhythmus suche und bei ca 4:40 gefunden",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Mai 2024 um 08:20",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/11335637450",
+    "description": "5x 5‘ 260W",
+    "buddies": []
+  },
+  {
+    "date": "4. Mai 2024",
+    "activity": "Challenge St Pölten streckencheck",
+    "link": "https://www.strava.com/activities/11328649942",
+    "description": "Heut mit Aero-niki unterwegs 🔥",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 3. Mai 2024 um 13:02",
+    "activity": "Afternoon Swim @südstadt",
+    "link": "https://www.strava.com/activities/11321913324",
+    "description": "Wär eine schöne Pace aber Garmin erzählt Lügengeschichten 🏊‍♂️",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Mai 2024 um 16:33",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11315795299",
+    "description": "Erster openwater Dive dieses Jahr mit Gotti Kellner 💪🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Mai 2024 um 07:52",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/11313323399",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Mai 2024 um 10:00",
+    "activity": "Brückenlauf leobersdorf 🏃🏽‍♂️",
+    "link": "https://www.strava.com/activities/11304920400",
+    "description": "PB 10km 🔥\n39:04 / 3:54\n4.AK",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. April 2024 um 09:18",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/11296945479",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. April 2024 um 10:59",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/11281506391",
+    "description": "5km Tempo + Auslaufen",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. April 2024 um 08:24",
+    "activity": "AERO & WATTS",
+    "link": "https://www.strava.com/activities/11281510491",
+    "description": "4x10min racepace Intervalle",
+    "buddies": []
+  },
+  {
+    "date": "26. April 2024",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/11268721425",
+    "description": "",
+    "buddies": [
+      "Stefan Krajnik",
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 25. April 2024 um 13:16",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11260790547",
+    "description": "25x100 @1:45-150",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. April 2024 um 07:56",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/11251653301",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. April 2024 um 17:42",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11247367287",
+    "description": "Heute unterwegs mit Gotti Kellner\nMS: 100-200-300-400-400-300-200-100",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. April 2024 um 11:12",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/11245062798",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "22. April 2024",
+    "activity": "Active Recovery",
+    "link": "https://www.strava.com/activities/11239086000",
+    "description": "Beine ausschütteln nach gestern mit Lena Novacek",
+    "buddies": [
+      "Lena Novacek"
+    ]
+  },
+  {
+    "date": "Am 21. April 2024 um 09:01",
+    "activity": "Vienna City Marathon again 🔥🏃🏽‍♂️",
+    "link": "https://www.strava.com/activities/11229237394",
+    "description": "PB day, optimales Wetter und top Bedingungen heute ☀️",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. April 2024 um 17:43",
+    "activity": "Race Mode is on ✅",
+    "link": "https://www.strava.com/activities/11225277288",
+    "description": "Bereit für morgen 🔥",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. April 2024 um 10:48",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/11208695715",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. April 2024 um 07:47",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/11200326038",
+    "description": "Antesten",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. April 2024 um 19:40",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/11197160572",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. April 2024 um 17:57",
+    "activity": "Zwift - 2:00 Rad in Watopia",
+    "link": "https://www.strava.com/activities/11189299040",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. April 2024 um 17:44",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/11173955450",
+    "description": "Intervalle + 4x500m",
+    "buddies": []
+  },
+  {
+    "date": "13. April 2024",
+    "activity": "Long run",
+    "link": "https://www.strava.com/activities/11169080820",
+    "description": "Min Sunny Boy Niklas Strasser",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 12. April 2024 um 07:11",
+    "activity": "Zwift - 1:00 Walze in Watopia",
+    "link": "https://www.strava.com/activities/11162032113",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. April 2024 um 15:55",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/11157707168",
+    "description": "3x3km hm race pace",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. April 2024 um 16:16",
+    "activity": "Post/Pre nightshift",
+    "link": "https://www.strava.com/activities/11150056825",
+    "description": "Hf goes 📈",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. April 2024 um 08:51",
+    "activity": "No data tuesday",
+    "link": "https://www.strava.com/activities/11140045699",
+    "description": "Heut mal nur nach Gefühl leider kürzer unterwegs. Vielleicht waren die wattpedale noch im reisemodus 😴🥸",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. April 2024 um 11:37",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/11125852249",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "5. April 2024",
+    "activity": "Mallorca day 6 - letzte runde ☀️",
+    "link": "https://www.strava.com/activities/11110867940",
+    "description": "Ausrollen",
+    "buddies": [
+      "Niklas Strasser",
+      "Julian Wenzel",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 5. April 2024 um 08:09",
+    "activity": "Mallorca day 6 - Morning run",
+    "link": "https://www.strava.com/activities/11109777175",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. April 2024 um 13:43",
+    "activity": "Mallorca day 5 - locker rollen",
+    "link": "https://www.strava.com/activities/11105077510",
+    "description": "Heut mal ohne den sunny boys",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. April 2024 um 11:10",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/11103731045",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "3. April 2024",
+    "activity": "Mallorca day 4 - Bergetappe 🏔️",
+    "link": "https://www.strava.com/activities/11099137455",
+    "description": "Heut mal mit den zone 2 Boys Christoph Winkler Niklas Strasser auf erkundungstour ☀️",
+    "buddies": [
+      "Niklas Strasser",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "2. April 2024",
+    "activity": "Recovery day 🚴🏽‍♂️- Mallorca day3",
+    "link": "https://www.strava.com/activities/11090669049",
+    "description": "Strand Cruiser",
+    "buddies": [
+      "Stefan Krajnik",
+      "Niklas Strasser",
+      "Christoph Winkler",
+      "Julian Wenzel"
+    ]
+  },
+  {
+    "date": "2. April 2024",
+    "activity": "Recovery day 🏃🏽‍♂️ Mallorca day 3",
+    "link": "https://www.strava.com/activities/11088655620",
+    "description": "Locker gelaufen mit Niklas Strasser",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "1. April 2024",
+    "activity": "Gekoppelt",
+    "link": "https://www.strava.com/activities/11084988854",
+    "description": "2km drücken dann ausgelaufen 🏃🏽‍♂️ ☀️\n+bikesupport Stefan Krajnik",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "1. April 2024",
+    "activity": "Mallorca day 2: Sóller Exkursion",
+    "link": "https://www.strava.com/activities/11084576331",
+    "description": "Schöner Rückenwind zum Schluss ☀️",
+    "buddies": [
+      "Niklas Strasser",
+      "Christoph Winkler",
+      "Julian Wenzel"
+    ]
+  },
+  {
+    "date": "31. März 2024",
+    "activity": "Einrollen 💨🌧️☀️",
+    "link": "https://www.strava.com/activities/11076541960",
+    "description": "Malle sightseeing - cap formentor 👀",
+    "buddies": [
+      "Stefan Krajnik",
+      "Niklas Strasser",
+      "Christoph Winkler",
+      "Julian Wenzel"
+    ]
+  },
+  {
+    "date": "Am 30. März 2024 um 08:30",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/11066585540",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. März 2024 um 07:52",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/11059710106",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. März 2024 um 16:17",
+    "activity": "Auf der Suche nach dem Goldtopf 🌈",
+    "link": "https://www.strava.com/activities/11056568143",
+    "description": "Zum Schluss sehr windig und regnerisch 🌧️ 💨",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. März 2024 um 14:09",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/11048671906",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. März 2024 um 11:55",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/11048047703",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. März 2024 um 20:14",
+    "activity": "Zwift - 2:00 Rad in Watopia",
+    "link": "https://www.strava.com/activities/11044603967",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. März 2024 um 19:43",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/11037033632",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. März 2024 um 09:41",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/11026383595",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "23. März 2024",
+    "activity": "Fast schon wie auf malle ☀️",
+    "link": "https://www.strava.com/activities/11020550705",
+    "description": "Anstiege ganz gemütlich gefahren 🚴🏽‍♂️ 🥸",
+    "buddies": [
+      "Niklas Strasser",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 22. März 2024 um 14:43",
+    "activity": "Wienerwaldrunde 🌲",
+    "link": "https://www.strava.com/activities/11015730033",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. März 2024 um 10:05",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/11013231465",
+    "description": "Technik + 3x200@1:40 im Schatten",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. März 2024 um 20:11",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/11010398292",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. März 2024 um 20:12",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/11003235393",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. März 2024 um 12:18",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/10992355132",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. März 2024 um 11:08",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/10992354834",
+    "description": "Leistungsdiagnostik 🏃",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. März 2024 um 18:25",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/10987294791",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. März 2024 um 13:49",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10979292819",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. März 2024 um 10:05",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10970357993",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. März 2024 um 04:29",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/10962366752",
+    "description": "5am Club, early 🦅",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. März 2024 um 19:21",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/10959894727",
+    "description": "Erster richtiger koppler das Jahr 👌🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. März 2024 um 17:40",
+    "activity": "Zwift - 1:30 Walze in Watopia",
+    "link": "https://www.strava.com/activities/10959602747",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. März 2024 um 09:41",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/10949070773",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. März 2024 um 16:41",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/10944206141",
+    "description": "Treadmill: 45min @5:40",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. März 2024 um 16:36",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10937164521",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. März 2024 um 21:00",
+    "activity": "Night Run",
+    "link": "https://www.strava.com/activities/10933041273",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. März 2024 um 20:04",
+    "activity": "Zwift - 130 in Watopia",
+    "link": "https://www.strava.com/activities/10925484913",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. März 2024 um 15:40",
+    "activity": "Zwift - 1:30 Indoor! in Watopia",
+    "link": "https://www.strava.com/activities/10917121229",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. März 2024 um 16:05",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10910436073",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. März 2024 um 13:17",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/10909442694",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. März 2024 um 17:36",
+    "activity": "Afternoon Weight Training",
+    "link": "https://www.strava.com/activities/10904031981",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. März 2024 um 10:38",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10902410788",
+    "description": "Zum Schluss sind schon die Haribo ausgegangen 🥲",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. März 2024 um 07:51",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/10893499356",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. März 2024 um 20:20",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/10884227842",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "3. März 2024",
+    "activity": "Long ride 🚴🏽‍♂️ ☀️",
+    "link": "https://www.strava.com/activities/10881505370",
+    "description": "Long Ride leider zu kurz gekommen und der rollsplit hat in der Abfahrt leider gewonnen.\nTrotzdem eine lässige Runde mit den Bois Stefan Krajnik Gotti Kellner",
+    "buddies": [
+      "Stefan Krajnik",
+      "Gotti Kellner"
+    ]
+  },
+  {
+    "date": "Am 2. März 2024 um 15:51",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/10875113822",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. März 2024 um 15:56",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/10868120579",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. März 2024 um 14:28",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10867758865",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Februar 2024 um 17:07",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/10862246956",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Februar 2024 um 09:33",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10860131653",
+    "description": "6x20er",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Februar 2024 um 21:02",
+    "activity": "Night Run",
+    "link": "https://www.strava.com/activities/10857289930",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Februar 2024 um 20:05",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10856936151",
+    "description": "Indoor warmup",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Februar 2024 um 16:39",
+    "activity": "Afternoon Weight Training",
+    "link": "https://www.strava.com/activities/10841453924",
+    "description": "Mit Muskelmann Stefan Krajnik",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Februar 2024 um 10:27",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10840054935",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Februar 2024 um 18:51",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10836643620",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Februar 2024 um 15:24",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10835302853",
+    "description": "Restliche Einheit noch auf der Rolle fertig gefahren.",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Februar 2024 um 14:12",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/10834376542",
+    "description": "So viele Vorteile eine elektrische Schaltung auch hat - wenn die Batterie leer ist geht nix mehr 👎🏼",
+    "buddies": []
+  },
+  {
+    "date": "25. Februar 2024",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/10833017921",
+    "description": "Mit nikiboi",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 23. Februar 2024 um 11:10",
+    "activity": "Zwift - wenn es sich zusätzlich noch ausgeht, dann 1:00 Walze oder outdoor 1:30 in Watopia",
+    "link": "https://www.strava.com/activities/10819366994",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Februar 2024 um 05:19",
+    "activity": "Zwift - 1:00 Walze easy! in Watopia",
+    "link": "https://www.strava.com/activities/10805179707",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Februar 2024 um 08:34",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10799033617",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Februar 2024 um 14:43",
+    "activity": "Zwift - 1:30 Indoor in Watopia",
+    "link": "https://www.strava.com/activities/10793820283",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Februar 2024 um 10:20",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/10792177265",
+    "description": "Wieder mal langsam rantasten 🤞🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Februar 2024 um 11:06",
+    "activity": "Lunch Swim @Südstadt",
+    "link": "https://www.strava.com/activities/10772227949",
+    "description": "Garmin hat heut wohl den leichten Hang zum übertreiben 📈\nCa 2000m",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Februar 2024 um 16:52",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/10767670507",
+    "description": "🏎️ 💨",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Februar 2024 um 10:34",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10765900178",
+    "description": "Endlich wieder frische Luft schnuppern 👌🏼☀️",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Februar 2024 um 22:42",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10763158708",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Februar 2024 um 20:40",
+    "activity": "Zwift - 1:15 Rad in Watopia",
+    "link": "https://www.strava.com/activities/10756439084",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Februar 2024 um 20:39",
+    "activity": "Zwift - 2:00-2:30 Rad in Watopia",
+    "link": "https://www.strava.com/activities/10743792158",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Februar 2024 um 16:45",
+    "activity": "Pre Shift swim",
+    "link": "https://www.strava.com/activities/10735243130",
+    "description": "Mit arielle Sarah Atzler und überraschungsgast Gotti Kellner",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Februar 2024 um 20:47",
+    "activity": "Zwift - 1:00 Walze, easy in Watopia",
+    "link": "https://www.strava.com/activities/10729464435",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Februar 2024 um 19:47",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10723299704",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Februar 2024 um 15:36",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/10715788947",
+    "description": "Into the dark 🌚",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Februar 2024 um 09:18",
+    "activity": "Zwift - 1:15 Rad in Watopia",
+    "link": "https://www.strava.com/activities/10706266186",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Februar 2024 um 07:15",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/10705675961",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Februar 2024 um 13:51",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/10694752173",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Februar 2024 um 07:20",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10692256772",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Februar 2024 um 19:25",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10689938371",
+    "description": "MS: 6x400",
+    "buddies": []
+  },
+  {
+    "date": "2. Februar 2024",
+    "activity": "Lenas neuen Drahtesel einweihen 🚴‍♀️ ☀️ 💨",
+    "link": "https://www.strava.com/activities/10679643079",
+    "description": "",
+    "buddies": [
+      "Lena Novacek"
+    ]
+  },
+  {
+    "date": "Am 2. Februar 2024 um 07:40",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/10678960284",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Februar 2024 um 18:33",
+    "activity": "Evening HIIT",
+    "link": "https://www.strava.com/activities/10676237284",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Februar 2024 um 11:02",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/10673315012",
+    "description": "@Südstadt",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Januar 2024 um 16:47",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10668515908",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Januar 2024 um 09:38",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10665939272",
+    "description": "Laktattest letzte Stufe + ausrollen",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Januar 2024 um 09:13",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10665873270",
+    "description": "Laktattest",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Januar 2024 um 20:29",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/10663052522",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Januar 2024 um 20:28",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/10649897910",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Januar 2024 um 10:05",
+    "activity": "Zwift - 1:30 Walze in Watopia",
+    "link": "https://www.strava.com/activities/10645262674",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "27. Januar 2024",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/10639172532",
+    "description": "💨 💨 💨 mit Niklas Strasser",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 27. Januar 2024 um 09:51",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/10637980872",
+    "description": "Mainset: 6x400m",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Januar 2024 um 10:24",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10632236416",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Januar 2024 um 20:43",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/10622637213",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Januar 2024 um 20:07",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10622386036",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Januar 2024 um 17:11",
+    "activity": "Heut mal mit den pandabären 🧜‍♀️",
+    "link": "https://www.strava.com/activities/10614770513",
+    "description": "Mainset: 20x100 (1:55,1:50,1:45)",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Januar 2024 um 09:36",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10612580666",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Januar 2024 um 09:54",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10599471056",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Januar 2024 um 08:35",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/10598850744",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Januar 2024 um 19:34",
+    "activity": "Post Shift",
+    "link": "https://www.strava.com/activities/10596839435",
+    "description": "Leider wieder zu schnell für Garmin ⚡️ (eigentlich 2,5k)",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Januar 2024 um 10:01",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10587341619",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Januar 2024 um 18:34",
+    "activity": "Evening HIIT",
+    "link": "https://www.strava.com/activities/10584017748",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Januar 2024 um 16:01",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/10583120319",
+    "description": "MS 20x100m @~1:50",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Januar 2024 um 20:34",
+    "activity": "Post Shift run",
+    "link": "https://www.strava.com/activities/10578131163",
+    "description": "Seit einer gefühlten Ewigkeit wieder outdoor 🫶🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Januar 2024 um 10:50",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10568604201",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Januar 2024 um 15:39",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/10506116591",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Januar 2024 um 06:26",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10502593070",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Januar 2024 um 06:35",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10496758978",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Januar 2024 um 18:33",
+    "activity": "Evening HIIT",
+    "link": "https://www.strava.com/activities/10494163020",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Januar 2024 um 12:11",
+    "activity": "Lunch Swim @südstadt",
+    "link": "https://www.strava.com/activities/10491707186",
+    "description": "Garmin hat leider nicht alles aufgezeichnet",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Januar 2024 um 07:41",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10477653944",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Dezember 2023 um 14:28",
+    "activity": "Zwift - Ramp Test in Watopia",
+    "link": "https://www.strava.com/activities/10468266853",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "29. Dezember 2023",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10456147068",
+    "description": "So kann man aus einer Vormittagsrunde auch an Tagesausflug machen - zwei Patschen bei Stefan Krajnik aber wir haben’s durchgezogen 💪🏼",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 27. Dezember 2023 um 14:30",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/10445673293",
+    "description": "Einmal helenental bei ☀️schein\nStefan Krajnik ist 15min mitgefahren bis der Reifen aufgegeben hat 🥸",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Dezember 2023 um 11:18",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/10433883348",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Dezember 2023 um 19:40",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10426495449",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Dezember 2023 um 06:53",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10417886477",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Dezember 2023 um 17:44",
+    "activity": "Zwift - SIT - Sprint Training (8x10s)  in Watopia",
+    "link": "https://www.strava.com/activities/10411062389",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Dezember 2023 um 10:41",
+    "activity": "Zwift - LIT - 1h Pyramide in Watopia",
+    "link": "https://www.strava.com/activities/10403771824",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Dezember 2023 um 19:47",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10401160310",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Dezember 2023 um 18:15",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/10396281973",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Dezember 2023 um 15:45",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/10389865997",
+    "description": "Heut mal mit Aquaman Michael Tretthann",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Dezember 2023 um 11:43",
+    "activity": "Zwift - SST (Short) in Watopia",
+    "link": "https://www.strava.com/activities/10388297664",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Dezember 2023 um 16:06",
+    "activity": "SIT - Sprint Training (8x10\")",
+    "link": "https://www.strava.com/activities/10384850966",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "14. Dezember 2023",
+    "activity": "Zwift - Stefan Krajnik's Meetup on Beach Island Loop in Watopia",
+    "link": "https://www.strava.com/activities/10380459710",
+    "description": "Abendliches meeting mit Stefan Krajnik inklusive schlusssprint",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 13. Dezember 2023 um 09:10",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/10372736300",
+    "description": "Lauf ABC + 3km Tempo",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Dezember 2023 um 17:11",
+    "activity": "Pre Night Shift swim",
+    "link": "https://www.strava.com/activities/10369493561",
+    "description": "Heut mit Meerjungfrau Lisa Koch 🧜‍♀️ auf einer Bahn 💃🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Dezember 2023 um 06:35",
+    "activity": "Zwift - HIT - IE 3x6x40/20  in Watopia",
+    "link": "https://www.strava.com/activities/10366947823",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Dezember 2023 um 11:53",
+    "activity": "Long run",
+    "link": "https://www.strava.com/activities/10352599033",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Dezember 2023 um 15:23",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10348622839",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Dezember 2023 um 12:08",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/10342540444",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Dezember 2023 um 19:39",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10339698978",
+    "description": "Dank Garmin 500m nicht mitgezählt",
+    "buddies": []
+  },
+  {
+    "date": "5. Dezember 2023",
+    "activity": "Zwift - Stefan Krajnik's Meetup on 2018 UCI Worlds Short Lap in Innsbruck",
+    "link": "https://www.strava.com/activities/10333303665",
+    "description": "",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 5. Dezember 2023 um 15:44",
+    "activity": "Hill reps",
+    "link": "https://www.strava.com/activities/10332629719",
+    "description": "3x5 30sec",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Dezember 2023 um 07:20",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10330655880",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Dezember 2023 um 19:40",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10328522124",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Dezember 2023 um 14:28",
+    "activity": "Zwift - Ramp Test in Watopia",
+    "link": "https://www.strava.com/activities/10468266853",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "29. Dezember 2023",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10456147068",
+    "description": "So kann man aus einer Vormittagsrunde auch an Tagesausflug machen - zwei Patschen bei Stefan Krajnik aber wir haben’s durchgezogen 💪🏼",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 27. Dezember 2023 um 14:30",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/10445673293",
+    "description": "Einmal helenental bei ☀️schein\nStefan Krajnik ist 15min mitgefahren bis der Reifen aufgegeben hat 🥸",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Dezember 2023 um 11:18",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/10433883348",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Dezember 2023 um 19:40",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10426495449",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Dezember 2023 um 06:53",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10417886477",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Dezember 2023 um 17:44",
+    "activity": "Zwift - SIT - Sprint Training (8x10s)  in Watopia",
+    "link": "https://www.strava.com/activities/10411062389",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Dezember 2023 um 10:41",
+    "activity": "Zwift - LIT - 1h Pyramide in Watopia",
+    "link": "https://www.strava.com/activities/10403771824",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Dezember 2023 um 19:47",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10401160310",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Dezember 2023 um 18:15",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/10396281973",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Dezember 2023 um 15:45",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/10389865997",
+    "description": "Heut mal mit Aquaman Michael Tretthann",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Dezember 2023 um 11:43",
+    "activity": "Zwift - SST (Short) in Watopia",
+    "link": "https://www.strava.com/activities/10388297664",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Dezember 2023 um 16:06",
+    "activity": "SIT - Sprint Training (8x10\")",
+    "link": "https://www.strava.com/activities/10384850966",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "14. Dezember 2023",
+    "activity": "Zwift - Stefan Krajnik's Meetup on Beach Island Loop in Watopia",
+    "link": "https://www.strava.com/activities/10380459710",
+    "description": "Abendliches meeting mit Stefan Krajnik inklusive schlusssprint",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 13. Dezember 2023 um 09:10",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/10372736300",
+    "description": "Lauf ABC + 3km Tempo",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Dezember 2023 um 17:11",
+    "activity": "Pre Night Shift swim",
+    "link": "https://www.strava.com/activities/10369493561",
+    "description": "Heut mit Meerjungfrau Lisa Koch 🧜‍♀️ auf einer Bahn 💃🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Dezember 2023 um 06:35",
+    "activity": "Zwift - HIT - IE 3x6x40/20  in Watopia",
+    "link": "https://www.strava.com/activities/10366947823",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Dezember 2023 um 11:53",
+    "activity": "Long run",
+    "link": "https://www.strava.com/activities/10352599033",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Dezember 2023 um 15:23",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10348622839",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Dezember 2023 um 12:08",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/10342540444",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Dezember 2023 um 19:39",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10339698978",
+    "description": "Dank Garmin 500m nicht mitgezählt",
+    "buddies": []
+  },
+  {
+    "date": "5. Dezember 2023",
+    "activity": "Zwift - Stefan Krajnik's Meetup on 2018 UCI Worlds Short Lap in Innsbruck",
+    "link": "https://www.strava.com/activities/10333303665",
+    "description": "",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 5. Dezember 2023 um 15:44",
+    "activity": "Hill reps",
+    "link": "https://www.strava.com/activities/10332629719",
+    "description": "3x5 30sec",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Dezember 2023 um 07:20",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10330655880",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Dezember 2023 um 19:40",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10328522124",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "29. November 2023",
+    "activity": "Saison Auftakt am unterberg ⛷️",
+    "link": "https://www.strava.com/activities/10302360638",
+    "description": "",
+    "buddies": [
+      "Michael Tretthann"
+    ]
+  },
+  {
+    "date": "Am 28. November 2023 um 19:38",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10297127734",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. November 2023 um 20:38",
+    "activity": "Zwift - LIT - 1h Pyramide in Watopia",
+    "link": "https://www.strava.com/activities/10291746662",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. November 2023 um 16:40",
+    "activity": "Sunday Long run",
+    "link": "https://www.strava.com/activities/10286136271",
+    "description": "+15min Tempo",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. November 2023 um 17:15",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/10274527857",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. November 2023 um 11:06",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/10267280603",
+    "description": "Minutenläufe 2x 1-2-3",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. November 2023 um 07:23",
+    "activity": "Zwift - Neues Workout in Watopia",
+    "link": "https://www.strava.com/activities/10266679975",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. November 2023 um 16:03",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/10251721514",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. November 2023 um 11:05",
+    "activity": "Zwift - HIIT 3x(6x30/30s) in Innsbruck",
+    "link": "https://www.strava.com/activities/10250369558",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. November 2023 um 15:23",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/10246798173",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. November 2023 um 08:11",
+    "activity": "Zwift - MIT - KrA 3x10 min in Watopia",
+    "link": "https://www.strava.com/activities/10237904065",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. November 2023 um 07:37",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/10232471754",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. November 2023 um 17:35",
+    "activity": "Zwift - SST (Short) in Watopia",
+    "link": "https://www.strava.com/activities/10229622212",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. November 2023 um 08:25",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/10227279867",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. November 2023 um 19:50",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10212840479",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. November 2023 um 13:15",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/10206118255",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. November 2023 um 09:21",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/10203938840",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. November 2023 um 10:03",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/10192986481",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. November 2023 um 10:09",
+    "activity": "Zwift - 40/20's #2 in Watopia",
+    "link": "https://www.strava.com/activities/10187370803",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. November 2023 um 19:50",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10184646973",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. November 2023 um 10:56",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10176211303",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. November 2023 um 19:48",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10172375084",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. November 2023 um 10:48",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10169578084",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. November 2023 um 18:41",
+    "activity": "Zwift - MIT - KrA 3x10 min in Watopia",
+    "link": "https://www.strava.com/activities/10167170808",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. November 2023 um 15:22",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/10159261406",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. November 2023 um 11:02",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/10152340797",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. November 2023 um 15:43",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/10148240122",
+    "description": "Die Runde ging auch schon mal leichter 🥸",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. November 2023 um 13:34",
+    "activity": "Slightly increasing the Volume",
+    "link": "https://www.strava.com/activities/10143123505",
+    "description": "Anstiege gedrückt, sonst easy\n\nKlassische „heut fahr ich nur eine stunde“ Ausfahrt 🍂",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Oktober 2023 um 12:00",
+    "activity": "Zwift - Zwift Academy 2019 Semi-Finals Workout #1: Anaerobic Capacity Into VO2 in New York",
+    "link": "https://www.strava.com/activities/10135598892",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Oktober 2023 um 16:32",
+    "activity": "Schwimmen am Nachmittag",
+    "link": "https://www.strava.com/activities/10131273552",
+    "description": "Heut mal mit Lisa Koch aka arielle 🧜‍♀️",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Oktober 2023 um 08:15",
+    "activity": "Zwift - Neues Workout in France",
+    "link": "https://www.strava.com/activities/10129093376",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Oktober 2023 um 07:41",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/10122789668",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "28. Oktober 2023",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/10119074607",
+    "description": "Klassisches Ende Oktober Wetter ☀️",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 27. Oktober 2023 um 17:28",
+    "activity": "Zwift - Foundation in Watopia",
+    "link": "https://www.strava.com/activities/10114030076",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Oktober 2023 um 17:27",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/10102887951",
+    "description": "Pre Nightshift",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Oktober 2023 um 20:47",
+    "activity": "Zwift - Sevens in Watopia",
+    "link": "https://www.strava.com/activities/10091975410",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Oktober 2023 um 14:03",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/10078556844",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Oktober 2023 um 08:49",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10059701811",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "15. Oktober 2023",
+    "activity": "Sunday Ride mit der Gang",
+    "link": "https://www.strava.com/activities/10043110473",
+    "description": "",
+    "buddies": [
+      "David Reischer",
+      "Stefan Krajnik",
+      "Lena Novacek"
+    ]
+  },
+  {
+    "date": "Am 14. Oktober 2023 um 11:58",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/10035939872",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Oktober 2023 um 09:57",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/10035125344",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "13. Oktober 2023",
+    "activity": "Back to Basics",
+    "link": "https://www.strava.com/activities/10029749465",
+    "description": "",
+    "buddies": [
+      "Stefan Krajnik",
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 11. Oktober 2023 um 12:14",
+    "activity": "First Ride with the New beauty 🔥",
+    "link": "https://www.strava.com/activities/10018231173",
+    "description": "HF irgendwo",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Oktober 2023 um 19:40",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/10014697278",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Oktober 2023 um 06:50",
+    "activity": "Kickoff für die Wintervorbereitung 🔥",
+    "link": "https://www.strava.com/activities/10004227600",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Oktober 2023 um 09:27",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9979884487",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. September 2023 um 15:24",
+    "activity": "Afternoon Stand Up Paddling",
+    "link": "https://www.strava.com/activities/9937431692",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. September 2023 um 08:26",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9922089526",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. September 2023 um 07:12",
+    "activity": "Wienerwaldrunde 🌳",
+    "link": "https://www.strava.com/activities/9852659267",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "12. September 2023",
+    "activity": "Vom Volleyball heim 🏐",
+    "link": "https://www.strava.com/activities/9836301037",
+    "description": "Mit Hybrid athlete Stefan Krajnik",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "12. September 2023",
+    "activity": "Zum Volleyball 🏐",
+    "link": "https://www.strava.com/activities/9835010991",
+    "description": "",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "9. September 2023",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/9813852585",
+    "description": "Einmal hohe Wand 🔥 👌🏼",
+    "buddies": [
+      "David Reischer",
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "8. September 2023",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/9808795996",
+    "description": "Einmal um den Block mit Stefan Krajnik",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 3. September 2023 um 14:53",
+    "activity": "Laufen - Ironman 70.3 Zell am See",
+    "link": "https://www.strava.com/activities/9776756048",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. September 2023 um 12:08",
+    "activity": "Radfahren - Ironman 70.3 Zell am See",
+    "link": "https://www.strava.com/activities/9778209708",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. September 2023 um 11:24",
+    "activity": "Schwimmen - Ironman 70.3 Zell am See",
+    "link": "https://www.strava.com/activities/9776755768",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. September 2023 um 18:14",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/9769944429",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. September 2023 um 12:02",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/9760926719",
+    "description": "Einschwimmen",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. September 2023 um 15:24",
+    "activity": "Afternoon Stand Up Paddling",
+    "link": "https://www.strava.com/activities/9937431692",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. September 2023 um 08:26",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9922089526",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. September 2023 um 07:12",
+    "activity": "Wienerwaldrunde 🌳",
+    "link": "https://www.strava.com/activities/9852659267",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "12. September 2023",
+    "activity": "Vom Volleyball heim 🏐",
+    "link": "https://www.strava.com/activities/9836301037",
+    "description": "Mit Hybrid athlete Stefan Krajnik",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "12. September 2023",
+    "activity": "Zum Volleyball 🏐",
+    "link": "https://www.strava.com/activities/9835010991",
+    "description": "",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "9. September 2023",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/9813852585",
+    "description": "Einmal hohe Wand 🔥 👌🏼",
+    "buddies": [
+      "David Reischer",
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "8. September 2023",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/9808795996",
+    "description": "Einmal um den Block mit Stefan Krajnik",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 3. September 2023 um 14:53",
+    "activity": "Laufen - Ironman 70.3 Zell am See",
+    "link": "https://www.strava.com/activities/9776756048",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. September 2023 um 12:08",
+    "activity": "Radfahren - Ironman 70.3 Zell am See",
+    "link": "https://www.strava.com/activities/9778209708",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. September 2023 um 11:24",
+    "activity": "Schwimmen - Ironman 70.3 Zell am See",
+    "link": "https://www.strava.com/activities/9776755768",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. September 2023 um 18:14",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/9769944429",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. September 2023 um 12:02",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/9760926719",
+    "description": "Einschwimmen",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Juli 2023 um 17:09",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/9556666605",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Juli 2023 um 11:58",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/9549157019",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Juli 2023 um 20:42",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/9527538844",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Juli 2023 um 13:14",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/9524717130",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Juli 2023 um 22:06",
+    "activity": "Night Ride",
+    "link": "https://www.strava.com/activities/9521365575",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Juli 2023 um 17:32",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/9519744769",
+    "description": "3x4x1min",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Juli 2023 um 10:10",
+    "activity": "Kaindorf Ultra Rad Challenge 24h #4",
+    "link": "https://www.strava.com/activities/9498157922",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Juli 2023 um 08:40",
+    "activity": "Kaindorf Ultra Rad Challenge 24h #3",
+    "link": "https://www.strava.com/activities/9497688733",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Juli 2023 um 22:54",
+    "activity": "Kaindorf Ultra Rad Challenge 24h #2",
+    "link": "https://www.strava.com/activities/9496125095",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Juli 2023 um 18:51",
+    "activity": "Kaindorf Ultra Rad Challenge 24h #1",
+    "link": "https://www.strava.com/activities/9495137840",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Juli 2023 um 20:40",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/9490017969",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Juli 2023 um 19:42",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/9482982931",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Juli 2023 um 12:09",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/9473775220",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Juli 2023 um 09:41",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9472894331",
+    "description": "Belastung 3x6",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Juli 2023 um 21:02",
+    "activity": "Night Ride",
+    "link": "https://www.strava.com/activities/9470546155",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Juli 2023 um 17:33",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/9468886290",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Juli 2023 um 10:13",
+    "activity": "Long run",
+    "link": "https://www.strava.com/activities/9460528144",
+    "description": "Inklusive kurzer schwimmpause in der triesting 🔥☀️",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Juli 2023 um 07:54",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/9459793911",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Juli 2023 um 19:31",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/9457523287",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Juli 2023 um 14:35",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/9444011837",
+    "description": "Kraft Ausdauer",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Juli 2023 um 11:27",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/9436097401",
+    "description": "Koppellauf 🥵 🔥 ☀️",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Juli 2023 um 09:53",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/9435896447",
+    "description": "Intervalle",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Juli 2023 um 20:39",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/9433358024",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Juli 2023 um 20:32",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/9420483408",
+    "description": "Koppellauf",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Juli 2023 um 19:21",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/9420342653",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Juli 2023 um 11:03",
+    "activity": "Lunch Mountain Bike Ride",
+    "link": "https://www.strava.com/activities/9418257129",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Juli 2023 um 09:12",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/9416139460",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Juli 2023 um 08:14",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9397623078",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Juli 2023 um 10:40",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/9391912042",
+    "description": "Intervalle 4x4",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Juli 2023 um 20:25",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/9389098097",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Juli 2023 um 19:35",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/9382190636",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Juli 2023 um 10:16",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9372980155",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Juli 2023 um 09:19",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/9372325158",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Juni 2023 um 16:12",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/9363087979",
+    "description": "Intervalle 3x10x40/20 +15min Schwelle",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Juni 2023 um 09:10",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/9355268659",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Juni 2023 um 09:48",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/9344227608",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Juni 2023 um 09:31",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9336465763",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Juni 2023 um 19:41",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/9334537334",
+    "description": "Hohe Wand erkunden",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Juni 2023 um 18:06",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/9326862888",
+    "description": "Schnell angelaufen für 3km und dann langsamer",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Juni 2023 um 15:59",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/9326865736",
+    "description": "3x10x40/20 + 20 min schwelle",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Juni 2023 um 13:44",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/9318892956",
+    "description": "Heute tricky weil sehr wellig 🌊",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Juni 2023 um 16:47",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/9314472930",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Juni 2023 um 06:55",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9311708160",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Juni 2023 um 06:15",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9298724544",
+    "description": "Irgendwie gibts nur An- und abstiege 🧐",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Juni 2023 um 16:48",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/9270934555",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Juni 2023 um 10:35",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/9262977807",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Juni 2023 um 20:28",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/9259967340",
+    "description": "GA",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Juni 2023 um 12:52",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/9250859835",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Juni 2023 um 10:38",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/9250139146",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "10. Juni 2023",
+    "activity": "Erster Triathlon ✅",
+    "link": "https://www.strava.com/activities/9240087734",
+    "description": "1:18:45\n5. AK\nSprintdistanz",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "10. Juni 2023",
+    "activity": "Fahrt am Nachmittag",
+    "link": "https://www.strava.com/activities/9240087665",
+    "description": "In T1 mit kurzer kettenpanne 🚴‍♂️",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "10. Juni 2023",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/9240087630",
+    "description": "Zu spät abgedrückt",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 10. Juni 2023 um 13:00",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/9238073290",
+    "description": "Einschwimmen",
+    "buddies": []
+  },
+  {
+    "date": "9. Juni 2023",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/9238098528",
+    "description": "",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 8. Juni 2023 um 11:49",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/9225257550",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Juni 2023 um 11:17",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/9225089141",
+    "description": "Aktivieren mit kurzen Intervallen",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Juni 2023 um 04:42",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9217606465",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Juni 2023 um 18:06",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/9214838934",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Juni 2023 um 14:26",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/9207397620",
+    "description": "3x10x30/30 Intervalle + 20 min Schwelle @240 watt",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Juni 2023 um 10:03",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9199361383",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Juni 2023 um 20:37",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/9197099791",
+    "description": "Laufen lassen nach zwei Tagen Zwangspause.",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Mai 2023 um 17:05",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/9176719307",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Mai 2023 um 15:17",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/9175941729",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Mai 2023 um 10:46",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9167972840",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Mai 2023 um 19:27",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/9164980297",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Mai 2023 um 17:55",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/9158457959",
+    "description": "Long run - Schluss dann mit party pace",
+    "buddies": []
+  },
+  {
+    "date": "27. Mai 2023",
+    "activity": "Giro d’Italia 🇮🇹",
+    "link": "https://www.strava.com/activities/9151896492",
+    "description": "",
+    "buddies": [
+      "Resa Kühmayer",
+      "Niklas Strasser",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 26. Mai 2023 um 15:46",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/9144348892",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "26. Mai 2023",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/9145792440",
+    "description": "",
+    "buddies": [
+      "Resa Kühmayer"
+    ]
+  },
+  {
+    "date": "Am 24. Mai 2023 um 17:57",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/9132715685",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Mai 2023 um 11:07",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/9130658772",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Mai 2023 um 08:35",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9130034521",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Mai 2023 um 10:40",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/9117787586",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Mai 2023 um 07:48",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/9117458286",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Mai 2023 um 20:14",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/9096296864",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Mai 2023 um 11:10",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/9086757002",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Mai 2023 um 09:10",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/9080247990",
+    "description": "3x10x30/30 + 20min Schwelle",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Mai 2023 um 15:38",
+    "activity": "First in the Water für die Saison @centrelax",
+    "link": "https://www.strava.com/activities/9075908988",
+    "description": "Endlich mal der schnellste im Becken 💪🏼\n16 Grad WT + Neo",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Mai 2023 um 13:09",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/9075149430",
+    "description": "4x1k@3:55",
+    "buddies": []
+  },
+  {
+    "date": "14. Mai 2023",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/9068016767",
+    "description": "",
+    "buddies": [
+      "Jakob Vorauer"
+    ]
+  },
+  {
+    "date": "Am 13. Mai 2023 um 20:19",
+    "activity": "Zwift - vulcano circuit in Watopia",
+    "link": "https://www.strava.com/activities/9065795330",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Mai 2023 um 19:40",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/9059231378",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Mai 2023 um 16:16",
+    "activity": "Afternoon Weight Training",
+    "link": "https://www.strava.com/activities/9046264635",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Mai 2023 um 12:11",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/9045580570",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Mai 2023 um 19:01",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/9041013577",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Mai 2023 um 20:16",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/9029980868",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Mai 2023 um 14:47",
+    "activity": "Long Ride",
+    "link": "https://www.strava.com/activities/9022604276",
+    "description": "Bissl Gegend anschauen 👀 ☀️",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Mai 2023 um 15:12",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/9015351242",
+    "description": "First Open water + neo Test \nCozy 18 grad",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Mai 2023 um 12:23",
+    "activity": "Long run",
+    "link": "https://www.strava.com/activities/9008572883",
+    "description": "Radsupport by Sarah",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Mai 2023 um 15:53",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/9003363043",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Mai 2023 um 13:39",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8996140439",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Mai 2023 um 16:56",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/8991443358",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. April 2023 um 11:29",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/8983122715",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. April 2023 um 04:26",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8975046894",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. April 2023 um 10:41",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/8971018363",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. April 2023 um 17:52",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8967454863",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. April 2023 um 16:16",
+    "activity": "Afternoon Weight Training",
+    "link": "https://www.strava.com/activities/8966949351",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. April 2023 um 09:31",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8959121292",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. April 2023 um 20:11",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/8956403333",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. April 2023 um 18:12",
+    "activity": "Recovery swim",
+    "link": "https://www.strava.com/activities/8949608070",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. April 2023 um 09:10",
+    "activity": "Vienna City Halbmarathon",
+    "link": "https://www.strava.com/activities/8940850827",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. April 2023 um 14:48",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/8924885913",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. April 2023 um 07:23",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8923020072",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "18. April 2023",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8911252463",
+    "description": "",
+    "buddies": [
+      "Jakob Vorauer"
+    ]
+  },
+  {
+    "date": "Am 17. April 2023 um 16:18",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/8907376953",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "16. April 2023",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8900396223",
+    "description": "Mit der Rasselbande 🔥",
+    "buddies": [
+      "Niklas Strasser",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 15. April 2023 um 07:55",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8892592909",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. April 2023 um 15:54",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8889412295",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. April 2023 um 10:35",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8882583057",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. April 2023 um 09:50",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8876601780",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. April 2023 um 15:57",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/8872445292",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. April 2023 um 17:11",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/8866899191",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. April 2023 um 17:11",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/8861249324",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. April 2023 um 11:54",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/8859155605",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. April 2023 um 19:04",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/8849526891",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. April 2023 um 12:26",
+    "activity": "Lunch Swim",
+    "link": "https://www.strava.com/activities/8847226548",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. April 2023 um 13:36",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/8842011692",
+    "description": "+10‘ Tempo @4:10",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. April 2023 um 11:28",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/8841726940",
+    "description": "+20km\nSensor hat sich verspätet eingeschalten",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. April 2023 um 21:34",
+    "activity": "Night Ride",
+    "link": "https://www.strava.com/activities/8839208618",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. April 2023 um 08:04",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8828927472",
+    "description": "Brustgurt sagt tschüss",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. April 2023 um 18:29",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/8821173484",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "1. April 2023",
+    "activity": "Lunch Ride mit Niki",
+    "link": "https://www.strava.com/activities/8813710757",
+    "description": "Wien erkunden bei viel 💨 aber auch viel ☀️",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 31. März 2023 um 14:07",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8807931403",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. März 2023 um 20:17",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/8804729013",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. März 2023 um 19:34",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/8799205015",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. März 2023 um 12:25",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/8790887762",
+    "description": "Zu Crazy da draußen 🌧️☀️💨❄️",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. März 2023 um 17:41",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8786648007",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. März 2023 um 08:23",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8784608332",
+    "description": "🌧️ 🌧️ 💨 💨",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. März 2023 um 17:01",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/8776025032",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. März 2023 um 14:20",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/8769562743",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. März 2023 um 17:53",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8765046953",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "23. März 2023",
+    "activity": "Afternoon Mountain Bike Ride",
+    "link": "https://www.strava.com/activities/8764029891",
+    "description": "Nachmittagsrunde mit Sarah und anschließendem 🍦",
+    "buddies": [
+      "Sarah Tretthann"
+    ]
+  },
+  {
+    "date": "Am 22. März 2023 um 10:10",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8757569560",
+    "description": "Bei dem Wetter kann der indoor Trainer einpacken ☀️ ☀️",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. März 2023 um 19:56",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/8754286352",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. März 2023 um 12:31",
+    "activity": "Lunch Mountain Bike Ride",
+    "link": "https://www.strava.com/activities/8746373975",
+    "description": "Fun Ride mit Sarah",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. März 2023 um 07:59",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8745121363",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. März 2023 um 09:30",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8733713881",
+    "description": "☀️ ☀️ ☀️",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. März 2023 um 05:49",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8727677931",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. März 2023 um 17:12",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/8725155512",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. März 2023 um 13:27",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8718472099",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. März 2023 um 08:42",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8717159523",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. März 2023 um 17:24",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/8708392884",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. März 2023 um 10:53",
+    "activity": "Zwift - 2015 in London",
+    "link": "https://www.strava.com/activities/8706835380",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. März 2023 um 19:53",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/8704568709",
+    "description": "Sunday shakeout",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. März 2023 um 10:27",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8685002036",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. März 2023 um 07:29",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8684710366",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. März 2023 um 21:46",
+    "activity": "Zwift - Foundation in London",
+    "link": "https://www.strava.com/activities/8682995689",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. März 2023 um 19:36",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/8677123841",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. März 2023 um 07:29",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8668369032",
+    "description": "LIT",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. März 2023 um 14:20",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8664673555",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. März 2023 um 10:08",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8662844549",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. März 2023 um 20:14",
+    "activity": "Zwift - Step By Step in Watopia",
+    "link": "https://www.strava.com/activities/8654364170",
+    "description": "Post Shift HIT",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. März 2023 um 12:11",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/8646876431",
+    "description": "Radgrundlagen+ 60min Koppellauf",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. März 2023 um 10:44",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8646513817",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. März 2023 um 11:27",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/8641172590",
+    "description": "Erste Einheit mit den neuen Schuhen 🔥",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Februar 2023 um 19:58",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/8638143433",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Februar 2023 um 10:38",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8624288004",
+    "description": "GA1",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Februar 2023 um 19:57",
+    "activity": "Zwift - FTP Test in Watopia",
+    "link": "https://www.strava.com/activities/8621751328",
+    "description": "FTP to the Moon 🔥🥸",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Februar 2023 um 10:22",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8597354319",
+    "description": "Viel ☀️ aber auch viel 💨",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Februar 2023 um 07:53",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8579438523",
+    "description": "GA3",
+    "buddies": []
+  },
+  {
+    "date": "17. Februar 2023",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8575489670",
+    "description": "Komplette Regenpartie 🌧️ ☔️",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 16. Februar 2023 um 13:54",
+    "activity": "Afternoon Backcountry Ski",
+    "link": "https://www.strava.com/activities/8571132256",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Februar 2023 um 19:08",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/8561611468",
+    "description": "GA2",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Februar 2023 um 19:30",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/8555831411",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Februar 2023 um 16:58",
+    "activity": "Zwift - SST (Med) in France",
+    "link": "https://www.strava.com/activities/8555137035",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Februar 2023 um 18:34",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/8550793349",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Februar 2023 um 15:53",
+    "activity": "Zwift - High Intensity Recovery in Watopia",
+    "link": "https://www.strava.com/activities/8549953029",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Februar 2023 um 20:12",
+    "activity": "Zwift - 45min Riders Choice in Watopia",
+    "link": "https://www.strava.com/activities/8528390672",
+    "description": "Langsamer Start nach kurzer Erkältung 🥶",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Februar 2023 um 18:57",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/8511714567",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Februar 2023 um 08:14",
+    "activity": "Zwift - 2x20 FTP Intervals in Watopia",
+    "link": "https://www.strava.com/activities/8501625488",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Februar 2023 um 17:03",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/8499012725",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Februar 2023 um 10:03",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8497231469",
+    "description": "GA2",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Februar 2023 um 14:03",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8488576249",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Februar 2023 um 06:43",
+    "activity": "Zwift - The McCarthy Special in France",
+    "link": "https://www.strava.com/activities/8485898728",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Januar 2023 um 15:23",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8482422450",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Januar 2023 um 13:48",
+    "activity": "Zwift - Mat Hayman Paris-Roubaix in Watopia",
+    "link": "https://www.strava.com/activities/8481965021",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Januar 2023 um 14:45",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8471981041",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Januar 2023 um 09:49",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8463889082",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Januar 2023 um 20:57",
+    "activity": "Zwift - 2x15 FTP Intervals in Watopia",
+    "link": "https://www.strava.com/activities/8461882627",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Januar 2023 um 17:07",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8450549017",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Januar 2023 um 08:01",
+    "activity": "Zwift - SST (Med) in Watopia",
+    "link": "https://www.strava.com/activities/8448317220",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Januar 2023 um 10:04",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8442958756",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Januar 2023 um 08:25",
+    "activity": "Zwift - Four Horsemen in Watopia",
+    "link": "https://www.strava.com/activities/8437921883",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Januar 2023 um 18:43",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/8435713260",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Januar 2023 um 06:23",
+    "activity": "Zwift - Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/8431307700",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Januar 2023 um 13:06",
+    "activity": "Zwift - 3x15 FTP Intervals on Downtown Dolphin in Watopia",
+    "link": "https://www.strava.com/activities/8417292748",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "17. Januar 2023",
+    "activity": "Lunch Mountain Bike Ride",
+    "link": "https://www.strava.com/activities/8406379193",
+    "description": "Erstes Mal waxi für Sarah leider ohne Sonne 🥶  mit angenehmen 5 Grad",
+    "buddies": [
+      "Sarah Tretthann"
+    ]
+  },
+  {
+    "date": "Am 17. Januar 2023 um 07:53",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8405097782",
+    "description": "GA2",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Januar 2023 um 19:42",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/8398263822",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Januar 2023 um 17:10",
+    "activity": "Afternoon Weight Training",
+    "link": "https://www.strava.com/activities/8386307094",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Januar 2023 um 11:14",
+    "activity": "Zwift - 60min Riders Choice in Watopia",
+    "link": "https://www.strava.com/activities/8384307972",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Januar 2023 um 18:05",
+    "activity": "Zwift - The Long Ride - Spiked Base in Watopia",
+    "link": "https://www.strava.com/activities/8381265935",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Januar 2023 um 20:18",
+    "activity": "Zwift - Tempus Fugit in Watopia",
+    "link": "https://www.strava.com/activities/8370977210",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Januar 2023 um 10:34",
+    "activity": "Zwift - SST (Short) in Makuri Islands",
+    "link": "https://www.strava.com/activities/8362642648",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Januar 2023 um 13:56",
+    "activity": "Zwift - The Mega Pretzel in Watopia",
+    "link": "https://www.strava.com/activities/8359725146",
+    "description": "Sonntagsprogramm mit an 180er schnitt ⚡️⚡️",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Januar 2023 um 12:04",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/8341499145",
+    "description": "Windy conditions 💨💨💨",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Januar 2023 um 20:22",
+    "activity": "Zwift - The McCarthy Special in Watopia",
+    "link": "https://www.strava.com/activities/8333285123",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Januar 2023 um 18:54",
+    "activity": "Zwift - Four Horsemen in Watopia",
+    "link": "https://www.strava.com/activities/8327717509",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Dezember 2022 um 10:37",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8310577982",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Dezember 2022 um 20:30",
+    "activity": "Zwift - SST (Short) on The Bell Lap in Watopia",
+    "link": "https://www.strava.com/activities/8303957731",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Dezember 2022 um 19:05",
+    "activity": "Evening Workout",
+    "link": "https://www.strava.com/activities/8299343120",
+    "description": "Anaerobes Training mit Bro und Sarah",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Dezember 2022 um 15:35",
+    "activity": "Zwift - 60min Riders Choice in Watopia",
+    "link": "https://www.strava.com/activities/8293781151",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Dezember 2022 um 11:13",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/8289300542",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Dezember 2022 um 08:11",
+    "activity": "Zwift - SST (Med) in Makuri Islands",
+    "link": "https://www.strava.com/activities/8284576477",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Dezember 2022 um 20:24",
+    "activity": "Zwift - Grin And Bear It in Watopia",
+    "link": "https://www.strava.com/activities/8279726218",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Dezember 2022 um 17:06",
+    "activity": "Zwift - 2x20 FTP Intervals in Watopia",
+    "link": "https://www.strava.com/activities/8271292879",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Dezember 2022 um 17:45",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8267401477",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Dezember 2022 um 10:39",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8266080983",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Dezember 2022 um 14:19",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8263342552",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "17. Dezember 2022",
+    "activity": "Afternoon Backcountry Ski",
+    "link": "https://www.strava.com/activities/8259335835",
+    "description": "",
+    "buddies": [
+      "Michael Tretthann"
+    ]
+  },
+  {
+    "date": "Am 16. Dezember 2022 um 10:55",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8254528584",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Dezember 2022 um 18:20",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/8244637132",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Dezember 2022 um 11:09",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/8243084121",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Dezember 2022 um 17:41",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/8237039428",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Dezember 2022 um 14:29",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8231996739",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Dezember 2022 um 14:12",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8223763109",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Dezember 2022 um 17:22",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8215560119",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Dezember 2022 um 19:53",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/8198843546",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Dezember 2022 um 10:37",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8310577982",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Dezember 2022 um 20:30",
+    "activity": "Zwift - SST (Short) on The Bell Lap in Watopia",
+    "link": "https://www.strava.com/activities/8303957731",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Dezember 2022 um 19:05",
+    "activity": "Evening Workout",
+    "link": "https://www.strava.com/activities/8299343120",
+    "description": "Anaerobes Training mit Bro und Sarah",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Dezember 2022 um 15:35",
+    "activity": "Zwift - 60min Riders Choice in Watopia",
+    "link": "https://www.strava.com/activities/8293781151",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Dezember 2022 um 11:13",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/8289300542",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Dezember 2022 um 08:11",
+    "activity": "Zwift - SST (Med) in Makuri Islands",
+    "link": "https://www.strava.com/activities/8284576477",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Dezember 2022 um 20:24",
+    "activity": "Zwift - Grin And Bear It in Watopia",
+    "link": "https://www.strava.com/activities/8279726218",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Dezember 2022 um 17:06",
+    "activity": "Zwift - 2x20 FTP Intervals in Watopia",
+    "link": "https://www.strava.com/activities/8271292879",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Dezember 2022 um 17:45",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8267401477",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Dezember 2022 um 10:39",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8266080983",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Dezember 2022 um 14:19",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8263342552",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "17. Dezember 2022",
+    "activity": "Afternoon Backcountry Ski",
+    "link": "https://www.strava.com/activities/8259335835",
+    "description": "",
+    "buddies": [
+      "Michael Tretthann"
+    ]
+  },
+  {
+    "date": "Am 16. Dezember 2022 um 10:55",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8254528584",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Dezember 2022 um 18:20",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/8244637132",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Dezember 2022 um 11:09",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/8243084121",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Dezember 2022 um 17:41",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/8237039428",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Dezember 2022 um 14:29",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8231996739",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. Dezember 2022 um 14:12",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8223763109",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Dezember 2022 um 17:22",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8215560119",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Dezember 2022 um 19:53",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/8198843546",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. November 2022 um 19:07",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/8186127080",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. November 2022 um 18:22",
+    "activity": "Evening Weight Training",
+    "link": "https://www.strava.com/activities/8159048145",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. November 2022 um 17:16",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8153859351",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. November 2022 um 11:18",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/8148214641",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. November 2022 um 19:40",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/8146236592",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. November 2022 um 11:16",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/8130093071",
+    "description": "Bissi Tempo",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. November 2022 um 17:00",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8126907460",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. November 2022 um 16:42",
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/8117400400",
+    "description": "Pre Night Shift",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. November 2022 um 10:20",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8115974159",
+    "description": "GA1 Versuch aber HF irgendwo",
+    "buddies": []
+  },
+  {
+    "date": "11. November 2022",
+    "activity": "Kalte kuchl erkunden",
+    "link": "https://www.strava.com/activities/8101366257",
+    "description": "Erste 100k Ausfahrt mit niki 🥸\nInkl abschließendem isotonischem Getränk 🍺",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 10. November 2022 um 09:46",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8095896571",
+    "description": "GA1",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. November 2022 um 12:52",
+    "activity": "Lunch Weight Training",
+    "link": "https://www.strava.com/activities/8091727855",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. November 2022 um 08:14",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8085689393",
+    "description": "GA2",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. November 2022 um 08:15",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8081009589",
+    "description": "GA1",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. November 2022 um 10:25",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/8072074805",
+    "description": "1150m statt 1600 mit David 💪🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. November 2022 um 07:53",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/8065891036",
+    "description": "Nüchternlauf",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. November 2022 um 18:12",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/8053925021",
+    "description": "Intervalle oder so",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. November 2022 um 14:27",
+    "activity": "Gaisstein",
+    "link": "https://www.strava.com/activities/8053358535",
+    "description": "Kurze feiertagswanderung",
+    "buddies": []
+  },
+  {
+    "date": "30. Oktober 2022",
+    "activity": "Sonntagsausfahrt",
+    "link": "https://www.strava.com/activities/8041671972",
+    "description": "Mit Winkler eine große sonntagsrunde bei strahlender ☀️ zerlegt 🔥🍁",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 27. Oktober 2022 um 12:30",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/8026659215",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Oktober 2022 um 11:33",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/8016598924",
+    "description": "Spontane herbstliche Tour mit viel Wind 💨🍁",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Oktober 2022 um 17:23",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/8012613422",
+    "description": "Kurze Intervalle eingebaut mit 3x4:00 für 500m",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Oktober 2022 um 09:56",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/8006026949",
+    "description": "Helenental bei fetzblauen Himmel ☀️",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Oktober 2022 um 19:04",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/7998034479",
+    "description": "Low aerob gehts weiter und es wird wärmer 🔥",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Oktober 2022 um 17:45",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/7997743995",
+    "description": "Kalt is 🥶 kurze abendrunde",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Oktober 2022 um 15:02",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/7982257981",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Oktober 2022 um 12:24",
+    "activity": "Lunch Run",
+    "link": "https://www.strava.com/activities/7976691516",
+    "description": "Herbstlicher pre Night Shift run mit Sarahs Unterstützung am MTB 👌🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Oktober 2022 um 09:21",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/7950626627",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Oktober 2022 um 18:55",
+    "activity": "Post Shift run",
+    "link": "https://www.strava.com/activities/7937968733",
+    "description": "Zum Schluss noch die Herzfrequenz zamghaut beim Berg raufdrücken",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Oktober 2022 um 15:32",
+    "activity": "Afternoon Mountain Bike Ride",
+    "link": "https://www.strava.com/activities/7925733760",
+    "description": "Kurze Herbstrunde mit Sarah am MTB",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Oktober 2022 um 17:51",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/7921414373",
+    "description": "Temporun mit 15min@4:30",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Oktober 2022 um 10:10",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/7919501168",
+    "description": "Traumhaftes Wetter und viel 💨 dabei",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Oktober 2022 um 15:09",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/7894589679",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "30. September 2022",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/7890104762",
+    "description": "Winklers 🎂 -runde\nNik kennt nur ein Gas —> Vollgas",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "16. September 2022",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/7816987223",
+    "description": "Freitags Ausfahrt mit Winkler 💪🏼",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 14. September 2022 um 13:29",
+    "activity": "Koppellauf",
+    "link": "https://www.strava.com/activities/7806652636",
+    "description": "Versuchen die Batterien leer zu machen ✅",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. September 2022 um 11:10",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/7806366914",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. September 2022 um 06:55",
+    "activity": "Basis run",
+    "link": "https://www.strava.com/activities/7799593232",
+    "description": "Soo viele Schulkinder",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. September 2022 um 14:34",
+    "activity": "Fahrt am Nachmittag",
+    "link": "https://www.strava.com/activities/7796209609",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. September 2022 um 09:26",
+    "activity": "Morning Mountain Bike Ride",
+    "link": "https://www.strava.com/activities/7783887581",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "10. September 2022",
+    "activity": "Mountainbike-Fahrt am Morgen",
+    "link": "https://www.strava.com/activities/7787403704",
+    "description": "",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 9. September 2022 um 08:01",
+    "activity": "Intervalle am morgen",
+    "link": "https://www.strava.com/activities/7778409459",
+    "description": "7x1min @3:45",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. September 2022 um 15:24",
+    "activity": "Guglzipf und wieder runter",
+    "link": "https://www.strava.com/activities/7764025041",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. September 2022 um 14:35",
+    "activity": "Afternoon Workout",
+    "link": "https://www.strava.com/activities/7758066619",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. September 2022 um 14:15",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/7753112398",
+    "description": "Kurze Lernpause genutzt, Motivation war hoch",
+    "buddies": []
+  },
+  {
+    "date": "3. September 2022",
+    "activity": "Regenerationsrunde mit den bois aufs waxi",
+    "link": "https://www.strava.com/activities/7746051218",
+    "description": "Mit Stefan+Niki+Markus+Gigo",
+    "buddies": [
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "2. September 2022",
+    "activity": "Hafnerberg -> helenental -> vöslau -> Kottingbrunm und wieder heim 💪🏼",
+    "link": "https://www.strava.com/activities/7742445171",
+    "description": "Erste Rennrad Ausfahrt mit Winkler 😁\nGleich mal einen guten Schnitt hingelegt auf Nikis alter Rennmaschine 🔥",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 2. September 2022 um 08:01",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/7740671499",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. August 2022 um 18:18",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/7726716207",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. August 2022 um 18:30",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/7716138349",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "28. August 2022",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/7715812215",
+    "description": "Sonntagsrunde mit Niki und Winkler\nUnd mit kleinem fail bei Winklers cube 🤦🏽‍♂️",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 25. August 2022 um 17:27",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/7698672639",
+    "description": "Schwelle kitzeln 🧐",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. August 2022 um 17:50",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/7687301301",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. August 2022 um 18:56",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/7681927265",
+    "description": "Shakeout runde und versuchen mal das Tempo zu reduzieren 🤙🏼",
+    "buddies": []
+  },
+  {
+    "date": "20. August 2022",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/7667675601",
+    "description": "Gmiadliche morgenrunde mit den bois",
+    "buddies": [
+      "Christoph Winkler",
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 17. August 2022 um 17:07",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/7654527349",
+    "description": "An den 20k schnuppern 🤙🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. August 2022 um 18:57",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/7648898184",
+    "description": "Post Shift run on Full speeeed",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. August 2022 um 15:32",
+    "activity": "Afternoon Stand Up Paddling",
+    "link": "https://www.strava.com/activities/7636935594",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. August 2022 um 07:20",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/7634507853",
+    "description": "Mit Sarah und Markus zum Traunstein und wieder zurück 🤙🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. August 2022 um 07:16",
+    "activity": "Morning Run",
+    "link": "https://www.strava.com/activities/7628989280",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. August 2022 um 18:01",
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/7621197214",
+    "description": "Schwimmeinheit mit Bruder am Abend 🤙🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. August 2022 um 18:00",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/7599220952",
+    "description": "Zum Schluss dem Wetter bedingt das Tempo ein bissl angezogen",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. August 2022 um 10:18",
+    "activity": "Morning Hike",
+    "link": "https://www.strava.com/activities/7591851494",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Juli 2022 um 09:39",
+    "activity": "Morning Swim",
+    "link": "https://www.strava.com/activities/7546949241",
+    "description": "Mit David das erste mal richtig Freistil Technik trainieren 💪🏼",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Juli 2022 um 18:12",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/7543905000",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Juli 2022 um 17:51",
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/7526847118",
+    "description": "Tempotraining mit handycap - +34 Grad",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Juli 2022 um 19:52",
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/7511564769",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Juli 2022 um 09:41",
+    "activity": "Mountainbike-Fahrt zur Mittagszeit",
+    "link": "https://www.strava.com/activities/7503646601",
+    "description": "Kurzes Waxi vorm Dienst",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Juli 2022 um 13:34",
+    "activity": "Lauf am Nachmittag",
+    "link": "https://www.strava.com/activities/7493644883",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Juli 2022 um 17:00",
+    "activity": "Lauf am Abend",
+    "link": "https://www.strava.com/activities/7473595988",
+    "description": "+30min HIIT",
+    "buddies": []
+  },
+  {
+    "date": "14. Juli 2022",
+    "activity": "Hohe Veitsch + großer wildkamm",
+    "link": "https://www.strava.com/activities/7467778235",
+    "description": "",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 13. Juli 2022 um 10:06",
+    "activity": "Lauf am Morgen",
+    "link": "https://www.strava.com/activities/7460924801",
+    "description": "Danke für den Musiktipp Stefan",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Juli 2022 um 17:34",
+    "activity": "Pacetraining am Abend",
+    "link": "https://www.strava.com/activities/7447392451",
+    "description": "Ø 165 bpm",
+    "buddies": []
+  }
+]
+
 function formatDate(dateString) {
     // Remove "Am", "um", and time (like "06:36")
     let formattedDate = dateString.replace(/^(Am\s)?(\d{1,2}\.\s[a-zA-ZäöüÄÖÜ]+\s\d{4})(\sum\s\d{2}:\d{2})?$/, '$2');
@@ -17203,6 +23774,9 @@ function openFahrer(evt, fahrer) {
   } else if (fahrer === 'Martin') {
     currentList = 'activity-list-martin';
     displayActivities(activitiesMartin, 'activity-list-martin', 'h1-martin', 'Martin');
+  } else if (fahrer === 'Maxi') {
+    currentList = 'activity-list-maxi';
+    displayActivities(activitiesMartin, 'activity-list-maxi', 'h1-maxi', 'maxi');
   }
 
   document.getElementById(fahrer).style.display = "block";
@@ -17274,6 +23848,21 @@ document.getElementById('toggleButton-buddies-martin').addEventListener('click',
     }
 });
 
+document.getElementById('toggleButton-buddies-maxi').addEventListener('click', function() {
+    const activityList = document.getElementById(currentList);
+    withBuddies = !withBuddies;
+
+    if (withBuddies) {
+      var button = document.getElementById('toggleButton-buddies-maxi');
+      button.textContent = "Alle";
+      displayActivities(activitiesmaxi.filter(entry => entry.buddies.length > 0), 'activity-list-maxi', 'h1-maxi', 'maxi');
+    } else {
+      var button = document.getElementById('toggleButton-buddies-maxi');
+      button.textContent = "Mit Buddies";
+      displayActivities(activitiesmaxi, 'activity-list-maxi', 'h1-maxi', 'Maxi');
+    }
+});
+
 document.getElementById('toggleButton-dinkels').addEventListener('click', function() {
     const activityList = document.getElementById(currentList);
     if (activityList.style.display === 'block') {
@@ -17308,6 +23897,17 @@ document.getElementById('toggleButton-niki').addEventListener('click', function(
 });
 
 document.getElementById('toggleButton-martin').addEventListener('click', function() {
+    const activityList = document.getElementById(currentList);
+    if (activityList.style.display === 'block') {
+        activityList.style.display = 'flex';
+        this.textContent = 'Einzelliste';
+    } else {
+        activityList.style.display = 'block';
+        this.textContent = 'Gridliste';
+    }
+});
+
+document.getElementById('toggleButton-maxi').addEventListener('click', function() {
     const activityList = document.getElementById(currentList);
     if (activityList.style.display === 'block') {
         activityList.style.display = 'flex';
