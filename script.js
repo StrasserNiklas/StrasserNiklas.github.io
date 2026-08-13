@@ -13117,7 +13117,7 @@ const activitiesNiki = [
   },
   {
     "date": "10. Juni 2023",
-    "km": "863",
+    "km": "0,863",
     "hm": 0,
     "activity": "Neufeld Sprint Triathlon 2023 Swim",
     "link": "https://www.strava.com/activities/9240499953",
@@ -13128,7 +13128,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. Juni 2023 um 13:03",
-    "km": "393",
+    "km": "0,393",
     "hm": 0,
     "activity": "Afternoon Swim",
     "link": "https://www.strava.com/activities/9238274446",
@@ -13725,7 +13725,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Februar 2023 um 14:29",
-    "km": "1.533",
+    "km": "1,533",
     "hm": 0,
     "activity": "Afternoon Swim",
     "link": "https://www.strava.com/activities/8636381721",
@@ -14176,7 +14176,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. November 2022 um 17:07",
-    "km": "2.698",
+    "km": "2,698",
     "hm": 0,
     "activity": "Afternoon Swim",
     "link": "https://www.strava.com/activities/8153963034",
@@ -14407,7 +14407,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Oktober 2022 um 17:05",
-    "km": "2.250",
+    "km": "2,250",
     "hm": 0,
     "activity": "Afternoon Swim",
     "link": "https://www.strava.com/activities/7983256351",
@@ -14493,7 +14493,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Oktober 2022 um 17:08",
-    "km": "2.098",
+    "km": "2,098",
     "hm": 0,
     "activity": "Afternoon Swim",
     "link": "https://www.strava.com/activities/7911620015",
@@ -15341,7 +15341,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Juni 2022 um 17:00",
-    "km": "880",
+    "km": "0,880",
     "hm": 0,
     "activity": "Neufeld Triathlon Swim",
     "link": "https://www.strava.com/activities/7292392320",
@@ -15522,7 +15522,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Mai 2022 um 20:04",
-    "km": "1.098",
+    "km": "1,098",
     "hm": 0,
     "activity": "Evening Swim",
     "link": "https://www.strava.com/activities/7165314297",
@@ -15590,7 +15590,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Mai 2022 um 20:08",
-    "km": "2.173",
+    "km": "2,173",
     "hm": 0,
     "activity": "Evening Swim",
     "link": "https://www.strava.com/activities/7127086246",
@@ -15778,7 +15778,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. April 2022 um 10:22",
-    "km": "774",
+    "km": "0,774",
     "hm": 0,
     "activity": "Morning Swim",
     "link": "https://www.strava.com/activities/7027438243",
@@ -15898,7 +15898,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. April 2022 um 20:04",
-    "km": "1.225",
+    "km": "1,225",
     "hm": 0,
     "activity": "Evening Swim",
     "link": "https://www.strava.com/activities/6942050584",
@@ -15984,7 +15984,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. März 2022 um 20:04",
-    "km": "1.600",
+    "km": "1,600",
     "hm": 0,
     "activity": "Evening Swim",
     "link": "https://www.strava.com/activities/6872210366",
@@ -16125,7 +16125,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. März 2022 um 20:04",
-    "km": "1.350",
+    "km": "1,350",
     "hm": 0,
     "activity": "Evening Swim",
     "link": "https://www.strava.com/activities/6799491393",
@@ -16295,7 +16295,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Januar 2022 um 09:31",
-    "km": "1.138",
+    "km": "1,138",
     "hm": 0,
     "activity": "Morning Swim",
     "link": "https://www.strava.com/activities/6610043794",
@@ -16345,7 +16345,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Januar 2022 um 18:05",
-    "km": "1.175",
+    "km": "1,175",
     "hm": 0,
     "activity": "Evening Swim",
     "link": "https://www.strava.com/activities/6564003768",
@@ -16437,7 +16437,7 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. Dezember 2021 um 15:54",
-    "km": "425",
+    "km": "0,425",
     "hm": 0,
     "activity": "Afternoon Swim",
     "link": "https://www.strava.com/activities/6447272218",
@@ -28386,6 +28386,8 @@ function analyzeRides(rides, buddy) {
   const totalHm = withBuddy.reduce((sum, r) => sum + parseHm(r.hm), 0);
 
   const ridesOver100 = withBuddy.filter(r => parseKm(r.km) > 100);
+  const ridesOver150 = withBuddy.filter(r => parseKm(r.km) > 150);
+  const ridesOver200 = withBuddy.filter(r => parseKm(r.km) > 200);
 
   //console.log(`Rides with Christoph over 100km (${ridesOver100.length}):`);
   //ridesOver100.forEach(r => console.log(`${r.km}km - ${r.link}`));
@@ -28395,6 +28397,8 @@ function analyzeRides(rides, buddy) {
     count: withBuddy.length,
     totalKmW: Math.round(totalKm * 100) / 100,
     totalHm: totalHm,
-    ridesOver100km: ridesOver100.length
+    ridesOver100km: ridesOver100.length,
+    ridesOver150km: ridesOver150.length,
+    ridesOver200km: ridesOver200.length
   };
 }
