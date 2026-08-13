@@ -5547,7 +5547,2409 @@ const activitiesDinkels = [
 
 const activitiesNiki = [
   {
+    "date": "Heute um 19:18",
+    "km": "56,30",
+    "hm": "63",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/19729476338",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. August 2026 um 06:36",
+    "km": "48,13",
+    "hm": "538",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/19690907727",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "10. August 2026",
+    "km": "115,24",
+    "hm": "271",
+    "activity": "Umadum",
+    "link": "https://www.strava.com/activities/19681047838",
+    "description": "🥵🫪",
+    "buddies": [
+      "Christoph Winkler",
+      "Martin Nitsche"
+    ]
+  },
+  {
+    "date": "7. August 2026",
+    "km": "47,77",
+    "hm": "567",
+    "activity": "Eine kleine Leadout",
+    "link": "https://www.strava.com/activities/19644252345",
+    "description": "Weil da David Reischer morgen Geburtstag hat ham ma erm seinen KOM no glassn 🎁",
+    "buddies": [
+      "Max Tretthann"
+    ]
+  },
+  {
+    "date": "Am 7. August 2026 um 09:20",
+    "km": "50,94",
+    "hm": "448",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/19637924880",
+    "description": "Schön kühl, 300mg test ❄️☕️📈",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. August 2026 um 18:37",
+    "km": "48,18",
+    "hm": "677",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/19631184080",
+    "description": "Neues Baden TT Streckenende scouten",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. August 2026 um 06:04",
+    "km": "56,25",
+    "hm": "80",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/19592427133",
+    "description": "😴",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. August 2026 um 19:33",
+    "km": "57,76",
+    "hm": "57",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/19587491829",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. August 2026 um 07:33",
+    "km": "33,76",
+    "hm": "302",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/19550949101",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Juli 2026 um 15:25",
+    "km": "105,50",
+    "hm": "312",
+    "activity": "Hell Ride",
+    "link": "https://www.strava.com/activities/19545684097",
+    "description": "80% Gegenwind, ab KM 1 kan Bock mehr, Wasserstellen gelogen (komooted)",
+    "buddies": []
+  },
+  {
+    "date": "30. Juli 2026",
+    "km": "54,48",
+    "hm": "480",
+    "activity": "Evening Gravel",
+    "link": "https://www.strava.com/activities/19532918532",
+    "description": "Lang is her",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 28. Juli 2026 um 19:40",
+    "km": "54,23",
+    "hm": "462",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/19505440249",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "27. Juli 2026",
+    "km": "46,33",
+    "hm": "556",
+    "activity": "Home Sweet Home aka Hals Stefan Hart",
+    "link": "https://www.strava.com/activities/19488812144",
+    "description": "",
+    "buddies": [
+      "Stefan Krajnik",
+      "Lena Novacek"
+    ]
+  },
+  {
+    "date": "Am 25. Juli 2026 um 08:58",
+    "km": "45,23",
+    "hm": "1.256",
+    "activity": "Col du Galibier TdF Etappe 20",
+    "link": "https://www.strava.com/activities/19459905737",
+    "description": "Abfahrt Col du Lautaret leider fetter Gegenwind 😢",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Juli 2026 um 10:15",
+    "km": "73,61",
+    "hm": "2.037",
+    "activity": "Alpe D‘Huez Etappe",
+    "link": "https://www.strava.com/activities/19450985472",
+    "description": "Chaos und Menschenmassen aber geil\nZumindest den Fahrern ohne Ambitionen hats daugt 😂\nHeimfahrt charakterbildend",
+    "buddies": []
+  },
+  {
+    "date": "23. Juli 2026",
+    "km": "37,55",
+    "hm": "1.223",
+    "activity": "Col du Granon",
+    "link": "https://www.strava.com/activities/19435918320",
+    "description": "",
+    "buddies": [
+      "Felix Brandstetter"
+    ]
+  },
+  {
+    "date": "22. Juli 2026",
+    "km": "96,58",
+    "hm": "2.879",
+    "activity": "Mount Ventoux Sault + Bédoin",
+    "link": "https://www.strava.com/activities/19421226590",
+    "description": "Nach langer Anfahrt Start in der Mittagshitze🥵 Abfahrt nach Bédoin extrem schnell, nach Sault zum reintreten aber beide leiwand",
+    "buddies": [
+      "Felix Brandstetter"
+    ]
+  },
+  {
+    "date": "21. Juli 2026",
+    "km": "50,69",
+    "hm": "1.383",
+    "activity": "Mendelpass",
+    "link": "https://www.strava.com/activities/19402275583",
+    "description": "Abgekürzt weil vorher und nachher Regen",
+    "buddies": [
+      "Felix Brandstetter"
+    ]
+  },
+  {
+    "date": "19. Juli 2026",
+    "km": "73,52",
+    "hm": "1.162",
+    "activity": "Buchtelhoch 👉🏻 Regentief ⛈️",
+    "link": "https://www.strava.com/activities/19375459471",
+    "description": "",
+    "buddies": [
+      "David Reischer",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 17. Juli 2026 um 12:02",
+    "km": "22,52",
+    "hm": "658",
+    "activity": "Astbergeln",
+    "link": "https://www.strava.com/activities/19348227164",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "17. Juli 2026",
+    "km": "37,81",
+    "hm": "1.221",
+    "activity": "Horn",
+    "link": "https://www.strava.com/activities/19346474404",
+    "description": "Früh auf mit den Buben",
+    "buddies": [
+      "Erich Weszelits",
+      "Martin Nitsche",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "16. Juli 2026",
+    "km": "34,45",
+    "hm": "538",
+    "activity": "Labalm",
+    "link": "https://www.strava.com/activities/19333705576",
+    "description": "",
+    "buddies": [
+      "Christoph Winkler",
+      "Martin Nitsche"
+    ]
+  },
+  {
+    "date": "15. Juli 2026",
+    "km": "135,05",
+    "hm": "2.917",
+    "activity": "Tauernmoossee",
+    "link": "https://www.strava.com/activities/19323013846",
+    "description": "Leicht verboten aber umso schöner",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "13. Juli 2026",
+    "km": "108,70",
+    "hm": "892",
+    "activity": "Schigebiete abklappern",
+    "link": "https://www.strava.com/activities/19293391215",
+    "description": "Wieder Radweg und Gravel Deluxe",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "12. Juli 2026",
+    "km": "83,11",
+    "hm": "1.023",
+    "activity": "Kaisergebirge Umrundung Radweg/Gravel",
+    "link": "https://www.strava.com/activities/19281778703",
+    "description": "Mehr Radweg geht ned",
+    "buddies": [
+      "Erich Weszelits",
+      "Lukas Pulling"
+    ]
+  },
+  {
+    "date": "Am 11. Juli 2026 um 21:03",
+    "km": "30,71",
+    "hm": "988",
+    "activity": "Night Ride",
+    "link": "https://www.strava.com/activities/19273918574",
+    "description": "Nachtschicht",
+    "buddies": []
+  },
+  {
+    "date": "11. Juli 2026",
+    "km": "76,82",
+    "hm": "862",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/19268612395",
+    "description": "Mehr Gravel als Straße",
+    "buddies": [
+      "Lukas Pulling",
+      "Erich Weszelits"
+    ]
+  },
+  {
+    "date": "Am 9. Juli 2026 um 18:19",
+    "km": "77,12",
+    "hm": "556",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/19247323431",
+    "description": "Wieder 2 Leben mit der E-Pumpe gerettet",
+    "buddies": []
+  },
+  {
+    "date": "8. Juli 2026",
+    "km": "3,06",
+    "hm": "504",
+    "activity": "Grünberg",
+    "link": "https://www.strava.com/activities/19233735086",
+    "description": "",
+    "buddies": [
+      "Florian Steiner"
+    ]
+  },
+  {
+    "date": "Am 7. Juli 2026 um 09:14",
+    "km": "32,85",
+    "hm": "52",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/19211140206",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Juli 2026 um 18:27",
+    "km": "59,41",
+    "hm": "421",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/19204775872",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "4. Juli 2026",
+    "km": "70,52",
+    "hm": "483",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/19174268707",
+    "description": "Start mit Erich, danach Intervalle Abbruch 💀🧨",
+    "buddies": [
+      "Erich Weszelits"
+    ]
+  },
+  {
+    "date": "Am 3. Juli 2026 um 16:52",
+    "km": "117,43",
+    "hm": "97",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/19167185235",
+    "description": "🫨🫪",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Juli 2026 um 20:37",
+    "km": "53,58",
+    "hm": "76",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/19142404710",
+    "description": "Endlich wieder kühler - nix los Dank Sturmwarnung",
+    "buddies": []
+  },
+  {
+    "date": "30. Juni 2026",
+    "km": "44,66",
+    "hm": "62",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/19127923500",
+    "description": "Fast scho chillig",
+    "buddies": [
+      "Christina Winter"
+    ]
+  },
+  {
+    "date": "Am 28. Juni 2026 um 09:00",
+    "km": "88,29",
+    "hm": "59",
+    "activity": "Saunieren",
+    "link": "https://www.strava.com/activities/19096165271",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Juni 2026 um 09:11",
+    "km": "55,84",
+    "hm": "56",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/19082983078",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Juni 2026 um 08:02",
+    "km": "117,33",
+    "hm": "135",
+    "activity": "Hitze Ride",
+    "link": "https://www.strava.com/activities/19059862707",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Juni 2026 um 19:52",
+    "km": "43,36",
+    "hm": "51",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/19040025142",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Juni 2026 um 19:27",
+    "km": "337,87",
+    "hm": "4.802",
+    "activity": "RACA Nord 300 🥇",
+    "link": "https://www.strava.com/activities/18991856359",
+    "description": "Offizielle Zeit: 11:55h, 14 Minuten Standzeit. Am Ende tot. Representing Nikko 🤣 Einziger mit TT\n\nKurzer Rennbericht 👇🏻\n\nStart 19:28 bei 34 Grad. Trikot mit ca. 1 Kilo Eiswürfel vollgestopft, hat ganz gut funktioniert und weiter in der Pampa viel Schatten und Kühler.\n\nSehr technische Strecke aber ziemlich cool mit kaum",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Juni 2026 um 12:53",
+    "km": "34,51",
+    "hm": "55",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/18973494292",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Juni 2026 um 19:26",
+    "km": "41,77",
+    "hm": "87",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18948292294",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "15. Juni 2026",
+    "km": "29,68",
+    "hm": "446",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18929831677",
+    "description": "Crewtag",
+    "buddies": [
+      "David Reischer",
+      "Lena Novacek",
+      "Stefan Krajnik"
+    ]
+  },
+  {
+    "date": "Am 13. Juni 2026 um 12:40",
+    "km": "46,45",
+    "hm": "574",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/18903124594",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Juni 2026 um 13:45",
+    "km": "51,69",
+    "hm": "761",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18890740450",
+    "description": "BBB",
+    "buddies": []
+  },
+  {
+    "date": "11. Juni 2026",
+    "km": "4,02",
+    "hm": 0,
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/18882142598",
+    "description": "",
+    "buddies": [
+      "Resa Kühmayer"
+    ]
+  },
+  {
+    "date": "Am 10. Juni 2026 um 20:38",
+    "km": 0,
+    "hm": 0,
+    "activity": "Heat Training",
+    "link": "https://www.strava.com/activities/18882142661",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Juni 2026 um 16:29",
+    "km": "102,92",
+    "hm": "80",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18868343775",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Juni 2026 um 19:28",
+    "km": "60,07",
+    "hm": "82",
+    "activity": "Evening Ride ⛈️",
+    "link": "https://www.strava.com/activities/18855627197",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "7. Juni 2026",
+    "km": "34,02",
+    "hm": "142",
+    "activity": "Gottlos heim 🫪🫪",
+    "link": "https://www.strava.com/activities/18821074457",
+    "description": "Der schlechteste Tag am Glockner zu fahren is wenn die Straße wieder öffnet nach dem Glocknerkönig . Einfach von oben bis unten durchgehende Autoschlange, besonders bergauf, unfassbar",
+    "buddies": [
+      "Erich Weszelits"
+    ]
+  },
+  {
+    "date": "Am 7. Juni 2026 um 07:00",
+    "km": "27,29",
+    "hm": "1.641",
+    "activity": "Glocknerkönig 🧨",
+    "link": "https://www.strava.com/activities/18818691119",
+    "description": "1:38:22. Gut gepaced 🚀 Nach langer Pause wieder so richtig Koffein reingschossen 🫨\n\nHeute als Theo unterwegs, danke für den Startplatz Theo Sehnal  🫶🏻",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Juni 2026 um 09:14",
+    "km": "18,00",
+    "hm": "42",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/18805797518",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "4. Juni 2026",
+    "km": "110,90",
+    "hm": "2.952",
+    "activity": "Vršič & Mangart",
+    "link": "https://www.strava.com/activities/18785504731",
+    "description": "Extrem schön da, Mangart gesperrt (für motorisierte) 🙏🏻\nFette Verspätung wegen Erste Hilfe am Mangart",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 3. Juni 2026 um 16:44",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Workout",
+    "link": "https://www.strava.com/activities/18882143262",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "2. Juni 2026",
+    "km": "149,68",
+    "hm": "1.647",
+    "activity": "Ybbstal",
+    "link": "https://www.strava.com/activities/18756686444",
+    "description": "Ybbstalradweg is echt fein \nDanach in Scamstetten beim Kebap abziehen lassen",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 1. Juni 2026 um 18:19",
+    "km": "59,35",
+    "hm": "429",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18745697278",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Mai 2026 um 08:28",
+    "km": "56,82",
+    "hm": "1.227",
+    "activity": "Zum Zug 🇮🇹🇦🇹",
+    "link": "https://www.strava.com/activities/18712549960",
+    "description": "Guad bergauf in da Sonne mit Zeitlimit ☀️ Sonst wunderschön \nRIP falls wer neben mit sitzt im Zug auch mit Wechselgewand",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Mai 2026 um 11:18",
+    "km": "84,17",
+    "hm": "1.764",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/18882144215",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Mai 2026 um 08:41",
+    "km": "132,38",
+    "hm": "3.266",
+    "activity": "Giro e19 Passo Giau",
+    "link": "https://www.strava.com/activities/18704674228",
+    "description": "Felix Gall hat mich keines Blickes gewürdigt 🤓 Downhill mit hunderten Radfahrern nach Cortina",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Mai 2026 um 19:35",
+    "km": "50,87",
+    "hm": "526",
+    "activity": "Hotelsprint 🇮🇹",
+    "link": "https://www.strava.com/activities/18693909114",
+    "description": "Dass ich die schlechteste Straße dies gibt am Ende fahren werd wusst ich, dass nach 5h Zugverspätung dabei dunkel is ned, aber 10 Minuten vor Checkin Ende geschafft",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Mai 2026 um 19:43",
+    "km": 0,
+    "hm": 0,
+    "activity": "Evening Workout",
+    "link": "https://www.strava.com/activities/18882143997",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "26. Mai 2026",
+    "km": "72,50",
+    "hm": "692",
+    "activity": "Wo Herbst 🥵",
+    "link": "https://www.strava.com/activities/18663960284",
+    "description": "",
+    "buddies": [
+      "Felix Brandstetter"
+    ]
+  },
+  {
+    "date": "Am 24. Mai 2026 um 08:38",
+    "km": "37,82",
+    "hm": "774",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/18630839143",
+    "description": "Viel zu schwer und warm",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Mai 2026 um 07:18",
+    "km": "66,55",
+    "hm": "1.139",
+    "activity": "Fränkische Schweiz",
+    "link": "https://www.strava.com/activities/18617670625",
+    "description": "Extrem schöne Gegend",
+    "buddies": []
+  },
+  {
+    "date": "21. Mai 2026",
+    "km": "50,12",
+    "hm": "396",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18600121970",
+    "description": "Mim Erich",
+    "buddies": [
+      "Erich Weszelits"
+    ]
+  },
+  {
+    "date": "Am 20. Mai 2026 um 18:43",
+    "km": "42,55",
+    "hm": "75",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18585665679",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. Mai 2026 um 19:15",
+    "km": "27,88",
+    "hm": "42",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18572241372",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Mai 2026 um 21:31",
+    "km": "272,05",
+    "hm": "2.326",
+    "activity": "Race Around Niederösterreich 3er Team 🥉",
+    "link": "https://www.strava.com/activities/18547974254",
+    "description": "Unglaublich zermürbend mit 90% Regen und <10 °C aber Ende gut alles gut als 3. 🌧️Team Nikko mit Erik Sehnal und Martin Stagl \nUnmöglich ohne das perfekte Supporter-Team, danke an",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Mai 2026 um 09:55",
+    "km": "33,44",
+    "hm": "50",
+    "activity": "Einrollen",
+    "link": "https://www.strava.com/activities/18500964664",
+    "description": "Dienstag: Fit wie nie\nHeute: Fit wie im Jänner (in allen Belangen)\nWie passt das zam",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. Mai 2026 um 17:56",
+    "km": "42,59",
+    "hm": "92",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18480140679",
+    "description": "Bissl segeln auf der Insel",
+    "buddies": []
+  },
+  {
+    "date": "10. Mai 2026",
+    "km": "86,88",
+    "hm": "130",
+    "activity": "Wings for Life - Radsupport VICC-RD",
+    "link": "https://www.strava.com/activities/18454718329",
+    "description": "Super Domestique für den 3. Mann (56km am Ende), 4 verschiedene insgesamt \nSchön leere Straßen",
+    "buddies": [
+      "Martin Winkler"
+    ]
+  },
+  {
+    "date": "9. Mai 2026",
+    "km": "67,76",
+    "hm": "830",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18440742278",
+    "description": "Schaltseil kurz vorm reißen - Hälfte der Gänge nicht erreichbar",
+    "buddies": [
+      "Martin Nitsche",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 8. Mai 2026 um 14:24",
+    "km": "86,52",
+    "hm": "55",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18426473689",
+    "description": "Letzte RAN Intervalle 🥵",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Mai 2026 um 21:02",
+    "km": 0,
+    "hm": 0,
+    "activity": "Night Workout",
+    "link": "https://www.strava.com/activities/18454718489",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Mai 2026 um 18:30",
+    "km": "64,35",
+    "hm": "117",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18403157170",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Mai 2026 um 18:51",
+    "km": "47,98",
+    "hm": "61",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18389536432",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Mai 2026 um 17:13",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Workout",
+    "link": "https://www.strava.com/activities/18390618028",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Mai 2026 um 17:03",
+    "km": "2,78",
+    "hm": 0,
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18362149695",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Mai 2026 um 09:46",
+    "km": "134,43",
+    "hm": "1.431",
+    "activity": "Sunday Sun Day",
+    "link": "https://www.strava.com/activities/18361008478",
+    "description": "Start mit den Boys",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Mai 2026 um 18:41",
+    "km": "43,04",
+    "hm": "55",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18354955527",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. Mai 2026 um 12:57",
+    "km": "79,67",
+    "hm": "66",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/18333075498",
+    "description": "Nächste Flasche weg, nach 20 Minuten suchen nur noch als Roadkill gefunden. Allee abartig viel los",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. April 2026 um 18:16",
+    "km": "40,61",
+    "hm": "84",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18309546793",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. April 2026 um 20:22",
+    "km": 0,
+    "hm": 0,
+    "activity": "Heat Training",
+    "link": "https://www.strava.com/activities/18297244032",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. April 2026 um 20:09",
+    "km": "3,68",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18296026439",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. April 2026 um 18:12",
+    "km": "41,65",
+    "hm": "73",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18297342359",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. April 2026 um 17:01",
+    "km": 0,
+    "hm": 0,
+    "activity": "Heat Training",
+    "link": "https://www.strava.com/activities/18281162201",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. April 2026 um 16:45",
+    "km": "4,67",
+    "hm": 0,
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18309584702",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. April 2026 um 20:52",
+    "km": 0,
+    "hm": 0,
+    "activity": "Evening Workout",
+    "link": "https://www.strava.com/activities/18270838824",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. April 2026 um 19:51",
+    "km": 0,
+    "hm": 0,
+    "activity": "Heat Training",
+    "link": "https://www.strava.com/activities/18270839435",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "26. April 2026",
+    "km": "105,80",
+    "hm": "1.185",
+    "activity": "Windy Ride",
+    "link": "https://www.strava.com/activities/18264987255",
+    "description": "Mit den TT Wattlokomotiven \nAbsurder Gegen/Seitenwind Rohrer Sattel runter",
+    "buddies": [
+      "Max Tretthann",
+      "Richard F."
+    ]
+  },
+  {
+    "date": "Am 25. April 2026 um 09:52",
+    "km": "44,10",
+    "hm": "344",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/18251020400",
+    "description": "Marathonmax Anfang und Ende begleiten plus Dinkels",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. April 2026 um 14:07",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Workout",
+    "link": "https://www.strava.com/activities/18251020229",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. April 2026 um 13:10",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Workout",
+    "link": "https://www.strava.com/activities/18251020394",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. April 2026 um 12:51",
+    "km": "3,66",
+    "hm": 0,
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/18309584672",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "24. April 2026",
+    "km": "33,37",
+    "hm": "79",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/18237280913",
+    "description": "",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "24. April 2026",
+    "km": "33,37",
+    "hm": "79",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/18237280913",
+    "description": "",
+    "buddies": [
+      "Niklas Strasser"
+    ]
+  },
+  {
+    "date": "Am 23. April 2026 um 13:56",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Workout",
+    "link": "https://www.strava.com/activities/18237281278",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. April 2026 um 12:56",
+    "km": 0,
+    "hm": 0,
+    "activity": "Heat Training Passive",
+    "link": "https://www.strava.com/activities/18237281693",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. April 2026 um 12:44",
+    "km": "2,82",
+    "hm": 0,
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/18228965950",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. April 2026 um 22:10",
+    "km": 0,
+    "hm": 0,
+    "activity": "Night Workout",
+    "link": "https://www.strava.com/activities/18237282448",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. April 2026 um 21:04",
+    "km": 0,
+    "hm": 0,
+    "activity": "Heat Training Passive",
+    "link": "https://www.strava.com/activities/18237283058",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. April 2026 um 20:59",
+    "km": "3,52",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18217482266",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. April 2026 um 19:07",
+    "km": "41,46",
+    "hm": "65",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18216214280",
+    "description": "Crisp is back 🍏",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. April 2026 um 19:11",
+    "km": "4,27",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18200875915",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. April 2026 um 17:17",
+    "km": "43,14",
+    "hm": "63",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18200414674",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. April 2026 um 20:19",
+    "km": "4,07",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/18200415618",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. April 2026 um 17:51",
+    "km": "87,03",
+    "hm": "399",
+    "activity": "Epic Hadersfeld Comeback",
+    "link": "https://www.strava.com/activities/18176841505",
+    "description": "Endlich wieder offen 😍 \nFast ned gfahren weil zu hinig vom VCM anfeuern",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. April 2026 um 10:42",
+    "km": "37,87",
+    "hm": "69",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/18155591354",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. April 2026 um 16:59",
+    "km": "72,95",
+    "hm": "1.111",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18148284444",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "15. April 2026",
+    "km": "115,00",
+    "hm": "798",
+    "activity": "Navigationsgenies unterwegs",
+    "link": "https://www.strava.com/activities/18118879829",
+    "description": "(Zucker)Flasche nach 30 Minuten verloren, sind aber zu spät draufkommen 🤣",
+    "buddies": [
+      "Martin Nitsche"
+    ]
+  },
+  {
+    "date": "Am 14. April 2026 um 08:44",
+    "km": "58,61",
+    "hm": "97",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18101246609",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. April 2026 um 09:04",
+    "km": "105,52",
+    "hm": "1.184",
+    "activity": "Kalte Kuchl",
+    "link": "https://www.strava.com/activities/18078462043",
+    "description": "Flaschenhalter gleich zu Beginn brochn 🤣 Weiter mit Flasche am Rücken",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. April 2026 um 09:07",
+    "km": "16,08",
+    "hm": "471",
+    "activity": "Graveltrails",
+    "link": "https://www.strava.com/activities/18062247054",
+    "description": "Mim Bruder auf iwas",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. April 2026 um 19:05",
+    "km": "2,91",
+    "hm": 0,
+    "activity": "Padeldome",
+    "link": "https://www.strava.com/activities/18057437481",
+    "description": "Eigentlich schon recht witzig",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. April 2026 um 20:30",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body",
+    "link": "https://www.strava.com/activities/18045543753",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. April 2026 um 13:08",
+    "km": "30,42",
+    "hm": "756",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18040429563",
+    "description": "Neue 8 Minuten Intervallstraße testen. Fazit: besser für 4-5 Minuten",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. April 2026 um 16:56",
+    "km": "66,98",
+    "hm": "512",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/18030597481",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. April 2026 um 11:13",
+    "km": "79,66",
+    "hm": "805",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/17999109122",
+    "description": "Kann man machen, sollte man aber vielleicht gar ned\nPaar Angstmomente dabei, da sind Großau runter einige Sekunden verlorenen gegangen 🦴",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. April 2026 um 12:19",
+    "km": "48,27",
+    "hm": "589",
+    "activity": "Ostersonne",
+    "link": "https://www.strava.com/activities/17986697367",
+    "description": "Bissl zu heiß",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. April 2026 um 12:15",
+    "km": "1,32",
+    "hm": "4",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/17986698072",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. April 2026 um 13:33",
+    "km": "41,76",
+    "hm": "103",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17962127807",
+    "description": "Stürmisch",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. April 2026 um 17:21",
+    "km": "38,89",
+    "hm": "104",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17952284774",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. März 2026 um 18:12",
+    "km": "29,97",
+    "hm": "64",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17914871706",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. März 2026 um 08:45",
+    "km": "148,48",
+    "hm": "2.552",
+    "activity": "Valldemossa & Puig Major Attacke",
+    "link": "https://www.strava.com/activities/17879739750",
+    "description": "Erst nach 3h Aktivität gestartet ✅️ Dann zamgschustert mit Tools\nHR-Sensor: hinig\nHandykamera: in the bin\nAber beine gut",
+    "buddies": []
+  },
+  {
+    "date": "26. März 2026",
+    "km": "107,71",
+    "hm": "728",
+    "activity": "Schlechtwetterausfahrt",
+    "link": "https://www.strava.com/activities/17867821517",
+    "description": "Mit Wattzuckerl David & Co",
+    "buddies": [
+      "Felix Brandstetter",
+      "Christoph Winkler",
+      "David Reischer"
+    ]
+  },
+  {
+    "date": "25. März 2026",
+    "km": "97,31",
+    "hm": "2.223",
+    "activity": "Sa Calobra",
+    "link": "https://www.strava.com/activities/17854595641",
+    "description": "Bissl drücken, Femenia Abfahrt wieder 😍🔥🔥",
+    "buddies": [
+      "Max Tretthann",
+      "Christoph Winkler",
+      "David Reischer",
+      "Stefan Krajnik",
+      "Richard F."
+    ]
+  },
+  {
+    "date": "24. März 2026",
+    "km": "42,10",
+    "hm": "391",
+    "activity": "Recovern",
+    "link": "https://www.strava.com/activities/17840796665",
+    "description": "Militärzone diesmal ausglassn",
+    "buddies": [
+      "Felix Brandstetter",
+      "Stefan Krajnik",
+      "David Reischer",
+      "Erich Weszelits",
+      "Lena Novacek",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "23. März 2026",
+    "km": "137,12",
+    "hm": "2.488",
+    "activity": "Sóller Runde",
+    "link": "https://www.strava.com/activities/17829502934",
+    "description": "Puig Major runter wieder epic\nSonst alles wuascht heute \nHR-Sensor in the bin 🚯",
+    "buddies": [
+      "Max Tretthann",
+      "Stefan Krajnik",
+      "David Reischer",
+      "Felix Brandstetter",
+      "Richard F.",
+      "Erich Weszelits",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "22. März 2026",
+    "km": "60,96",
+    "hm": "1.055",
+    "activity": "Cap Formentor",
+    "link": "https://www.strava.com/activities/17817401937",
+    "description": "",
+    "buddies": [
+      "Felix Brandstetter",
+      "Erich Weszelits",
+      "Max Tretthann",
+      "David Reischer",
+      "Stefan Krajnik",
+      "Christoph Winkler",
+      "Lukas Pulling",
+      "Richard F.",
+      "Richard F.",
+      "Lena Novacek"
+    ]
+  },
+  {
+    "date": "Am 20. März 2026 um 14:40",
+    "km": "55,67",
+    "hm": "80",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17792391288",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. März 2026 um 20:22",
+    "km": 0,
+    "hm": 0,
+    "activity": "Evening Weight Training",
+    "link": "https://www.strava.com/activities/17771517626",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. März 2026 um 14:17",
+    "km": "21,26",
+    "hm": "277",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17767083220",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. März 2026 um 18:51",
+    "km": "37,39",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17758535188",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. März 2026 um 12:15",
+    "km": "115,49",
+    "hm": "97",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/17733310161",
+    "description": "Wieder erfolgreich paar Straßen die ich nie wieder fahren will erledigt",
+    "buddies": []
+  },
+  {
+    "date": "14. März 2026",
+    "km": "51,89",
+    "hm": "512",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/17717689183",
+    "description": "",
+    "buddies": [
+      "David Reischer",
+      "Stefan Krajnik",
+      "Max Tretthann",
+      "Lena Novacek"
+    ]
+  },
+  {
+    "date": "Am 13. März 2026 um 15:01",
+    "km": "119,47",
+    "hm": "1.445",
+    "activity": "Exelbergen",
+    "link": "https://www.strava.com/activities/17711217103",
+    "description": "Wiedermal im Dunkeln geendet",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. März 2026 um 16:15",
+    "km": "90,20",
+    "hm": "402",
+    "activity": "Planespotting",
+    "link": "https://www.strava.com/activities/17689290680",
+    "description": "Nur Buckelpistengravel",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. März 2026 um 19:50",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body",
+    "link": "https://www.strava.com/activities/17677304415",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. März 2026 um 11:46",
+    "km": "27,11",
+    "hm": 0,
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/17671129225",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. März 2026 um 17:51",
+    "km": "84,38",
+    "hm": "96",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17653431633",
+    "description": "Part 2",
+    "buddies": []
+  },
+  {
+    "date": "Am 8. März 2026 um 16:48",
+    "km": "24,49",
+    "hm": "46",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17654482853",
+    "description": "Part 1 bissl TT",
+    "buddies": []
+  },
+  {
+    "date": "7. März 2026",
+    "km": "65,06",
+    "hm": "634",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/17633873099",
+    "description": "Alle hinter die Maxi Lokomotive",
+    "buddies": [
+      "Stefan Krajnik",
+      "Max Tretthann"
+    ]
+  },
+  {
+    "date": "Am 6. März 2026 um 14:49",
+    "km": "56,94",
+    "hm": "929",
+    "activity": "Windy Ride",
+    "link": "https://www.strava.com/activities/17626775332",
+    "description": "Abschluss mit WillHaben Auftrag für Max Tretthann",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. März 2026 um 13:18",
+    "km": "28,65",
+    "hm": "53",
+    "activity": "NZMD",
+    "link": "https://www.strava.com/activities/17626915462",
+    "description": "Endlich mal mit der (für mich) neuen Zeitmaschine unterwegs",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. März 2026 um 16:31",
+    "km": "78,45",
+    "hm": "102",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17604503606",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. März 2026 um 19:03",
+    "km": 0,
+    "hm": 0,
+    "activity": "Evening Weight Training",
+    "link": "https://www.strava.com/activities/17601618791",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. März 2026 um 12:20",
+    "km": "24,21",
+    "hm": 0,
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/17587054419",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 1. März 2026 um 11:24",
+    "km": "133,09",
+    "hm": "1.653",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/17567961916",
+    "description": "Start mit Winkler & JuliAnna\nEnde mit Erich & Robin",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Februar 2026 um 08:51",
+    "km": "28,34",
+    "hm": 0,
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/17538739171",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Februar 2026 um 20:04",
+    "km": "37,20",
+    "hm": "48",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17538324540",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Februar 2026 um 15:45",
+    "km": "6,88",
+    "hm": "36",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17533551469",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Februar 2026 um 20:52",
+    "km": "36,54",
+    "hm": "65",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17510975887",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Februar 2026 um 12:59",
+    "km": "117,43",
+    "hm": 0,
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/17485975634",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Februar 2026 um 14:32",
+    "km": "42,87",
+    "hm": 0,
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17473197153",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Februar 2026 um 13:44",
+    "km": "36,55",
+    "hm": "120",
+    "activity": "Wi(e)nterwonderland",
+    "link": "https://www.strava.com/activities/17462251945",
+    "description": "Keine Radfahrer aber einige Langläufer unterwegs \n\nTempo gleich 0",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Februar 2026 um 14:01",
+    "km": "31,67",
+    "hm": 0,
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17439506906",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Februar 2026 um 18:33",
+    "km": "61,70",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17431858342",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. Februar 2026 um 14:10",
+    "km": "39,31",
+    "hm": 0,
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17406729364",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Februar 2026 um 11:17",
+    "km": "36,15",
+    "hm": "55",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/17393500667",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Februar 2026 um 13:11",
+    "km": "122,09",
+    "hm": "215",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17386378470",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Februar 2026 um 13:53",
+    "km": "20,03",
+    "hm": 0,
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17362422930",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Februar 2026 um 18:58",
+    "km": "49,74",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17354817404",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Februar 2026 um 21:09",
+    "km": 0,
+    "hm": 0,
+    "activity": "Night Weight Training",
+    "link": "https://www.strava.com/activities/17443298644",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Februar 2026 um 10:08",
+    "km": "83,50",
+    "hm": "7.857",
+    "activity": "Morning Nordic Ski",
+    "link": "https://www.strava.com/activities/17443302998",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Februar 2026 um 12:14",
+    "km": "27,13",
+    "hm": 0,
+    "activity": "Wiedermal Langlaufen",
+    "link": "https://www.strava.com/activities/17260539322",
+    "description": "Füße tot",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. Februar 2026 um 05:53",
+    "km": "9,74",
+    "hm": "736",
+    "activity": "Hanenkampl Frühaufsteher",
+    "link": "https://www.strava.com/activities/17258508532",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Januar 2026 um 11:18",
+    "km": "85,54",
+    "hm": "825",
+    "activity": "Schneeabenteuer",
+    "link": "https://www.strava.com/activities/17239246313",
+    "description": "Nach 1 Monat wieder draußen,  Handgelenk hält 🫡",
+    "buddies": []
+  },
+  {
+    "date": "Am 30. Januar 2026 um 12:55",
+    "km": "30,31",
+    "hm": 0,
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/17227048273",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Januar 2026 um 18:54",
+    "km": "47,82",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17220423210",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Januar 2026 um 12:11",
+    "km": "29,23",
+    "hm": 0,
+    "activity": "Cycling",
+    "link": "https://www.strava.com/activities/17219034490",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Januar 2026 um 19:17",
+    "km": "50,60",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17186533588",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Januar 2026 um 15:53",
+    "km": "14,52",
+    "hm": "24",
+    "activity": "Ramp Test",
+    "link": "https://www.strava.com/activities/17162867176",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. Januar 2026 um 16:16",
+    "km": "24,35",
+    "hm": 0,
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/17151217243",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Januar 2026 um 19:20",
+    "km": "37,33",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17142563922",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. Januar 2026 um 11:50",
+    "km": "23,91",
+    "hm": 0,
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/17114185542",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. Januar 2026 um 13:09",
+    "km": "92,62",
+    "hm": 0,
+    "activity": "GA1",
+    "link": "https://www.strava.com/activities/17095113103",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Januar 2026 um 20:15",
+    "km": "19,67",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17073129371",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Januar 2026 um 19:22",
+    "km": "50,63",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17051169092",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Januar 2026 um 18:29",
+    "km": "51,84",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17038379355",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. Januar 2026 um 19:03",
+    "km": "62,60",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/17016656733",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Januar 2026 um 16:19",
+    "km": "36,19",
+    "hm": 0,
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16991390015",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Januar 2026 um 11:24",
+    "km": "48,03",
+    "hm": 0,
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/16967168049",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. Januar 2026 um 18:23",
+    "km": "36,83",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/16947995814",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "31. Dezember 2025",
+    "km": "102,31",
+    "hm": "1.252",
+    "activity": "Forchtenstein Silvesterausfahrt",
+    "link": "https://www.strava.com/activities/16894335808",
+    "description": "War scho mal leichter",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 30. Dezember 2025 um 12:57",
+    "km": "33,68",
+    "hm": "97",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/16883935498",
+    "description": "Gsund radeln",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Dezember 2025 um 08:46",
+    "km": "98,76",
+    "hm": 0,
+    "activity": "Schifoan",
+    "link": "https://www.strava.com/activities/16855771989",
+    "description": "Mit Fam bei ☀️\nSchnee nur eisiger Kunstschnee",
+    "buddies": []
+  },
+  {
+    "date": "Am 26. Dezember 2025 um 13:09",
+    "km": "35,77",
+    "hm": "487",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16845047398",
+    "description": "Mal was neues ohne Nebel\nForstweg war grenzwertig, komplett vereist",
+    "buddies": []
+  },
+  {
+    "date": "Am 24. Dezember 2025 um 07:37",
+    "km": "22,64",
+    "hm": "586",
+    "activity": "Schneeausfahrt",
+    "link": "https://www.strava.com/activities/16826411931",
+    "description": "Hals ohne Ketten is grad riskant, aber mim Gravel sicherer als Wald bergab \nExtra früh wegen Luk",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Dezember 2025 um 20:26",
+    "km": "23,46",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/16814190577",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Dezember 2025 um 17:47",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Weight Training",
+    "link": "https://www.strava.com/activities/16814082830",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. Dezember 2025 um 12:30",
+    "km": "30,49",
+    "hm": 0,
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/16766932047",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. Dezember 2025 um 19:59",
+    "km": "35,25",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/16761463755",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Dezember 2025 um 21:13",
+    "km": 0,
+    "hm": 0,
+    "activity": "Legs",
+    "link": "https://www.strava.com/activities/16744102586",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Dezember 2025 um 11:47",
+    "km": "24,92",
+    "hm": 0,
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/16739479310",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Dezember 2025 um 12:31",
+    "km": "69,56",
+    "hm": "89",
+    "activity": "Schlammschlacht",
+    "link": "https://www.strava.com/activities/16731968782",
+    "description": "Najo",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Dezember 2025 um 19:44",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body",
+    "link": "https://www.strava.com/activities/16706909005",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. Dezember 2025 um 12:19",
+    "km": "21,11",
+    "hm": "49",
+    "activity": "Mittagspause",
+    "link": "https://www.strava.com/activities/16702786608",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. Dezember 2025 um 16:11",
+    "km": "36,54",
+    "hm": "60",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16695271651",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Dezember 2025 um 19:03",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body",
+    "link": "https://www.strava.com/activities/16695405336",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. Dezember 2025 um 11:41",
+    "km": "45,12",
+    "hm": "79",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/16675202101",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Dezember 2025 um 18:22",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body",
+    "link": "https://www.strava.com/activities/16650037829",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Dezember 2025 um 13:26",
+    "km": "24,16",
+    "hm": "51",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16647978136",
+    "description": "Hoffentlich wieder gesund",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Dezember 2025 um 20:29",
+    "km": "11,74",
+    "hm": 0,
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/16641868064",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. November 2025 um 19:16",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body + Stretching",
+    "link": "https://www.strava.com/activities/16508255542",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. November 2025 um 12:33",
+    "km": "38,51",
+    "hm": "77",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/16494413253",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 17. November 2025 um 17:29",
+    "km": "1.199",
+    "hm": 0,
+    "activity": "Afternoon Swim",
+    "link": "https://www.strava.com/activities/16486947899",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. November 2025 um 15:39",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body + Stretching",
+    "link": "https://www.strava.com/activities/16477585074",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. November 2025 um 19:22",
+    "km": "4,66",
+    "hm": "0",
+    "activity": "Storch aufstellen",
+    "link": "https://www.strava.com/activities/16457732811",
+    "description": "Schaut schlecht aus für die Ausfahrt morgen",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. November 2025 um 18:50",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body + Stretching",
+    "link": "https://www.strava.com/activities/16449042830",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. November 2025 um 14:02",
+    "km": "53,53",
+    "hm": "75",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16436095391",
+    "description": "Echtes Novemberwetter im Vergleich zum Westen",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. November 2025 um 20:28",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body + Stretching",
+    "link": "https://www.strava.com/activities/16418006601",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 10. November 2025 um 13:47",
+    "km": "40,31",
+    "hm": "75",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16414302851",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 9. November 2025 um 10:23",
+    "km": "76,03",
+    "hm": "836",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/16404016765",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. November 2025 um 16:49",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body + Stretching",
+    "link": "https://www.strava.com/activities/16386059474",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. November 2025 um 14:24",
+    "km": "50,65",
+    "hm": "129",
+    "activity": "Stürmisch",
+    "link": "https://www.strava.com/activities/16374743406",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 5. November 2025 um 19:37",
+    "km": "3,77",
+    "hm": 0,
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/16366499100",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. November 2025 um 19:25",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body",
+    "link": "https://www.strava.com/activities/16355908380",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. November 2025 um 12:25",
+    "km": "37,53",
+    "hm": "70",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/16351621949",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 31. Oktober 2025 um 13:42",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body",
+    "link": "https://www.strava.com/activities/16312029583",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Oktober 2025 um 15:53",
+    "km": "20,14",
+    "hm": "45",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16293413481",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 29. Oktober 2025 um 15:47",
+    "km": "2,62",
+    "hm": "3",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16293414145",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 28. Oktober 2025 um 11:42",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body",
+    "link": "https://www.strava.com/activities/16280617403",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 27. Oktober 2025 um 19:47",
+    "km": "2,83",
+    "hm": 0,
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/16274346138",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. Oktober 2025 um 14:40",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body",
+    "link": "https://www.strava.com/activities/16252916718",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. Oktober 2025 um 15:04",
+    "km": 0,
+    "hm": 0,
+    "activity": "Full Body",
+    "link": "https://www.strava.com/activities/16252918576",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 21. Oktober 2025 um 17:48",
+    "km": "21,16",
+    "hm": "299",
+    "activity": "Saisonende",
+    "link": "https://www.strava.com/activities/16213116803",
+    "description": "Eiserne Hand PR Versuch aber körperlich und mental kläglich gescheitert",
+    "buddies": []
+  },
+  {
+    "date": "19. Oktober 2025",
+    "km": "71,24",
+    "hm": "1.132",
+    "activity": "Pannonia Gravel",
+    "link": "https://www.strava.com/activities/16189842696",
+    "description": "Geiles Rennen, vor allem die Singletrail wenn ma niemanden vor sich hat 😅 \nP26 overall 2:34:02\nP11 M19-34\n\nTheo verloren nachdem der vor mir Theos Hinterrad verloren hat bergab, war dann nimma aufholbar\n\nGute Beine, perfekt komplett verhazt, am Ende ging fast nix mehr. 300g+ Carbs",
+    "buddies": [
+      "Raphael Heidner"
+    ]
+  },
+  {
+    "date": "Am 18. Oktober 2025 um 14:01",
+    "km": "9,55",
+    "hm": "266",
+    "activity": "Baden TT",
+    "link": "https://www.strava.com/activities/16179622715",
+    "description": "20:35 mit heftigen Gegenwind\nZiel war 500m vor dem eigentlichen Ziel in der Ausschreibung 💀💀 Also kein All out am letzten Anstieg leider. Aber höchster Puls in 2 Jahren 😂\nP17 overall \nP6 M30",
+    "buddies": []
+  },
+  {
+    "date": "17. Oktober 2025",
+    "km": "36,25",
+    "hm": "546",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16170895165",
+    "description": "Triboys",
+    "buddies": [
+      "Richard F.",
+      "Max Tretthann"
+    ]
+  },
+  {
+    "date": "Am 16. Oktober 2025 um 17:05",
+    "km": "45,03",
+    "hm": "94",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16161686061",
+    "description": "Mal im hellen starten",
+    "buddies": []
+  },
+  {
+    "date": "Am 14. Oktober 2025 um 17:59",
+    "km": "34,29",
+    "hm": "29",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/16139981813",
+    "description": "Wieder mal mit Auflegern",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. Oktober 2025 um 18:31",
+    "km": "27,67",
+    "hm": "44",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/16129485311",
+    "description": "Samstag ausradeln",
+    "buddies": []
+  },
+  {
+    "date": "11. Oktober 2025",
+    "km": "311,79",
+    "hm": "587",
+    "activity": "Passau oder Pass out",
+    "link": "https://www.strava.com/activities/16109459499",
+    "description": "Kan bock Partie nach 2 frühen Pannen aber Winkler hat ned aufghört reinzutreten.",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 9. Oktober 2025 um 21:57",
+    "km": "32,77",
+    "hm": 0,
+    "activity": "Night Ride",
+    "link": "https://www.strava.com/activities/16089645660",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 6. Oktober 2025 um 17:26",
+    "km": "46,67",
+    "hm": "151",
+    "activity": "Sidequest Wien ✅️",
+    "link": "https://www.strava.com/activities/16054462887",
+    "description": "Eigentlich kann ma echt scho gut in Wien radfahren",
+    "buddies": []
+  },
+  {
+    "date": "Am 4. Oktober 2025 um 11:27",
+    "km": "59,83",
+    "hm": "1.069",
+    "activity": "Sophienalpengravel",
+    "link": "https://www.strava.com/activities/16030107625",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 3. Oktober 2025 um 14:58",
+    "km": "62,92",
+    "hm": "237",
+    "activity": "Von Wien verweht",
+    "link": "https://www.strava.com/activities/16021473856",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "1. Oktober 2025",
+    "km": "57,31",
+    "hm": "683",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/16002242319",
+    "description": "Start Dunkelfahrten",
+    "buddies": [
+      "Erich Weszelits",
+      "Jakob Hutter"
+    ]
+  },
+  {
+    "date": "28. September 2025",
+    "km": "93,11",
+    "hm": "1.410",
+    "activity": "Morning Ride",
+    "link": "https://www.strava.com/activities/15964713253",
+    "description": "Schlammpartie mim Dinkels",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "Am 25. September 2025 um 17:25",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Weight Training",
+    "link": "https://www.strava.com/activities/15934007312",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 25. September 2025 um 17:00",
+    "km": "3,26",
+    "hm": 0,
+    "activity": "Afternoon Run",
+    "link": "https://www.strava.com/activities/15934007467",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. September 2025 um 13:47",
+    "km": "7,87",
+    "hm": "40",
+    "activity": "King of the Lake 4er Team - Mechanical ❌️",
+    "link": "https://www.strava.com/activities/15875721735",
+    "description": "Umwerfer abgebrochen, einfach beim Schalten nach 10 Minuten\nExtrem bitter und das Team nur zu dritt unterwegs damit",
+    "buddies": []
+  },
+  {
+    "date": "Am 20. September 2025 um 12:43",
+    "km": "5,55",
+    "hm": "53",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/15874546844",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 19. September 2025 um 17:56",
+    "km": "26,72",
+    "hm": "363",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15867123535",
+    "description": "Einrollen KotL",
+    "buddies": []
+  },
+  {
+    "date": "Am 18. September 2025 um 18:35",
+    "km": "24,05",
+    "hm": "373",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/15856547647",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. September 2025 um 20:20",
+    "km": "3,16",
+    "hm": 0,
+    "activity": "Evening Run",
+    "link": "https://www.strava.com/activities/15834399519",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. September 2025 um 18:59",
+    "km": "35,33",
+    "hm": "53",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/15833906811",
+    "description": "Overunder iwas",
+    "buddies": []
+  },
+  {
+    "date": "15. September 2025",
+    "km": "45,21",
+    "hm": "76",
+    "activity": "Pizza Ride 🍕",
+    "link": "https://www.strava.com/activities/15822983982",
+    "description": "Entspannt mim Erich",
+    "buddies": [
+      "Erich Weszelits"
+    ]
+  },
+  {
+    "date": "Am 14. September 2025 um 09:26",
+    "km": "1,41",
+    "hm": "182",
+    "activity": "Peilstein Tag am Fels",
+    "link": "https://www.strava.com/activities/15834400732",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 13. September 2025 um 12:35",
+    "km": "116,43",
+    "hm": "2.353",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/15798902211",
+    "description": "PR Hohe Wand Abbruch",
+    "buddies": []
+  },
+  {
+    "date": "Am 12. September 2025 um 19:06",
+    "km": "24,19",
+    "hm": "348",
+    "activity": "Evening Ride",
+    "link": "https://www.strava.com/activities/15788768583",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. September 2025 um 17:03",
+    "km": "62,75",
+    "hm": "717",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/15777649931",
+    "description": "Offseason fun",
+    "buddies": []
+  },
+  {
     "date": "Am 7. September 2025 um 06:30",
+    "km": "215,11",
+    "hm": "4.320",
     "activity": "Kitzbüheler Radmarathon 2025 🌋",
     "link": "https://www.strava.com/activities/15728643632",
     "description": "7:50:25 - 205.  (M30 75.). Extra hart aber zufrieden\n\nRennbericht 👇\n\n8 Grad in der früh kurz kurz mit Windweste, sind illegal im stockdunkeln ohne Licht hingefahren 🤫\n20 Mintuen vor Start noch ein 2. Mal schei*n \n\nStart full Send mit höchster Heartrate des Rennens aber mit 2. Gruppe am Pass Thurn ankommen. Abfahrt",
@@ -5555,6 +7957,8 @@ const activitiesNiki = [
   },
   {
     "date": "6. September 2025",
+    "km": "32,73",
+    "hm": "368",
     "activity": "Einrollen",
     "link": "https://www.strava.com/activities/15717830204",
     "description": "Traumwetter",
@@ -5564,6 +7968,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. September 2025 um 21:40",
+    "km": "26,14",
+    "hm": "1",
     "activity": "Ride of Shame",
     "link": "https://www.strava.com/activities/15699033174",
     "description": "Einfach Helm vergessen und wieder 5km zurück fahren können 🫡",
@@ -5571,6 +7977,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. September 2025 um 21:03",
+    "km": "40,58",
+    "hm": "58",
     "activity": "Night Ride",
     "link": "https://www.strava.com/activities/15687451314",
     "description": "Der frühe Vogel",
@@ -5578,6 +7986,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. September 2025 um 22:33",
+    "km": "41,98",
+    "hm": "50",
     "activity": "Night Ride",
     "link": "https://www.strava.com/activities/15676295544",
     "description": "Uhrzeit übersehen",
@@ -5585,6 +7995,8 @@ const activitiesNiki = [
   },
   {
     "date": "31. August 2025",
+    "km": "93,56",
+    "hm": "1.241",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/15648600030",
     "description": "Mim TriDad",
@@ -5594,6 +8006,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. August 2025 um 10:52",
+    "km": "44,64",
+    "hm": "69",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/15635276071",
     "description": "Saison Formhöhepunkt war wohl letzte Woche",
@@ -5601,6 +8015,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. August 2025 um 18:04",
+    "km": "73,92",
+    "hm": "142",
     "activity": "Fahrverbot",
     "link": "https://www.strava.com/activities/15629650978",
     "description": "100 Fahrverbote auf der geplanten Route = im Dunkeln neue Wege suchen und verfahren",
@@ -5608,6 +8024,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. August 2025 um 19:21",
+    "km": "54,84",
+    "hm": "76",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/15608638742",
     "description": "Elendiger Muskelkater",
@@ -5615,6 +8033,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. August 2025 um 12:21",
+    "km": "23,75",
+    "hm": "276",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/15591104509",
     "description": "Muskelkater ausfahren",
@@ -5622,6 +8042,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. August 2025 um 11:48",
+    "km": "16,69",
+    "hm": "51",
     "activity": "Hike & Bike 💯0",
     "link": "https://www.strava.com/activities/15578868429",
     "description": "Hin meiste mim Bus, zurück um 3 Minuten verpasst",
@@ -5629,6 +8051,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. August 2025 um 10:22",
+    "km": "4,92",
+    "hm": "3",
     "activity": "Rettenstein Bergab",
     "link": "https://www.strava.com/activities/15578870682",
     "description": "",
@@ -5636,6 +8060,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. August 2025 um 08:52",
+    "km": "4,85",
+    "hm": "1.182",
     "activity": "Großer Rettenstein Attacke 🥵",
     "link": "https://www.strava.com/activities/15578872649",
     "description": "Zu schnell gestartet, mit Abstieg ca. 2:29h\nMit vielen Murmeltieren",
@@ -5643,6 +8069,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. August 2025 um 13:46",
+    "km": "136,16",
+    "hm": "1.272",
     "activity": "Zellbesuch",
     "link": "https://www.strava.com/activities/15572746921",
     "description": "Ned einfach heute",
@@ -5650,6 +8078,8 @@ const activitiesNiki = [
   },
   {
     "date": "23. August 2025",
+    "km": "118,46",
+    "hm": "1.004",
     "activity": "Quack quack 🦆Attak de Pogacar",
     "link": "https://www.strava.com/activities/15558674080",
     "description": "Um den Kaiser, Herz kennt sich nix mehr aus",
@@ -5661,6 +8091,8 @@ const activitiesNiki = [
   },
   {
     "date": "21. August 2025",
+    "km": "4,69",
+    "hm": 0,
     "activity": "Kitz Run",
     "link": "https://www.strava.com/activities/15533206094",
     "description": "Mit den Laufmäusen",
@@ -5670,6 +8102,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. August 2025 um 06:44",
+    "km": "43,57",
+    "hm": "356",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/15520770891",
     "description": "Urlaubsstartintervalle",
@@ -5677,6 +8111,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. August 2025 um 18:19",
+    "km": "3,77",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/15514635670",
     "description": "",
@@ -5684,6 +8120,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. August 2025 um 06:03",
+    "km": "65,05",
+    "hm": "996",
     "activity": "Höhenstraße",
     "link": "https://www.strava.com/activities/15509631363",
     "description": "Endlich mal in voller Länge",
@@ -5691,6 +8129,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. August 2025 um 20:23",
+    "km": "3,77",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/15493612706",
     "description": "",
@@ -5698,6 +8138,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. August 2025 um 09:58",
+    "km": "142,50",
+    "hm": "210",
     "activity": "Wirrwarr",
     "link": "https://www.strava.com/activities/15489866557",
     "description": "",
@@ -5705,6 +8147,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. August 2025 um 19:06",
+    "km": "5,19",
+    "hm": "4",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/15493613671",
     "description": "",
@@ -5712,6 +8156,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. August 2025 um 13:42",
+    "km": "4,52",
+    "hm": "0",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/15493614126",
     "description": "",
@@ -5719,6 +8165,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. August 2025 um 07:07",
+    "km": "42,99",
+    "hm": "498",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/15463719729",
     "description": "Aufwärmen fürs Volleyballturnier \n3x15",
@@ -5726,6 +8174,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. August 2025 um 05:31",
+    "km": "89,88",
+    "hm": "854",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/15453388226",
     "description": "",
@@ -5733,6 +8183,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. August 2025 um 07:03",
+    "km": "45,65",
+    "hm": "69",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/15430051134",
     "description": "Sivakov/UAE Intervalle bevor die Hitze kommt",
@@ -5740,6 +8192,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. August 2025 um 21:41",
+    "km": "3,21",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/15425175334",
     "description": "",
@@ -5747,6 +8201,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. August 2025 um 19:19",
+    "km": "57,41",
+    "hm": "62",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/15425209141",
     "description": "",
@@ -5754,6 +8210,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. August 2025 um 08:13",
+    "km": "106,67",
+    "hm": "1.258",
     "activity": "Klassische Kuchl",
     "link": "https://www.strava.com/activities/15408404135",
     "description": "Lieber wenig Schlaf als viel Hitze",
@@ -5761,6 +8219,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. August 2025 um 15:50",
+    "km": "3,83",
+    "hm": "24",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/15425175891",
     "description": "",
@@ -5768,6 +8228,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. August 2025 um 10:29",
+    "km": "43,04",
+    "hm": "1.026",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/15385968469",
     "description": "Das sporadische Hitzetraining hat wohl nix gebracht 🥵🥵🥵",
@@ -5775,6 +8237,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. August 2025 um 18:11",
+    "km": "57,80",
+    "hm": "406",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/15379943009",
     "description": "",
@@ -5782,6 +8246,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. August 2025 um 20:41",
+    "km": "3,23",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/15369335140",
     "description": "",
@@ -5789,6 +8255,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. August 2025 um 10:39",
+    "km": "44,54",
+    "hm": "851",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/15350756099",
     "description": "",
@@ -5796,6 +8264,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. August 2025 um 13:45",
+    "km": "77,55",
+    "hm": "73",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/15341497808",
     "description": "",
@@ -5803,6 +8273,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. August 2025 um 21:41",
+    "km": "2,54",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/15334804153",
     "description": "",
@@ -5810,6 +8282,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. August 2025 um 15:09",
+    "km": "2,87",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/15308399929",
     "description": "",
@@ -5817,6 +8291,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. August 2025 um 13:01",
+    "km": "39,17",
+    "hm": "405",
     "activity": "Weidlingbach Flowtrail",
     "link": "https://www.strava.com/activities/15308417182",
     "description": "1. Sturz ✅️ Schlecht vorne gebremst",
@@ -5824,6 +8300,8 @@ const activitiesNiki = [
   },
   {
     "date": "30. Juli 2025",
+    "km": "61,68",
+    "hm": "581",
     "activity": "Wilder Gravel",
     "link": "https://www.strava.com/activities/15290422185",
     "description": "Alles genommen was geht mim Luki",
@@ -5833,6 +8311,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. Juli 2025 um 21:19",
+    "km": "2,39",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/15278876316",
     "description": "",
@@ -5840,6 +8320,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. Juli 2025 um 19:14",
+    "km": "38,21",
+    "hm": "63",
     "activity": "Evening Gravel Ride",
     "link": "https://www.strava.com/activities/15278878955",
     "description": "",
@@ -5847,6 +8329,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Juli 2025 um 10:42",
+    "km": "112,09",
+    "hm": "903",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/15252864031",
     "description": "Weniger Regen, mehr Wind",
@@ -5854,6 +8338,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. Juli 2025 um 16:53",
+    "km": "51,18",
+    "hm": "66",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/15243979587",
     "description": "2x30",
@@ -5861,6 +8347,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. Juli 2025 um 17:57",
+    "km": "84,04",
+    "hm": "847",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/15234776700",
     "description": "Nass bergabfahren üben",
@@ -5868,6 +8356,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juli 2025 um 19:43",
+    "km": "29,17",
+    "hm": "502",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/15213382047",
     "description": "4x4 auf tod",
@@ -5875,6 +8365,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Juli 2025 um 19:09",
+    "km": "50,14",
+    "hm": "61",
     "activity": "Lobauabenteuer",
     "link": "https://www.strava.com/activities/15201870838",
     "description": "",
@@ -5882,6 +8374,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Juli 2025 um 21:29",
+    "km": "2,26",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/15190543188",
     "description": "",
@@ -5889,6 +8383,8 @@ const activitiesNiki = [
   },
   {
     "date": "19. Juli 2025",
+    "km": "64,59",
+    "hm": "1.630",
     "activity": "Alpe d´Huez - Col du Sarenne ⛈️ | Frankreich 4",
     "link": "https://www.strava.com/activities/15164229978",
     "description": "Ab Hälfte Huez Regen - Miserabelste Abfahrt aller Zeiten vom Sarenne 🥶 (Schlechte Straße, Schotter und Schüttregen)",
@@ -5898,6 +8394,8 @@ const activitiesNiki = [
   },
   {
     "date": "18. Juli 2025",
+    "km": "119,12",
+    "hm": "2.870",
     "activity": "Col du Galibier Nord+Süd - Col du Télégraphe | Frankreich 3",
     "link": "https://www.strava.com/activities/15154534373",
     "description": "Epic und perfektes Wetter 🙌🏻. Col du Lautaret Full Send runter mit paar Überholmanövern \nGestern wär autofreier Tag gewesen Galibier aber das hama erst am Abend checkt 🤣",
@@ -5907,6 +8405,8 @@ const activitiesNiki = [
   },
   {
     "date": "17. Juli 2025",
+    "km": "119,82",
+    "hm": "3.856",
     "activity": "Col d'Izoard Nord+Süd - Col Agnel | Frankreich 2",
     "link": "https://www.strava.com/activities/15145161281",
     "description": "Ewige Climbs (19, 21, 15km),  garstiger Wind und Hitze\n\nAm Ende noch zerstört, is ja ned so als wärs erst Tag 2/4",
@@ -5916,6 +8416,8 @@ const activitiesNiki = [
   },
   {
     "date": "16. Juli 2025",
+    "km": "45,25",
+    "hm": "1.708",
     "activity": "Col du Granon - Les Etieux | Frankreich 1",
     "link": "https://www.strava.com/activities/15134964231",
     "description": "Fast so schnell wie Jonas/Pogi \nNicht für ihre Abfahren bekannt die Anstiege - dünne Luft spürbar",
@@ -5925,6 +8427,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Juli 2025 um 18:39",
+    "km": "41,32",
+    "hm": "282",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/15113401229",
     "description": "",
@@ -5932,6 +8436,8 @@ const activitiesNiki = [
   },
   {
     "date": "12. Juli 2025",
+    "km": "71,28",
+    "hm": "916",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/15087884765",
     "description": "Durch Wind und Regen mit den boys",
@@ -5942,6 +8448,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Juli 2025 um 14:27",
+    "km": "118,56",
+    "hm": "1.322",
     "activity": "Spaßrunde",
     "link": "https://www.strava.com/activities/15081077853",
     "description": "Halbe Malle26 partie",
@@ -5949,6 +8457,8 @@ const activitiesNiki = [
   },
   {
     "date": "10. Juli 2025",
+    "km": "43,14",
+    "hm": "521",
     "activity": "Afternoon Gravel Ride",
     "link": "https://www.strava.com/activities/15070944710",
     "description": "Das einzige was am Tubelesssetup vom Vorgänger gepasst hat war dass ka Schlauch drin war - innen trocken bzw. Lehmwasser 🤣",
@@ -5958,6 +8468,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. Juli 2025 um 18:20",
+    "km": "35,67",
+    "hm": "669",
     "activity": "Steinwandklamm",
     "link": "https://www.strava.com/activities/15049260292",
     "description": "Ein Gravelbike ist kein Mountainbike \nEin Gravelbike ist kein Mountainbike \nEin Gravelbike ist kein Mountainbike",
@@ -5965,6 +8477,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Juli 2025 um 11:38",
+    "km": "29,37",
+    "hm": "865",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/15024066812",
     "description": "",
@@ -5972,6 +8486,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. Juli 2025 um 20:56",
+    "km": "19,44",
+    "hm": "400",
     "activity": "First Ride",
     "link": "https://www.strava.com/activities/15037711124",
     "description": "Ok Gravel beste",
@@ -5979,6 +8495,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. Juli 2025 um 19:41",
+    "km": "45,86",
+    "hm": "58",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/14987136220",
     "description": "Iwas aber zumindest gefahren",
@@ -5986,6 +8504,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. Juli 2025 um 07:30",
+    "km": "57,57",
+    "hm": "68",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/14970269738",
     "description": "",
@@ -5993,6 +8513,8 @@ const activitiesNiki = [
   },
   {
     "date": "29. Juni 2025",
+    "km": "51,71",
+    "hm": "512",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/14951023690",
     "description": "Maxi ziehen lassen",
@@ -6002,6 +8524,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Juni 2025 um 23:15",
+    "km": 0,
+    "hm": 0,
     "activity": "Night Weight Training",
     "link": "https://www.strava.com/activities/15037712346",
     "description": "",
@@ -6009,6 +8533,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Juni 2025 um 10:15",
+    "km": "48,96",
+    "hm": "1.046",
     "activity": "Reneee",
     "link": "https://www.strava.com/activities/14940285592",
     "description": "Abschluss bei Dinkels und Dinklerin, danke fürs Geschenk 🫶🏻\n4x8",
@@ -6016,6 +8542,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Juni 2025 um 20:10",
+    "km": "44,35",
+    "hm": "66",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/14935144105",
     "description": "",
@@ -6023,6 +8551,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. Juni 2025 um 08:14",
+    "km": "158,07",
+    "hm": "805",
     "activity": "Weinviertel",
     "link": "https://www.strava.com/activities/14911149562",
     "description": "Selbstgeißelung vom Feinsten - Route die die letzten 70km in Gegenwind zeigt und nach 3h Zwerchfellschmerzen beim Atmen 🤣",
@@ -6030,6 +8560,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juni 2025 um 08:11",
+    "km": "36,03",
+    "hm": "69",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14887646925",
     "description": "",
@@ -6037,6 +8569,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Juni 2025 um 11:08",
+    "km": "87,75",
+    "hm": "91",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/14880295679",
     "description": "Mit Muskelkater und Wind",
@@ -6044,17 +8578,22 @@ const activitiesNiki = [
   },
   {
     "date": "21. Juni 2025",
+    "km": "17,01",
+    "hm": "892",
     "activity": "Dürre Wand",
     "link": "https://www.strava.com/activities/14873788023",
     "description": "Geburtstagswanderung vom Flo",
     "buddies": [
       "Resa Kühmayer",
       "Christoph Winkler",
+      "Erich Weszelits",
       "Anna Birbamer"
     ]
   },
   {
     "date": "19. Juni 2025",
+    "km": "152,03",
+    "hm": "2.363",
     "activity": "Forchtenstein",
     "link": "https://www.strava.com/activities/14849533476",
     "description": "Hot and windy\nHR Tod",
@@ -6064,15 +8603,20 @@ const activitiesNiki = [
   },
   {
     "date": "17. Juni 2025",
+    "km": "59,01",
+    "hm": "904",
     "activity": "Heurigenintervalle",
     "link": "https://www.strava.com/activities/14831872896",
     "description": "Die Boys Heurigen\nIch Intervalle\nBesseres Radlwetter gibts ned",
     "buddies": [
+      "Erich Weszelits",
       "Lukas Pulling"
     ]
   },
   {
     "date": "Am 15. Juni 2025 um 13:19",
+    "km": "120,57",
+    "hm": "402",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14809466704",
     "description": "In den Gegendwind",
@@ -6080,6 +8624,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Juni 2025 um 16:48",
+    "km": "27,51",
+    "hm": "447",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14798257744",
     "description": "Auf und ab",
@@ -6087,6 +8633,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. Juni 2025 um 18:19",
+    "km": "55,82",
+    "hm": "405",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/14757780684",
     "description": "",
@@ -6094,6 +8642,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Juni 2025 um 10:06",
+    "km": "31,80",
+    "hm": "1.069",
     "activity": "Horn",
     "link": "https://www.strava.com/activities/14721553282",
     "description": "Mental zu schwach fürs Gipfelstück",
@@ -6101,6 +8651,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Juni 2025 um 14:59",
+    "km": "36,43",
+    "hm": "480",
     "activity": "Aschau",
     "link": "https://www.strava.com/activities/14714513040",
     "description": "",
@@ -6108,6 +8660,8 @@ const activitiesNiki = [
   },
   {
     "date": "4. Juni 2025",
+    "km": "77,04",
+    "hm": "931",
     "activity": "Nikko Ausfahrt",
     "link": "https://www.strava.com/activities/14696770263",
     "description": "Unter Regeneration stell ich ma was anderes vor",
@@ -6119,6 +8673,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. Juni 2025 um 19:31",
+    "km": "43,90",
+    "hm": "79",
     "activity": "Sundowner",
     "link": "https://www.strava.com/activities/14686766761",
     "description": "Mit Robinski",
@@ -6126,6 +8682,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 31. Mai 2025 um 18:32",
+    "km": "342,76",
+    "hm": "9.312",
     "activity": "Everesting Hafnerberg 🏔",
     "link": "https://www.strava.com/activities/14662735295",
     "description": "Erster Anstieg den ich mit einem Rennrad gefahren bin - jetzt durchgespielt - Zur Sicherheit extra Meter\n\nDanke an alle die vorbeigekommen sind  🫶🏻\n\nErnährung nur flüssig: 1850g Iso+Zucker Gemisch (2:3)\n\nVon 5-8 Uhr früh schwere Beine bekommen, das warme Wetter hat dann den Tag gerettet",
@@ -6133,6 +8691,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. Mai 2025 um 15:30",
+    "km": "3,13",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/14641517891",
     "description": "",
@@ -6140,6 +8700,8 @@ const activitiesNiki = [
   },
   {
     "date": "29. Mai 2025",
+    "km": "68,87",
+    "hm": "285",
     "activity": "Bratislava Kurzbesuch",
     "link": "https://www.strava.com/activities/14629455482",
     "description": "Bissl die Buben begleiten",
@@ -6150,6 +8712,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Mai 2025 um 19:53",
+    "km": "2,52",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/14623339104",
     "description": "",
@@ -6157,6 +8721,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Mai 2025 um 18:35",
+    "km": "22,90",
+    "hm": "500",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/14623388508",
     "description": "4x4",
@@ -6164,6 +8730,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Mai 2025 um 17:48",
+    "km": "69,02",
+    "hm": "100",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14613407723",
     "description": "Mit Robin",
@@ -6171,6 +8739,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. Mai 2025 um 20:30",
+    "km": "2,86",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/14603551595",
     "description": "",
@@ -6178,6 +8748,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. Mai 2025 um 12:37",
+    "km": "45,42",
+    "hm": "814",
     "activity": "Pannenservice",
     "link": "https://www.strava.com/activities/14590383350",
     "description": "Zumindest hat er seinen eigenen Schlauch ghabt\nMit Gravel",
@@ -6185,6 +8757,8 @@ const activitiesNiki = [
   },
   {
     "date": "24. Mai 2025",
+    "km": "101,41",
+    "hm": "1.194",
     "activity": "Umadum",
     "link": "https://www.strava.com/activities/14579625021",
     "description": "Mit Dinkels",
@@ -6194,6 +8768,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Mai 2025 um 12:10",
+    "km": "37,76",
+    "hm": "12",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14560030938",
     "description": "Regen entgangen",
@@ -6201,6 +8777,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Mai 2025 um 20:45",
+    "km": "2,53",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/14553927437",
     "description": "",
@@ -6208,6 +8786,8 @@ const activitiesNiki = [
   },
   {
     "date": "20. Mai 2025",
+    "km": "52,71",
+    "hm": "67",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14541278261",
     "description": "Mim Felix",
@@ -6217,6 +8797,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Mai 2025 um 18:29",
+    "km": "19,60",
+    "hm": "36",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/14531003425",
     "description": "Hoffentlich wieder gesund\n1. Mal mit gewachster Kette und Tubeless",
@@ -6224,6 +8806,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. Mai 2025 um 11:33",
+    "km": "89,52",
+    "hm": "898",
     "activity": "IM 70.3 Mallorca Swim & Bike | Bike",
     "link": "https://www.strava.com/activities/14434929154",
     "description": "Noch nie länger als 10 Minuten am TT gsessn davor (danke Max Tretthann fürs borgen)\nTour am Vortag hat ned geholfen, dafür ca. 500 Leute überholt - Wind oasch\n\nLaufen war mim Fuß nicht drin",
@@ -6231,6 +8815,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. Mai 2025 um 10:35",
+    "km": "1.923",
+    "hm": 0,
     "activity": "IM 70.3 Mallorca Swim & Bike | Swim",
     "link": "https://www.strava.com/activities/14434928964",
     "description": "Max Tretthann leider krank - spontan eingesprungen \n\nSeit 1 Jahr nicht geschwommen, ohne Neopren wärs zach gwesn 😂 Gut Salzwasser gschluckt",
@@ -6238,6 +8824,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Mai 2025 um 09:32",
+    "km": "114,53",
+    "hm": "2.216",
     "activity": "Cala Tuent > Sa Calobra",
     "link": "https://www.strava.com/activities/14425968048",
     "description": "Kurzurlaub. Nachbarbucht is schöner und ruhiger (praktisch 0 Menschen und keine Buse/Autos) und die Abfahrt + Anstieg hat ma td\n\nMit Schüttregen bei der Abfahrt 🥶🥶\n\nLeider solo unterwegs\nHR mit Ausetzer",
@@ -6245,6 +8833,8 @@ const activitiesNiki = [
   },
   {
     "date": "7. Mai 2025",
+    "km": "65,78",
+    "hm": "103",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14408099888",
     "description": "Lukas Pullings neues Gravel ausfahren",
@@ -6254,6 +8844,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Mai 2025 um 17:13",
+    "km": "25,71",
+    "hm": "709",
     "activity": "Eiserne",
     "link": "https://www.strava.com/activities/14396287235",
     "description": "5x5",
@@ -6261,6 +8853,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Mai 2025 um 20:41",
+    "km": "36,73",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/14388362975",
     "description": "Indoor = endme",
@@ -6268,6 +8862,8 @@ const activitiesNiki = [
   },
   {
     "date": "3. Mai 2025",
+    "km": "106,85",
+    "hm": "1.294",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/14363688354",
     "description": "Heiß \n105g Kh/h",
@@ -6278,6 +8874,8 @@ const activitiesNiki = [
   },
   {
     "date": "1. Mai 2025",
+    "km": "113,00",
+    "hm": "733",
     "activity": "Rust Free For All 2025",
     "link": "https://www.strava.com/activities/14344374282",
     "description": "Heuer ohne Baden",
@@ -6291,6 +8889,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. April 2025 um 19:13",
+    "km": "40,93",
+    "hm": "62",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/14335918447",
     "description": "Kurz mim Lukas",
@@ -6298,6 +8898,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. April 2025 um 16:58",
+    "km": "72,49",
+    "hm": "1.055",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14325354834",
     "description": "Exelberg Over/Unders auf iwie",
@@ -6305,6 +8907,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. April 2025 um 12:03",
+    "km": "47,96",
+    "hm": "191",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/14301470992",
     "description": "Kurz die Longrider begleiten",
@@ -6312,6 +8916,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. April 2025 um 12:43",
+    "km": "57,31",
+    "hm": "86",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/14291040015",
     "description": "",
@@ -6319,6 +8925,8 @@ const activitiesNiki = [
   },
   {
     "date": "23. April 2025",
+    "km": "54,30",
+    "hm": "67",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14264541309",
     "description": "Felix neues Rad abchecken",
@@ -6328,6 +8936,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. April 2025 um 19:25",
+    "km": "2,02",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/14254477857",
     "description": "",
@@ -6335,6 +8945,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. April 2025 um 18:18",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/14254479012",
     "description": "",
@@ -6342,15 +8954,20 @@ const activitiesNiki = [
   },
   {
     "date": "21. April 2025",
+    "km": "216,78",
+    "hm": "311",
     "activity": "Linz",
     "link": "https://www.strava.com/activities/14242788960",
     "description": "",
     "buddies": [
+      "Erich Weszelits",
       "Christoph Winkler"
     ]
   },
   {
     "date": "Am 20. April 2025 um 14:37",
+    "km": "5,95",
+    "hm": "10",
     "activity": "Drum & Bass On The Bike - Vienna",
     "link": "https://www.strava.com/activities/14233229096",
     "description": "Im Zuge der Hanfdemo - leicht mehr als die 200 angemeldeten, wie im Peloton",
@@ -6358,16 +8975,21 @@ const activitiesNiki = [
   },
   {
     "date": "19. April 2025",
+    "km": "68,84",
+    "hm": "326",
     "activity": "Loretto Genießer",
     "link": "https://www.strava.com/activities/14221713312",
     "description": "Ziehen lassen",
     "buddies": [
       "Christoph Winkler",
-      "Martin Nitsche"
+      "Martin Nitsche",
+      "Erich Weszelits"
     ]
   },
   {
     "date": "Am 17. April 2025 um 12:17",
+    "km": "22,79",
+    "hm": "472",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14202566874",
     "description": "Fast scho Hitzetraining",
@@ -6375,6 +8997,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. April 2025 um 18:26",
+    "km": "55,46",
+    "hm": "134",
     "activity": "Wiendig",
     "link": "https://www.strava.com/activities/14196904992",
     "description": "",
@@ -6382,15 +9006,20 @@ const activitiesNiki = [
   },
   {
     "date": "15. April 2025",
+    "km": "78,97",
+    "hm": "428",
     "activity": "Retz Endstation",
     "link": "https://www.strava.com/activities/14187379715",
     "description": "Wind im Rücken und mit Erinnerungen an die Reverse tour 2022 mit Resa Kühmayer",
     "buddies": [
-      "Lukas Pulling"
+      "Lukas Pulling",
+      "Erich Weszelits"
     ]
   },
   {
     "date": "Am 14. April 2025 um 08:56",
+    "km": "38,69",
+    "hm": "52",
     "activity": "Strade Salzburg",
     "link": "https://www.strava.com/activities/14172225162",
     "description": "",
@@ -6398,6 +9027,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. April 2025 um 09:28",
+    "km": "105,99",
+    "hm": "3.017",
     "activity": "Rossfeld und Gaisberg-Varianten",
     "link": "https://www.strava.com/activities/14155344752",
     "description": "Traumwetter, Rossfeld-Abfahrt nach Hallein is 🔥 Bergpanorama echt nice mit Schnee\n\nAber fast zu heiß am Ende die Anstiege\n86g KH/h",
@@ -6405,6 +9036,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. April 2025 um 10:17",
+    "km": "33,99",
+    "hm": "478",
     "activity": "Windy Ride",
     "link": "https://www.strava.com/activities/14144100147",
     "description": "",
@@ -6412,6 +9045,8 @@ const activitiesNiki = [
   },
   {
     "date": "9. April 2025",
+    "km": "85,31",
+    "hm": "914",
     "activity": "Windy Ride",
     "link": "https://www.strava.com/activities/14128749525",
     "description": "Mim TT Boi im fast Dauergegenwind\n\nWiedermal Erste Radhilfe geleistet, Schlauchspende und Master Blaster hams gerichtet",
@@ -6421,6 +9056,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. April 2025 um 17:56",
+    "km": "54,01",
+    "hm": "131",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14119737582",
     "description": "Letztes Drittel mit Mistral-Flo",
@@ -6428,6 +9065,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. April 2025 um 17:28",
+    "km": "3,51",
+    "hm": 0,
     "activity": "Soccerdome",
     "link": "https://www.strava.com/activities/14109524769",
     "description": "3 mal fast die Saison beendet mit die Arbeitskollegen",
@@ -6435,6 +9074,8 @@ const activitiesNiki = [
   },
   {
     "date": "5. April 2025",
+    "km": "106,20",
+    "hm": "1.436",
     "activity": "VeloRun Nostalgie",
     "link": "https://www.strava.com/activities/14086497450",
     "description": "Noch immer das beste Rennen - hats der Robin auch mal gsehn\n90g carbs/h fetzt",
@@ -6444,6 +9085,8 @@ const activitiesNiki = [
   },
   {
     "date": "4. April 2025",
+    "km": "54,03",
+    "hm": "53",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14079843497",
     "description": "Mit Fahrraddemo am Ende",
@@ -6453,6 +9096,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. April 2025 um 18:09",
+    "km": "3,83",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/14069790062",
     "description": "",
@@ -6460,6 +9105,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. April 2025 um 17:24",
+    "km": "74,62",
+    "hm": "558",
     "activity": "Puppyton Afterwork Ride",
     "link": "https://www.strava.com/activities/14061265626",
     "description": "Sheesh 🥵 praktisch a Rennen vorne",
@@ -6467,6 +9114,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. April 2025 um 17:03",
+    "km": "50,74",
+    "hm": "96",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14050488706",
     "description": "Anscheinend ham noch viele Stress kurz vorm VCM",
@@ -6474,6 +9123,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 31. März 2025 um 20:00",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/14041563696",
     "description": "",
@@ -6481,6 +9132,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. März 2025 um 21:42",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/14033504292",
     "description": "",
@@ -6488,6 +9141,8 @@ const activitiesNiki = [
   },
   {
     "date": "30. März 2025",
+    "km": "74,42",
+    "hm": "829",
     "activity": "Stürmisch",
     "link": "https://www.strava.com/activities/14030880413",
     "description": "Restfettn ausm Schädl blasen",
@@ -6497,6 +9152,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. März 2025 um 17:20",
+    "km": "53,57",
+    "hm": "96",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/14004475030",
     "description": "",
@@ -6504,6 +9161,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. März 2025 um 21:30",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/14033504647",
     "description": "",
@@ -6511,6 +9170,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. März 2025 um 17:19",
+    "km": "40,60",
+    "hm": "58",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13984699247",
     "description": "",
@@ -6518,6 +9179,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. März 2025 um 20:45",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13968141099",
     "description": "",
@@ -6525,6 +9188,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. März 2025 um 10:38",
+    "km": "79,33",
+    "hm": "1.598",
     "activity": "H(e)artattack",
     "link": "https://www.strava.com/activities/13964168824",
     "description": "Ruhewoche kann kommen\nWind fürchterlich 🤝🏼",
@@ -6532,6 +9197,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. März 2025 um 14:07",
+    "km": "101,40",
+    "hm": "1.201",
     "activity": "Random",
     "link": "https://www.strava.com/activities/13946982469",
     "description": "",
@@ -6539,6 +9206,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. März 2025 um 15:29",
+    "km": "59,74",
+    "hm": "769",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13928292429",
     "description": "Eiserne/Friedhof",
@@ -6546,6 +9215,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. März 2025 um 19:55",
+    "km": "3,68",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/13919627126",
     "description": "",
@@ -6553,6 +9224,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. März 2025 um 15:51",
+    "km": "63,08",
+    "hm": "113",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13918396646",
     "description": "",
@@ -6560,6 +9233,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. März 2025 um 19:33",
+    "km": 0,
+    "hm": 0,
     "activity": "Gewichtstraining am Abend",
     "link": "https://www.strava.com/activities/13920468623",
     "description": "",
@@ -6567,6 +9242,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. März 2025 um 13:34",
+    "km": "102,76",
+    "hm": "128",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13900774699",
     "description": "Dank Robin doch noch was gworden",
@@ -6574,6 +9251,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. März 2025 um 16:36",
+    "km": "32,98",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13881559521",
     "description": "Statt lang draußen kurz drinnen 🫠\nZumindest die Schaltung repariert",
@@ -6581,6 +9260,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. März 2025 um 15:27",
+    "km": "74,90",
+    "hm": "502",
     "activity": "Abriss",
     "link": "https://www.strava.com/activities/13863971209",
     "description": "Schaltseil hinten reißt genau wenns zurück in den Gegenwind geht 💥 \n\nHat sich im Nachhinein vielleicht schon angekündigt\nZumindest gleich in Klosterneuburg neu kauft",
@@ -6588,6 +9269,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. März 2025 um 20:48",
+    "km": "29,44",
+    "hm": "0",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/13856089820",
     "description": "Fallen hald beide Rücklichter aus",
@@ -6595,6 +9278,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. März 2025 um 19:14",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13919628349",
     "description": "",
@@ -6602,6 +9287,8 @@ const activitiesNiki = [
   },
   {
     "date": "9. März 2025",
+    "km": "78,87",
+    "hm": "1.066",
     "activity": "Puchberg Press 🥵",
     "link": "https://www.strava.com/activities/13833485039",
     "description": "Mit den Tri bois",
@@ -6612,6 +9299,8 @@ const activitiesNiki = [
   },
   {
     "date": "8. März 2025",
+    "km": "76,64",
+    "hm": "741",
     "activity": "Sunny Ride",
     "link": "https://www.strava.com/activities/13823136104",
     "description": "",
@@ -6622,6 +9311,8 @@ const activitiesNiki = [
   },
   {
     "date": "7. März 2025",
+    "km": "32,20",
+    "hm": "300",
     "activity": "Holzhacker",
     "link": "https://www.strava.com/activities/13815666676",
     "description": "Caleb auf da oiden Lady 🤣",
@@ -6631,6 +9322,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. März 2025 um 15:31",
+    "km": "36,33",
+    "hm": "969",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13797462080",
     "description": "",
@@ -6638,6 +9331,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. März 2025 um 16:43",
+    "km": "52,08",
+    "hm": "63",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13788675865",
     "description": "",
@@ -6645,6 +9340,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. März 2025 um 22:19",
+    "km": 0,
+    "hm": 0,
     "activity": "Night Weight Training",
     "link": "https://www.strava.com/activities/13781351237",
     "description": "",
@@ -6652,6 +9349,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. März 2025 um 21:30",
+    "km": "4,82",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/13780936783",
     "description": "",
@@ -6659,6 +9358,8 @@ const activitiesNiki = [
   },
   {
     "date": "1. März 2025",
+    "km": "44,47",
+    "hm": "295",
     "activity": "Familie Dinkels",
     "link": "https://www.strava.com/activities/13756942794",
     "description": "Karin ziagt gut",
@@ -6669,6 +9370,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Februar 2025 um 16:55",
+    "km": "7,42",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/13751619509",
     "description": "",
@@ -6676,6 +9379,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Februar 2025 um 12:31",
+    "km": "36,96",
+    "hm": 0,
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/13741194861",
     "description": "",
@@ -6683,6 +9388,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Februar 2025 um 20:30",
+    "km": "3,70",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/13716724217",
     "description": "",
@@ -6690,6 +9397,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Februar 2025 um 20:16",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13709087342",
     "description": "",
@@ -6697,6 +9406,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Februar 2025 um 13:04",
+    "km": "102,62",
+    "hm": "987",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13688320195",
     "description": "Zu viel Wind, zu wenig Essen",
@@ -6704,6 +9415,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Februar 2025 um 18:19",
+    "km": "7,40",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/13681593473",
     "description": "",
@@ -6711,6 +9424,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Februar 2025 um 20:28",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13673032462",
     "description": "",
@@ -6718,6 +9433,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Februar 2025 um 12:20",
+    "km": "34,13",
+    "hm": 0,
     "activity": "Intervalle 4x8",
     "link": "https://www.strava.com/activities/13668840229",
     "description": "",
@@ -6725,6 +9442,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Februar 2025 um 16:52",
+    "km": "50,36",
+    "hm": "120",
     "activity": "Evening Ride 🥶🥶",
     "link": "https://www.strava.com/activities/13662310330",
     "description": "",
@@ -6732,6 +9451,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. Februar 2025 um 21:14",
+    "km": "7,32",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/13654708998",
     "description": "",
@@ -6739,6 +9460,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. Februar 2025 um 10:13",
+    "km": 0,
+    "hm": 0,
     "activity": "Morning Weight Training",
     "link": "https://www.strava.com/activities/13654709875",
     "description": "Mim Luci",
@@ -6746,6 +9469,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. Februar 2025 um 10:43",
+    "km": "100,51",
+    "hm": "204",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/13633615967",
     "description": "",
@@ -6753,6 +9478,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Februar 2025 um 21:59",
+    "km": "5,47",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/13628107300",
     "description": "",
@@ -6760,6 +9487,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. Februar 2025 um 19:15",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13611153892",
     "description": "",
@@ -6767,6 +9496,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. Februar 2025 um 12:29",
+    "km": "32,64",
+    "hm": 0,
     "activity": "Indoor Ride",
     "link": "https://www.strava.com/activities/13607770072",
     "description": "",
@@ -6774,6 +9505,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Februar 2025 um 21:41",
+    "km": "5,50",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/13603066275",
     "description": "",
@@ -6781,6 +9514,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Februar 2025 um 16:22",
+    "km": "48,74",
+    "hm": "114",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13600896273",
     "description": "",
@@ -6788,6 +9523,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Februar 2025 um 20:43",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13586076825",
     "description": "",
@@ -6795,6 +9532,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Februar 2025 um 13:10",
+    "km": "55,65",
+    "hm": "575",
     "activity": "Abbruch ❌️",
     "link": "https://www.strava.com/activities/13585198954",
     "description": "Schleichpatschn -> Patschn -> Ersatzschlauch ohne auschraubaren Ventilkern mitgehabt -> Loch im Schlauch ned gefunden -> Kein Uber/Bolt/Taxi das kommt -> auf Bruder warten -> 1,5h im kalten verbracht 🤣💀",
@@ -6802,6 +9541,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Februar 2025 um 13:00",
+    "km": "30,33",
+    "hm": 0,
     "activity": "1. Mal Langlaufen",
     "link": "https://www.strava.com/activities/13564865866",
     "description": "Endlich mal geschafft \n1h mit Vanessa Gruber klassisch und dann skaten \nPaar schirche Stürze 🤣",
@@ -6809,6 +9550,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Februar 2025 um 18:44",
+    "km": "6,06",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/13557929541",
     "description": "",
@@ -6816,6 +9559,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Februar 2025 um 08:39",
+    "km": "128,47",
+    "hm": 0,
     "activity": "Abfahrt",
     "link": "https://www.strava.com/activities/13556642633",
     "description": "Ok vergessen wie geil es is mit gute Schi zu fahren 🤣😍",
@@ -6823,6 +9568,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Februar 2025 um 17:29",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/13548647986",
     "description": "",
@@ -6830,6 +9577,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Februar 2025 um 08:50",
+    "km": "8,50",
+    "hm": "1.003",
     "activity": "Schwarzkogel",
     "link": "https://www.strava.com/activities/13545869223",
     "description": "Wetter: Jap\nSchnee: Nope",
@@ -6837,6 +9586,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Februar 2025 um 15:42",
+    "km": "25,76",
+    "hm": "865",
     "activity": "Après Ski Ride",
     "link": "https://www.strava.com/activities/13538445121",
     "description": "",
@@ -6844,6 +9595,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. Februar 2025 um 20:41",
+    "km": "5,60",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/13523114345",
     "description": "",
@@ -6851,6 +9604,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. Februar 2025 um 13:06",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/13519473770",
     "description": "",
@@ -6858,6 +9613,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. Februar 2025 um 12:12",
+    "km": "75,34",
+    "hm": "1.015",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/13510621531",
     "description": "Irgendwas",
@@ -6865,6 +9622,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 31. Januar 2025 um 20:23",
+    "km": "5,57",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/13503821651",
     "description": "",
@@ -6872,6 +9631,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. Januar 2025 um 20:39",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13495952657",
     "description": "",
@@ -6879,6 +9640,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. Januar 2025 um 13:47",
+    "km": "47,80",
+    "hm": "111",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13493068580",
     "description": "",
@@ -6886,6 +9649,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Januar 2025 um 21:25",
+    "km": "4,16",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/13468949646",
     "description": "",
@@ -6893,6 +9658,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. Januar 2025 um 20:07",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13461143357",
     "description": "",
@@ -6900,6 +9667,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. Januar 2025 um 12:30",
+    "km": "50,78",
+    "hm": "450",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/13458677865",
     "description": "Zwischenstop bei Julianna",
@@ -6907,6 +9676,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Januar 2025 um 13:31",
+    "km": "52,33",
+    "hm": "106",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13440176296",
     "description": "Doch noch recht nass",
@@ -6914,6 +9685,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Januar 2025 um 20:36",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13426497827",
     "description": "",
@@ -6921,6 +9694,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Januar 2025 um 12:36",
+    "km": "30,14",
+    "hm": 0,
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/13422513001",
     "description": "",
@@ -6928,6 +9703,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Januar 2025 um 20:55",
+    "km": "4,16",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/13417360764",
     "description": "",
@@ -6935,6 +9712,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Januar 2025 um 10:17",
+    "km": "36,97",
+    "hm": 0,
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/13412534477",
     "description": "",
@@ -6942,6 +9721,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Januar 2025 um 20:16",
+    "km": "4,27",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/13400317168",
     "description": "",
@@ -6949,6 +9730,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Januar 2025 um 14:22",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/13387975075",
     "description": "",
@@ -6956,6 +9739,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. Januar 2025 um 15:09",
+    "km": "74,99",
+    "hm": "80",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13380478403",
     "description": "",
@@ -6963,6 +9748,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. Januar 2025 um 15:23",
+    "km": "43,34",
+    "hm": "54",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13371466335",
     "description": "",
@@ -6970,6 +9757,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. Januar 2025 um 21:15",
+    "km": "3,92",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/13364958260",
     "description": "",
@@ -6977,6 +9766,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Januar 2025 um 20:06",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13356423757",
     "description": "",
@@ -6984,6 +9775,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Januar 2025 um 08:45",
+    "km": "15,27",
+    "hm": 0,
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/13349958395",
     "description": "",
@@ -6991,6 +9784,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Januar 2025 um 22:06",
+    "km": "3,75",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/13346906471",
     "description": "",
@@ -6998,6 +9793,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Januar 2025 um 15:28",
+    "km": "52,53",
+    "hm": "64",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13344403373",
     "description": "",
@@ -7005,20 +9802,28 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Januar 2025 um 20:52",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13328920810",
     "description": "",
     "buddies": []
   },
   {
-    "date": "Am 11. Januar 2025 um 12:15",
+    "date": "11. Januar 2025",
+    "km": "74,40",
+    "hm": "659",
     "activity": "Sturm und Schnee",
     "link": "https://www.strava.com/activities/13325570066",
     "description": "Bergab grenzwertiger Seitenwind\nneue Reibn vom Richie",
-    "buddies": []
+    "buddies": [
+      "Erich Weszelits"
+    ]
   },
   {
     "date": "Am 8. Januar 2025 um 15:41",
+    "km": "38,06",
+    "hm": "60",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13300564039",
     "description": "",
@@ -7026,20 +9831,28 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Januar 2025 um 19:04",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13293915451",
     "description": "",
     "buddies": []
   },
   {
-    "date": "Am 31. Dezember 2024 um 09:10",
+    "date": "31. Dezember 2024",
+    "km": "105,74",
+    "hm": "872",
     "activity": "Silvesterausfahrt",
     "link": "https://www.strava.com/activities/13231035373",
     "description": "90% Eiszeit, oben sonning",
-    "buddies": []
+    "buddies": [
+      "Erich Weszelits"
+    ]
   },
   {
     "date": "Am 30. Dezember 2024 um 15:31",
+    "km": "3,75",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/13223778178",
     "description": "",
@@ -7047,20 +9860,28 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. Dezember 2024 um 20:51",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13219187748",
     "description": "",
     "buddies": []
   },
   {
-    "date": "Am 29. Dezember 2024 um 13:23",
+    "date": "29. Dezember 2024",
+    "km": "55,88",
+    "hm": "142",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13216820441",
     "description": "Bergauf zu nass",
-    "buddies": []
+    "buddies": [
+      "Erich Weszelits"
+    ]
   },
   {
     "date": "Am 28. Dezember 2024 um 13:37",
+    "km": "58,15",
+    "hm": "61",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13209754086",
     "description": "",
@@ -7068,6 +9889,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Dezember 2024 um 08:33",
+    "km": "5,83",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/13198641513",
     "description": "",
@@ -7075,6 +9898,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. Dezember 2024 um 11:43",
+    "km": "44,52",
+    "hm": "594",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/13193121838",
     "description": "Nächster Versuch",
@@ -7082,6 +9907,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Dezember 2024 um 14:37",
+    "km": "3,79",
+    "hm": "74",
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/13181680228",
     "description": "Am Ende 2x2 die große Wiese rauf",
@@ -7089,6 +9916,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Dezember 2024 um 14:48",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/13181680556",
     "description": "",
@@ -7096,6 +9925,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Dezember 2024 um 20:36",
+    "km": "3,32",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/13171140636",
     "description": "",
@@ -7103,6 +9934,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Dezember 2024 um 14:47",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/13171140859",
     "description": "",
@@ -7110,6 +9943,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Dezember 2024 um 14:28",
+    "km": "1,64",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/13171141029",
     "description": "",
@@ -7117,6 +9952,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. Dezember 2024 um 17:39",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/13171141344",
     "description": "",
@@ -7124,6 +9961,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. Dezember 2024 um 17:22",
+    "km": "1,65",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/13171141474",
     "description": "",
@@ -7131,6 +9970,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. Dezember 2024 um 21:07",
+    "km": "2,96",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/13171141944",
     "description": "",
@@ -7138,6 +9979,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Dezember 2024 um 15:48",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/13171142139",
     "description": "",
@@ -7145,6 +9988,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Dezember 2024 um 15:31",
+    "km": "2,14",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/13171142307",
     "description": "",
@@ -7152,6 +9997,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Dezember 2024 um 14:55",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/13171142560",
     "description": "",
@@ -7159,6 +10006,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Dezember 2024 um 14:40",
+    "km": "1,69",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/13171142755",
     "description": "",
@@ -7166,6 +10015,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. November 2024 um 18:21",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/13171143526",
     "description": "",
@@ -7173,20 +10024,28 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. November 2024 um 18:07",
+    "km": "1,32",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/13171143179",
     "description": "",
     "buddies": []
   },
   {
-    "date": "Am 22. November 2024 um 15:54",
+    "date": "22. November 2024",
+    "km": "44,35",
+    "hm": "378",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/13191873016",
     "description": "",
-    "buddies": []
+    "buddies": [
+      "Erich Weszelits"
+    ]
   },
   {
     "date": "17. November 2024",
+    "km": "32,66",
+    "hm": "341",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/13191873920",
     "description": "",
@@ -7195,28 +10054,40 @@ const activitiesNiki = [
     ]
   },
   {
-    "date": "Am 8. November 2024 um 16:16",
+    "date": "8. November 2024",
+    "km": "37,80",
+    "hm": "78",
     "activity": "Comeback Ride",
     "link": "https://www.strava.com/activities/12855496762",
     "description": "",
-    "buddies": []
+    "buddies": [
+      "Erich Weszelits"
+    ]
   },
   {
     "date": "Am 6. November 2024 um 17:51",
+    "km": "4,18",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/13171143552",
     "description": "",
     "buddies": []
   },
   {
-    "date": "Am 13. Oktober 2024 um 13:38",
+    "date": "13. Oktober 2024",
+    "km": "75,96",
+    "hm": "650",
     "activity": "Herbstride",
     "link": "https://www.strava.com/activities/12646872261",
     "description": "Nass, Regen, Wind, rutschig, dunkel\noder eine normale Ausfahrt mim Erich\n\nIwie noch was von der Woche retten",
-    "buddies": []
+    "buddies": [
+      "Erich Weszelits"
+    ]
   },
   {
     "date": "Am 8. Oktober 2024 um 16:05",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/12606211167",
     "description": "",
@@ -7224,39 +10095,53 @@ const activitiesNiki = [
   },
   {
     "date": "7. Oktober 2024",
+    "km": "49,94",
+    "hm": "565",
     "activity": "Eiserne Hand Attacke 🧨",
     "link": "https://www.strava.com/activities/12599920047",
     "description": "Mit den 2 Padawans Erich und Luki\n\nKurz vorm 🤢",
     "buddies": [
+      "Erich Weszelits",
       "Lukas Pulling"
     ]
   },
   {
     "date": "5. Oktober 2024",
+    "km": "61,62",
+    "hm": "485",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/12579613152",
     "description": "",
     "buddies": [
+      "Erich Weszelits",
       "Martin Nitsche",
       "Christoph Winkler"
     ]
   },
   {
     "date": "Am 4. Oktober 2024 um 16:21",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/12606211517",
     "description": "",
     "buddies": []
   },
   {
-    "date": "Am 3. Oktober 2024 um 18:03",
+    "date": "3. Oktober 2024",
+    "km": "42,22",
+    "hm": "780",
     "activity": "Night Ride",
     "link": "https://www.strava.com/activities/12566814135",
     "description": "Nachtfahrt mim Erichinger",
-    "buddies": []
+    "buddies": [
+      "Erich Weszelits"
+    ]
   },
   {
     "date": "Am 1. Oktober 2024 um 18:24",
+    "km": "3,41",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/12549503505",
     "description": "",
@@ -7264,6 +10149,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. Oktober 2024 um 11:21",
+    "km": 0,
+    "hm": 0,
     "activity": "Lunch Weight Training",
     "link": "https://www.strava.com/activities/12549503980",
     "description": "",
@@ -7271,6 +10158,8 @@ const activitiesNiki = [
   },
   {
     "date": "29. September 2024",
+    "km": "106,13",
+    "hm": "1.111",
     "activity": "Kalte Kuchl",
     "link": "https://www.strava.com/activities/12533041245",
     "description": "Schnell heim für Pogi\nKalt, Wind, Regen und am Ende zu heiß inklusive Schleichpatschn. Nur F*ckerei",
@@ -7280,6 +10169,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. September 2024 um 18:14",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/12510013424",
     "description": "",
@@ -7287,6 +10178,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. September 2024 um 17:34",
+    "km": "5,04",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/12509508951",
     "description": "",
@@ -7294,6 +10187,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. September 2024 um 17:02",
+    "km": "46,07",
+    "hm": "359",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/12502269644",
     "description": "",
@@ -7301,6 +10196,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. September 2024 um 19:25",
+    "km": "4,39",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/12494216733",
     "description": "",
@@ -7308,6 +10205,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. September 2024 um 16:26",
+    "km": "53,52",
+    "hm": "275",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/12493322765",
     "description": "Puppeyton Ausfahrt",
@@ -7315,6 +10214,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. September 2024 um 18:38",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/12478250879",
     "description": "",
@@ -7322,6 +10223,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. September 2024 um 17:54",
+    "km": "4,26",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/12477747087",
     "description": "12 min laufen, 2 min gehen, 12 min laufen",
@@ -7329,6 +10232,8 @@ const activitiesNiki = [
   },
   {
     "date": "21. September 2024",
+    "km": "49,80",
+    "hm": "681",
     "activity": "Umadum",
     "link": "https://www.strava.com/activities/12466912853",
     "description": "Mit Timber World Championsship stop",
@@ -7338,6 +10243,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. September 2024 um 18:06",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/12452180276",
     "description": "",
@@ -7345,6 +10252,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. September 2024 um 17:32",
+    "km": "3,40",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/12452183497",
     "description": "8 min laufen, 2 minuten gehen, 10 minuten laufen",
@@ -7352,20 +10261,28 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. September 2024 um 16:54",
+    "km": "41,04",
+    "hm": "61",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/12443251293",
     "description": "",
     "buddies": []
   },
   {
-    "date": "Am 17. September 2024 um 17:11",
+    "date": "17. September 2024",
+    "km": "45,12",
+    "hm": "77",
     "activity": "Donauschauen",
     "link": "https://www.strava.com/activities/12434551155",
     "description": "",
-    "buddies": []
+    "buddies": [
+      "Erich Weszelits"
+    ]
   },
   {
     "date": "Am 16. September 2024 um 12:25",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/12423500104",
     "description": "",
@@ -7373,6 +10290,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. September 2024 um 12:00",
+    "km": "2,65",
+    "hm": 0,
     "activity": "Lunch Run",
     "link": "https://www.strava.com/activities/12423500514",
     "description": "7,5min @6:27, 1,5min gehen, 7,5min @6:27",
@@ -7380,6 +10299,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. September 2024 um 19:42",
+    "km": "41,40",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/12401964220",
     "description": "Indoor Hass startet früh",
@@ -7387,6 +10308,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. September 2024 um 12:04",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/12398584940",
     "description": "",
@@ -7394,20 +10317,28 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. September 2024 um 11:43",
+    "km": "1,99",
+    "hm": 0,
     "activity": "Lunch Run",
     "link": "https://www.strava.com/activities/12398585262",
     "description": "12 Minuten 6:31 pace",
     "buddies": []
   },
   {
-    "date": "Am 11. September 2024 um 17:32",
+    "date": "11. September 2024",
+    "km": "41,15",
+    "hm": "384",
     "activity": "Höhenstraße",
     "link": "https://www.strava.com/activities/12385562548",
     "description": "Offseason iwas mim Erich",
-    "buddies": []
+    "buddies": [
+      "Erich Weszelits"
+    ]
   },
   {
     "date": "Am 10. September 2024 um 15:43",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/12375247169",
     "description": "",
@@ -7415,6 +10346,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. September 2024 um 15:31",
+    "km": "1,33",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/12375247504",
     "description": "6:30 pace indoor bzw 9,2kmh",
@@ -7422,6 +10355,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. September 2024 um 06:33",
+    "km": "215,50",
+    "hm": "4.316",
     "activity": "Kitzbüheler Radmarathon 2024 ⛰️",
     "link": "https://www.strava.com/activities/12359156508",
     "description": "Super Wetter, harte Partie. Inklusive 🦵🏻 Explosion 💥 8:21:05 (237./69.)\n\nTheo hab ich nur Start und Ziel gsehn, absolut kranke Leistung von erm.\n\nRennbericht:\n\nStart bis Pass Thurn war infernalische Pace, nach 2km aufgeben und eigenes Tempo gefahren, wahrscheinlich besser so. Pass Thurn Abfahrt nur geil.\n\nBis",
@@ -7429,6 +10364,8 @@ const activitiesNiki = [
   },
   {
     "date": "7. September 2024",
+    "km": "34,07",
+    "hm": "326",
     "activity": "Einradeln",
     "link": "https://www.strava.com/activities/12349846481",
     "description": "",
@@ -7438,6 +10375,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. September 2024 um 18:26",
+    "km": "19,58",
+    "hm": "171",
     "activity": "Reithseeing Recovery",
     "link": "https://www.strava.com/activities/12334531080",
     "description": "Klos am Start gesucht, sind erst 10 Minuten danach offen",
@@ -7445,6 +10384,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. September 2024 um 18:23",
+    "km": "35,05",
+    "hm": "570",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/12326232758",
     "description": "Letzte Intervalle",
@@ -7452,6 +10393,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. September 2024 um 17:20",
+    "km": "40,06",
+    "hm": "295",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/12316639200",
     "description": "Einrollen nach dem WE + neuer Streckenteil-Check",
@@ -7459,6 +10402,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 31. August 2024 um 09:37",
+    "km": "53,90",
+    "hm": "1.663",
     "activity": "Glocknerstraße 2.0 ⛰️",
     "link": "https://www.strava.com/activities/12288473744",
     "description": "Viel weniger Verkehr, Abfahrt fast perfekt, die 2 Autos vor mir ham mich vorbeigelassen 🥰 Keine Busse \n\nAlles geben aber dann doch zu leicht für denn 100er 🤕\n\nHighlight waren die 2 Hawara mit Scooter 🤣",
@@ -7466,6 +10411,8 @@ const activitiesNiki = [
   },
   {
     "date": "30. August 2024",
+    "km": "3,94",
+    "hm": 0,
     "activity": "Almbach ❄️ Grödig - Salzburg",
     "link": "https://www.strava.com/activities/12283450255",
     "description": "Idee geil, Ausführung kann man verbessern 😂\nZiemlich kalt",
@@ -7475,6 +10422,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. August 2024 um 12:12",
+    "km": "37,31",
+    "hm": "92",
     "activity": "Salzburg Spin",
     "link": "https://www.strava.com/activities/12280466646",
     "description": "",
@@ -7482,6 +10431,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. August 2024 um 18:27",
+    "km": "62,97",
+    "hm": "744",
     "activity": "Hadersfeld",
     "link": "https://www.strava.com/activities/12267267467",
     "description": "Ohne Felix, vl deswegen fast nach 1. Intervall aufgehört",
@@ -7489,6 +10440,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. August 2024 um 18:12",
+    "km": "62,74",
+    "hm": "60",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/12257814867",
     "description": "",
@@ -7496,6 +10449,8 @@ const activitiesNiki = [
   },
   {
     "date": "25. August 2024",
+    "km": "101,24",
+    "hm": "869",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/12236920448",
     "description": "Mit den Buben",
@@ -7506,6 +10461,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. August 2024 um 10:49",
+    "km": "16,64",
+    "hm": "45",
     "activity": "Support Ride",
     "link": "https://www.strava.com/activities/12228517168",
     "description": "Marathonmaxi",
@@ -7513,6 +10470,8 @@ const activitiesNiki = [
   },
   {
     "date": "24. August 2024",
+    "km": "87,38",
+    "hm": "677",
     "activity": "Windschatten? Fehlanzeige",
     "link": "https://www.strava.com/activities/12228523393",
     "description": "Boi supporten",
@@ -7522,6 +10481,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. August 2024 um 09:16",
+    "km": "4,28",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/12219819035",
     "description": "",
@@ -7529,6 +10490,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. August 2024 um 18:46",
+    "km": "31,37",
+    "hm": "705",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/12216044188",
     "description": "5x5 Intervalle Eiserne rauf",
@@ -7536,6 +10499,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. August 2024 um 18:38",
+    "km": "57,35",
+    "hm": "395",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/12207686520",
     "description": "",
@@ -7543,6 +10508,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. August 2024 um 19:45",
+    "km": "3,52",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/12198289687",
     "description": "",
@@ -7550,6 +10517,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. August 2024 um 17:46",
+    "km": "79,41",
+    "hm": "923",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/12189808164",
     "description": "Ein langer climb fehlt echt in Wien",
@@ -7557,6 +10526,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. August 2024 um 07:36",
+    "km": "53,30",
+    "hm": "166",
     "activity": "Beachen",
     "link": "https://www.strava.com/activities/12167807071",
     "description": "",
@@ -7564,6 +10535,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. August 2024 um 20:18",
+    "km": "2,65",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/12165227051",
     "description": "",
@@ -7571,6 +10544,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. August 2024 um 11:08",
+    "km": "108,97",
+    "hm": "192",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/12154267427",
     "description": "Zach",
@@ -7578,6 +10553,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. August 2024 um 18:28",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/12147705859",
     "description": "",
@@ -7585,6 +10562,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. August 2024 um 18:07",
+    "km": "2,13",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/12147706947",
     "description": "",
@@ -7592,6 +10571,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. August 2024 um 20:08",
+    "km": "52,39",
+    "hm": "53",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/12130968006",
     "description": "Das Ende von hellen Abendfahrten 🫠",
@@ -7599,6 +10580,8 @@ const activitiesNiki = [
   },
   {
     "date": "9. August 2024",
+    "km": "40,77",
+    "hm": "1.611",
     "activity": "Glockner 2024 ⛰️",
     "link": "https://www.strava.com/activities/12101882080",
     "description": "An keinem anderen Tag gehn ma Auto/Busfahrer mehr am oasch 🤡",
@@ -7609,6 +10592,8 @@ const activitiesNiki = [
   },
   {
     "date": "8. August 2024",
+    "km": "152,14",
+    "hm": "880",
     "activity": "Chiemsee",
     "link": "https://www.strava.com/activities/12095508599",
     "description": "Am Ende waschlass 🫡",
@@ -7619,6 +10604,8 @@ const activitiesNiki = [
   },
   {
     "date": "7. August 2024",
+    "km": "34,97",
+    "hm": "528",
     "activity": "Labalm",
     "link": "https://www.strava.com/activities/12084866943",
     "description": "",
@@ -7628,6 +10615,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. August 2024 um 18:33",
+    "km": "7,17",
+    "hm": 0,
     "activity": "6 Bier Lauf mit Viola",
     "link": "https://www.strava.com/activities/12079308025",
     "description": "Kann man machen aber ned empfehlen \nGut nach der Verletzungspause",
@@ -7635,6 +10624,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. August 2024 um 07:53",
+    "km": "5,31",
+    "hm": "1.205",
     "activity": "Großer Rettenstein",
     "link": "https://www.strava.com/activities/12076161697",
     "description": "Mit Familie Winkler 👨‍🍳👰‍♂️\n\nMit kurzer Quellabkühlung",
@@ -7642,6 +10633,8 @@ const activitiesNiki = [
   },
   {
     "date": "5. August 2024",
+    "km": "100,46",
+    "hm": "2.267",
     "activity": "Steinplatte - Horn",
     "link": "https://www.strava.com/activities/12068178760",
     "description": "Die 2 zachsten Anstiege in der weiten Umgebung 🫡",
@@ -7651,6 +10644,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. August 2024 um 09:07",
+    "km": "135,13",
+    "hm": "1.096",
     "activity": "Forchtenstein",
     "link": "https://www.strava.com/activities/12051434685",
     "description": "Garstiger Gegenwind\nUm 1 Sekunde meinen KOM ned wieder geholt 💀\n\nMit Nöstach Besuch",
@@ -7658,6 +10653,8 @@ const activitiesNiki = [
   },
   {
     "date": "1. August 2024",
+    "km": "75,02",
+    "hm": "1.227",
     "activity": "Hadersfeld",
     "link": "https://www.strava.com/activities/12038220579",
     "description": "Intervalle mim Felix",
@@ -7667,6 +10664,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. Juli 2024 um 20:42",
+    "km": "43,95",
+    "hm": "54",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/12021999765",
     "description": "",
@@ -7674,6 +10673,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. Juli 2024 um 18:51",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/12060421110",
     "description": "",
@@ -7681,6 +10682,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Juli 2024 um 12:01",
+    "km": "80,52",
+    "hm": "130",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/12002246795",
     "description": "",
@@ -7688,6 +10691,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. Juli 2024 um 10:12",
+    "km": "50,57",
+    "hm": "1.078",
     "activity": "Murauer Hütte - Murauer Brauerei",
     "link": "https://www.strava.com/activities/11984694029",
     "description": "\"I'm gone, I'm dead\" gleich am Anfang -> heim\n\nStraßen im Murtal sind a ned besser geworden",
@@ -7695,6 +10700,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. Juli 2024 um 07:43",
+    "km": "115,41",
+    "hm": "3.121",
     "activity": "Hochrindl - Falkertsee - Turracher Höhe",
     "link": "https://www.strava.com/activities/11976932382",
     "description": "",
@@ -7702,6 +10709,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juli 2024 um 20:25",
+    "km": "44,97",
+    "hm": "74",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/11963820901",
     "description": "",
@@ -7709,6 +10718,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Juli 2024 um 17:37",
+    "km": "17,84",
+    "hm": "178",
     "activity": "Kaindorf 24h Team 3. Platz - 6 - Schlussrunde Solo",
     "link": "https://www.strava.com/activities/11936924321",
     "description": "28:49\n\nWieder solo aber mit Bier im Blick",
@@ -7716,6 +10727,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Juli 2024 um 15:43",
+    "km": "17,88",
+    "hm": "179",
     "activity": "Kaindorf 24h Team - 5",
     "link": "https://www.strava.com/activities/11935963379",
     "description": "27:33 \n\nGuade Runde mim Michi aus Eisenstadt",
@@ -7723,6 +10736,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Juli 2024 um 10:41",
+    "km": "17,90",
+    "hm": "182",
     "activity": "Kaindorf 24h Team - 4",
     "link": "https://www.strava.com/activities/11933467156",
     "description": "28:00\n\nWieder meiste Zeit vorne aber zumindest manchmal ein Mapei dude",
@@ -7730,6 +10745,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Juli 2024 um 05:31",
+    "km": "18,00",
+    "hm": "185",
     "activity": "Kaindorf 24h Team - 3 - Solo Yolo die 3.",
     "link": "https://www.strava.com/activities/11931942842",
     "description": "28:59\n\nZum 3. Mal Solo, im Regen regen regen 🌧🌧",
@@ -7737,6 +10754,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Juli 2024 um 00:48",
+    "km": "17,97",
+    "hm": "179",
     "activity": "Kaindorf 24h Team - 2 - Solo Yolo die 2.",
     "link": "https://www.strava.com/activities/11930949682",
     "description": "29:40\n\nNass und nässer 🌧",
@@ -7744,6 +10763,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Juli 2024 um 20:13",
+    "km": "17,90",
+    "hm": "181",
     "activity": "Kaindorf 24h Team - 1 - Solo Yolo",
     "link": "https://www.strava.com/activities/11929619837",
     "description": "28:37\n\nLeider nur alleine, fast vo Auto zamgfahren - dann hat a uns absichtlich abgebremst - Anzeige raus? Foto mit 180 Puls is sich ausgangen 🤣",
@@ -7751,6 +10772,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. Juli 2024 um 20:47",
+    "km": "32,81",
+    "hm": "571",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/11913847112",
     "description": "",
@@ -7758,6 +10781,8 @@ const activitiesNiki = [
   },
   {
     "date": "16. Juli 2024",
+    "km": "53,90",
+    "hm": "438",
     "activity": "After Work",
     "link": "https://www.strava.com/activities/11903900876",
     "description": "",
@@ -7767,6 +10792,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Juli 2024 um 10:50",
+    "km": "15,63",
+    "hm": "523",
     "activity": "Erzberg Dirtrun Challenge 2024",
     "link": "https://www.strava.com/activities/11892474062",
     "description": "01:59:01 - 17. \nEingesprungen für David im Team Rave Dave \nStart mit Team, ab KM 2 dann vorne allein, durch warten bei den Hindernissen viel Zeit verloren 🙈\n1,2km volle Bierkiste tragen war der Killer 💀\n\nWeißes Shirt war ein Fehler, das wird nie wieder sauber\n\n100% Empfehlung",
@@ -7774,6 +10801,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Juli 2024 um 11:50",
+    "km": "50,81",
+    "hm": "382",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/11876924977",
     "description": "",
@@ -7781,6 +10810,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. Juli 2024 um 18:20",
+    "km": "1,17",
+    "hm": 0,
     "activity": "Biermeile 🍻",
     "link": "https://www.strava.com/activities/11875076663",
     "description": "Mit bestem Siegerteam\n\nVergessen Uhr beim Start zu starten",
@@ -7788,6 +10819,8 @@ const activitiesNiki = [
   },
   {
     "date": "12. Juli 2024",
+    "km": "43,08",
+    "hm": "531",
     "activity": "Morning Coffee Ride",
     "link": "https://www.strava.com/activities/11867737868",
     "description": "",
@@ -7798,6 +10831,8 @@ const activitiesNiki = [
   },
   {
     "date": "10. Juli 2024",
+    "km": "78,53",
+    "hm": "882",
     "activity": "Tour de Tempera 🌞🔥🥵",
     "link": "https://www.strava.com/activities/11855203590",
     "description": "",
@@ -7808,6 +10843,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Juli 2024 um 18:51",
+    "km": "48,04",
+    "hm": "529",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/11848511134",
     "description": "",
@@ -7815,6 +10852,8 @@ const activitiesNiki = [
   },
   {
     "date": "9. Juli 2024",
+    "km": "21,28",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/11843661844",
     "description": "Mit Drillmeister und Wurznleger Max Tretthann",
@@ -7824,6 +10863,8 @@ const activitiesNiki = [
   },
   {
     "date": "7. Juli 2024",
+    "km": "61,88",
+    "hm": "547",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/11832623702",
     "description": "Waschlnass werden nachholen nachdem mas am Vormittag ned gschafft haben",
@@ -7833,6 +10874,8 @@ const activitiesNiki = [
   },
   {
     "date": "7. Juli 2024",
+    "km": "60,46",
+    "hm": "936",
     "activity": "Schwüler Ride",
     "link": "https://www.strava.com/activities/11829205550",
     "description": "Winkler mim Gravel weils sonst zu ez is",
@@ -7843,6 +10886,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Juli 2024 um 12:07",
+    "km": "45,35",
+    "hm": "124",
     "activity": "Zoom 🌪",
     "link": "https://www.strava.com/activities/11821208902",
     "description": "Aber nur in eine Richtung",
@@ -7850,6 +10895,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Juli 2024 um 07:34",
+    "km": "9,43",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/11812355423",
     "description": "",
@@ -7857,6 +10904,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Juli 2024 um 17:36",
+    "km": "77,36",
+    "hm": "737",
     "activity": "Tour de Service",
     "link": "https://www.strava.com/activities/11809515349",
     "description": "Heute Simultanrettung 🤝🏻\n\nLukas pumpt einen Hawara den Reifen zurück zum Leben während Erich und ich Bikefitting mit der Dame gmacht ham, die ihre Sattelklemme ned gefunden hat 🧰",
@@ -7864,6 +10913,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Juli 2024 um 12:05",
+    "km": "7,35",
+    "hm": 0,
     "activity": "Lunch Run",
     "link": "https://www.strava.com/activities/11805711692",
     "description": "",
@@ -7871,6 +10922,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. Juli 2024 um 18:35",
+    "km": "57,07",
+    "hm": "68",
     "activity": "Pannenservice 🫡",
     "link": "https://www.strava.com/activities/11801128151",
     "description": "Schlauch und Ventilspende",
@@ -7878,6 +10931,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. Juli 2024 um 14:08",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/11805711883",
     "description": "",
@@ -7885,6 +10940,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. Juli 2024 um 07:17",
+    "km": "7,54",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/11787571203",
     "description": "Wiedermal mim Enzi 🤝🏼",
@@ -7892,6 +10949,8 @@ const activitiesNiki = [
   },
   {
     "date": "30. Juni 2024",
+    "km": "107,35",
+    "hm": "1.260",
     "activity": "Hot Wheels",
     "link": "https://www.strava.com/activities/11773262942",
     "description": "Hitzeschlacht am Ende 🥵🥵🥵",
@@ -7902,6 +10961,8 @@ const activitiesNiki = [
   },
   {
     "date": "29. Juni 2024",
+    "km": "17,01",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11769833500",
     "description": "Mit Marathon Maxi aka Lokomotive\n\nPuls jenseits",
@@ -7911,6 +10972,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Juni 2024 um 19:48",
+    "km": "51,27",
+    "hm": "496",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/11754898710",
     "description": "",
@@ -7918,6 +10981,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Juni 2024 um 08:07",
+    "km": "9,41",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/11749658796",
     "description": "",
@@ -7925,6 +10990,8 @@ const activitiesNiki = [
   },
   {
     "date": "26. Juni 2024",
+    "km": "34,28",
+    "hm": "80",
     "activity": "Bruderausfahrt",
     "link": "https://www.strava.com/activities/11746828553",
     "description": "Von Gelsen dopen lassen",
@@ -7934,6 +11001,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. Juni 2024 um 09:58",
+    "km": "117,10",
+    "hm": "1.454",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/11735667776",
     "description": "Schwere Beine",
@@ -7941,6 +11010,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Juni 2024 um 20:11",
+    "km": "16,49",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11730618882",
     "description": "",
@@ -7948,6 +11019,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juni 2024 um 18:46",
+    "km": "70,99",
+    "hm": "654",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/11723137210",
     "description": "Letzter Teil mit Theo, war nur a Frage der Zeit bis zum zufälligen Treffen",
@@ -7955,6 +11028,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juni 2024 um 10:43",
+    "km": "9,24",
+    "hm": 0,
     "activity": "Ottenstein",
     "link": "https://www.strava.com/activities/11718146369",
     "description": "1. Hälfte mim Flo",
@@ -7962,6 +11037,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Juni 2024 um 09:10",
+    "km": "8,11",
+    "hm": 0,
     "activity": "🌞🔥🥵💀",
     "link": "https://www.strava.com/activities/11702830420",
     "description": "Bitte wieder Frühling",
@@ -7969,6 +11046,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Juni 2024 um 20:22",
+    "km": "56,78",
+    "hm": "571",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/11700383851",
     "description": "Scary woods 👹",
@@ -7976,6 +11055,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Juni 2024 um 08:08",
+    "km": 0,
+    "hm": 0,
     "activity": "Morning Weight Training",
     "link": "https://www.strava.com/activities/11702830638",
     "description": "",
@@ -7983,6 +11064,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Juni 2024 um 20:41",
+    "km": "56,58",
+    "hm": "54",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/11692751602",
     "description": "",
@@ -7990,6 +11073,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Juni 2024 um 08:50",
+    "km": "7,33",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/11687314742",
     "description": "",
@@ -7997,20 +11082,28 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Juni 2024 um 20:22",
+    "km": "7,61",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11684040298",
     "description": "",
     "buddies": []
   },
   {
-    "date": "Am 17. Juni 2024 um 18:12",
+    "date": "17. Juni 2024",
+    "km": "45,05",
+    "hm": "75",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/11675123882",
     "description": "Ausfahrt mit Erich Robin und Co statt Ruhetag",
-    "buddies": []
+    "buddies": [
+      "Erich Weszelits"
+    ]
   },
   {
     "date": "16. Juni 2024",
+    "km": "76,94",
+    "hm": "969",
     "activity": "Rohrer Sattel",
     "link": "https://www.strava.com/activities/11664219652",
     "description": "Zu kalt für die Originalroute",
@@ -8021,6 +11114,8 @@ const activitiesNiki = [
   },
   {
     "date": "15. Juni 2024",
+    "km": "13,01",
+    "hm": "660",
     "activity": "Kieneck",
     "link": "https://www.strava.com/activities/11659096027",
     "description": "Start erst nach 2 Flaschen Sekt, Ende nur mit Flunkyball",
@@ -8031,6 +11126,8 @@ const activitiesNiki = [
   },
   {
     "date": "14. Juni 2024",
+    "km": "53,67",
+    "hm": "1.028",
     "activity": "Kuhlmannstraße 🫅",
     "link": "https://www.strava.com/activities/11650797515",
     "description": "Hält zumindest bis zu Max Tretthann Intervallen am Sonntag 🫡",
@@ -8040,6 +11137,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Juni 2024 um 07:37",
+    "km": "13,60",
+    "hm": 0,
     "activity": "Long Run",
     "link": "https://www.strava.com/activities/11648607299",
     "description": "",
@@ -8047,6 +11146,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Juni 2024 um 15:59",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper + Core",
     "link": "https://www.strava.com/activities/11645570990",
     "description": "",
@@ -8054,6 +11155,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. Juni 2024 um 19:04",
+    "km": "24,15",
+    "hm": "742",
     "activity": "Eiserne",
     "link": "https://www.strava.com/activities/11637620975",
     "description": "1.Abfahrt wegen Regen super sketchy mit 0 Grip, ohne Schuhbremse Absturz 💀\n\nMit Pannenhilfe dazwischen 🫡",
@@ -8061,6 +11164,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. Juni 2024 um 17:28",
+    "km": "9,87",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/11636478272",
     "description": "",
@@ -8068,6 +11173,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Juni 2024 um 16:20",
+    "km": "50,08",
+    "hm": "451",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/11628412874",
     "description": "",
@@ -8075,6 +11182,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. Juni 2024 um 18:51",
+    "km": "5,12",
+    "hm": 0,
     "activity": "Neufeld Triathlon 2024 Run",
     "link": "https://www.strava.com/activities/11606280151",
     "description": "1:12:57\n\n3. Altersklasse 24-29",
@@ -8082,6 +11191,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. Juni 2024 um 18:17",
+    "km": "19,69",
+    "hm": "122",
     "activity": "Neufeld Triathlon 2024 Ride",
     "link": "https://www.strava.com/activities/11606280160",
     "description": "Ziel 300 Watt ziemlich verfehlt 😂💀\n\nRealität: 225W Average",
@@ -8089,6 +11200,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. Juni 2024 um 18:00",
+    "km": "877",
+    "hm": 0,
     "activity": "Triathlon Neufeld 2024 Swim",
     "link": "https://www.strava.com/activities/11606280138",
     "description": "1h Verspätung wegen Gewitter Apokalypse \n\nOhne Neopren wärs bitter geworden 😂",
@@ -8096,6 +11209,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Juni 2024 um 15:19",
+    "km": "24,77",
+    "hm": "55",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/11596122893",
     "description": "Irgendwas",
@@ -8103,6 +11218,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Juni 2024 um 14:18",
+    "km": "5,31",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/11595434885",
     "description": "",
@@ -8110,6 +11227,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Juni 2024 um 20:47",
+    "km": "7,70",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11582891251",
     "description": "Neue Schuhe",
@@ -8117,6 +11236,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Juni 2024 um 18:28",
+    "km": "50,06",
+    "hm": "395",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/11582700308",
     "description": "",
@@ -8124,6 +11245,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Juni 2024 um 16:25",
+    "km": "67,09",
+    "hm": "486",
     "activity": "Bisamberg",
     "link": "https://www.strava.com/activities/11572926638",
     "description": "Hochwassercheck",
@@ -8131,6 +11254,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. Juni 2024 um 19:22",
+    "km": "9,93",
+    "hm": 0,
     "activity": "Ich muss durch den Monsun",
     "link": "https://www.strava.com/activities/11565756994",
     "description": "Ned amal heute hat ma die Allee für sich selbst\n\nZu frisch für länger",
@@ -8138,6 +11263,8 @@ const activitiesNiki = [
   },
   {
     "date": "2. Juni 2024",
+    "km": "109,48",
+    "hm": "1.358",
     "activity": "Kracking on 💉💉",
     "link": "https://www.strava.com/activities/11556328862",
     "description": "Großteil mit Resl",
@@ -8147,6 +11274,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. Juni 2024 um 16:57",
+    "km": "23,69",
+    "hm": "96",
     "activity": "Beachausfahrt",
     "link": "https://www.strava.com/activities/11549826357",
     "description": "Zwischendurch beachen",
@@ -8154,6 +11283,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 31. Mai 2024 um 22:01",
+    "km": "6,46",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/11542650474",
     "description": "Wieder mal extra lang rauszögert",
@@ -8161,6 +11292,8 @@ const activitiesNiki = [
   },
   {
     "date": "30. Mai 2024",
+    "km": "77,57",
+    "hm": "185",
     "activity": "Flowerpower",
     "link": "https://www.strava.com/activities/11532087041",
     "description": "Heute von den Fluglotsen ziehen lassen",
@@ -8171,6 +11304,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. Mai 2024 um 20:40",
+    "km": "31,69",
+    "hm": "37",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/11527735807",
     "description": "Hoffentlich wieder fit 🤞🏻",
@@ -8178,6 +11313,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Mai 2024 um 20:15",
+    "km": "50,13",
+    "hm": "50",
     "activity": "Zoo Ausfahrt",
     "link": "https://www.strava.com/activities/11458342811",
     "description": "Biber, Schafe, Hasen, Fuchs und Schwäne",
@@ -8185,6 +11322,8 @@ const activitiesNiki = [
   },
   {
     "date": "19. Mai 2024",
+    "km": "6,41",
+    "hm": 0,
     "activity": "Trail Run #2",
     "link": "https://www.strava.com/activities/11444624680",
     "description": "Out in force",
@@ -8194,6 +11333,8 @@ const activitiesNiki = [
   },
   {
     "date": "18. Mai 2024",
+    "km": "9,38",
+    "hm": 0,
     "activity": "Trailrun",
     "link": "https://www.strava.com/activities/11436397225",
     "description": "Mit Mario",
@@ -8203,6 +11344,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. Mai 2024 um 12:22",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/11436397467",
     "description": "",
@@ -8210,6 +11353,8 @@ const activitiesNiki = [
   },
   {
     "date": "16. Mai 2024",
+    "km": "80,42",
+    "hm": "91",
     "activity": "Tulln",
     "link": "https://www.strava.com/activities/11425676844",
     "description": "Mit Zugpferd Maxl bissl in Regen und Sturm kommen",
@@ -8219,6 +11364,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. Mai 2024 um 20:05",
+    "km": "9,92",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11418998448",
     "description": "2x15\n\nWinkler Kommentar in 3, 2, 1",
@@ -8226,6 +11373,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Mai 2024 um 17:39",
+    "km": "66,47",
+    "hm": "874",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/11411148498",
     "description": "Start mit Resa, Ende mit Bruder\n\n20+ min Baustelle stehen 🫠",
@@ -8233,6 +11382,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Mai 2024 um 12:07",
+    "km": "7,38",
+    "hm": 0,
     "activity": "Lunch Run",
     "link": "https://www.strava.com/activities/11407201143",
     "description": "",
@@ -8240,6 +11391,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Mai 2024 um 20:11",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/11407201532",
     "description": "",
@@ -8247,6 +11400,8 @@ const activitiesNiki = [
   },
   {
     "date": "12. Mai 2024",
+    "km": "47,30",
+    "hm": "747",
     "activity": "Hocheck",
     "link": "https://www.strava.com/activities/11391770089",
     "description": "Beine müde \n\nWiedermal nach 2 Jahren",
@@ -8256,6 +11411,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Mai 2024 um 14:27",
+    "km": "22,12",
+    "hm": 0,
     "activity": "Too Long Run aka Praterspitz",
     "link": "https://www.strava.com/activities/11385816047",
     "description": "Massiv falsch abgebogen 💀",
@@ -8263,6 +11420,8 @@ const activitiesNiki = [
   },
   {
     "date": "9. Mai 2024",
+    "km": "115,37",
+    "hm": "825",
     "activity": "Neusiedlersee",
     "link": "https://www.strava.com/activities/11369636345",
     "description": "Fette fette fette Partie\n\nInklusive Swim",
@@ -8277,6 +11436,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. Mai 2024 um 20:03",
+    "km": "7,36",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11363473175",
     "description": "Kampf der Schienbeinkante",
@@ -8284,6 +11445,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. Mai 2024 um 08:13",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/11363474109",
     "description": "",
@@ -8291,6 +11454,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Mai 2024 um 12:25",
+    "km": "25,61",
+    "hm": 0,
     "activity": "Cycling",
     "link": "https://www.strava.com/activities/11351894690",
     "description": "Kickr wird vl zum Garantiefall 😂",
@@ -8298,6 +11463,8 @@ const activitiesNiki = [
   },
   {
     "date": "6. Mai 2024",
+    "km": "72,13",
+    "hm": "602",
     "activity": "Regenfahrt",
     "link": "https://www.strava.com/activities/11347781778",
     "description": "Endlich wiedermal komplett durchnässt 🤓",
@@ -8307,6 +11474,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Mai 2024 um 08:21",
+    "km": "15,53",
+    "hm": 0,
     "activity": "Long Run",
     "link": "https://www.strava.com/activities/11343435407",
     "description": "Gestern nachholen",
@@ -8314,6 +11483,8 @@ const activitiesNiki = [
   },
   {
     "date": "4. Mai 2024",
+    "km": "91,14",
+    "hm": "854",
     "activity": "TTT Challenge St. Pölten",
     "link": "https://www.strava.com/activities/11328988508",
     "description": "Radstrecke checken mim Zugpferd",
@@ -8323,6 +11494,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. Mai 2024 um 13:10",
+    "km": "8,95",
+    "hm": 0,
     "activity": "Rainy Run",
     "link": "https://www.strava.com/activities/11321996352",
     "description": "",
@@ -8330,6 +11503,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. Mai 2024 um 18:33",
+    "km": "8,43",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11316868321",
     "description": "Wiedermal mim Mr. Enzi",
@@ -8337,6 +11512,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. Mai 2024 um 17:24",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/11316867384",
     "description": "",
@@ -8344,6 +11521,8 @@ const activitiesNiki = [
   },
   {
     "date": "1. Mai 2024",
+    "km": "148,02",
+    "hm": "2.313",
     "activity": "Railjet Graz Hbf",
     "link": "https://www.strava.com/activities/11306748079",
     "description": "Kalt",
@@ -8353,6 +11532,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. April 2024 um 18:40",
+    "km": "9,86",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11300428522",
     "description": "",
@@ -8360,6 +11541,8 @@ const activitiesNiki = [
   },
   {
     "date": "28. April 2024",
+    "km": "108,72",
+    "hm": "1.339",
     "activity": "1/2 Radsporttreff",
     "link": "https://www.strava.com/activities/11283391408",
     "description": "Wieder a guade Partie mit David Stefan Andi",
@@ -8370,6 +11553,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. April 2024 um 18:34",
+    "km": "13,76",
+    "hm": 0,
     "activity": "Long Run",
     "link": "https://www.strava.com/activities/11277757074",
     "description": "Abbruch wegen 🚽",
@@ -8377,6 +11562,8 @@ const activitiesNiki = [
   },
   {
     "date": "26. April 2024",
+    "km": "66,15",
+    "hm": "712",
     "activity": "Ois wuascht 🤝🏼",
     "link": "https://www.strava.com/activities/11268696087",
     "description": "Fette Partie 🔥",
@@ -8391,6 +11578,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. April 2024 um 17:13",
+    "km": "58,33",
+    "hm": "67",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/11262619052",
     "description": "",
@@ -8398,6 +11587,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. April 2024 um 18:19",
+    "km": "8,47",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11255115622",
     "description": "3x7min",
@@ -8405,6 +11596,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. April 2024 um 19:49",
+    "km": "8,01",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11248770575",
     "description": "Strasser coaching",
@@ -8412,6 +11605,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. April 2024 um 15:19",
+    "km": "79,34",
+    "hm": "1.293",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/11239713110",
     "description": "Samstag nachholen",
@@ -8419,6 +11614,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. April 2024 um 19:34",
+    "km": "15,25",
+    "hm": 0,
     "activity": "Long Run",
     "link": "https://www.strava.com/activities/11234485312",
     "description": "Harter Kampf nach 2h Pommes + Pizza Koma",
@@ -8426,6 +11623,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. April 2024 um 11:52",
+    "km": "32,81",
+    "hm": "457",
     "activity": "Hagelregen ✅️  Abbruch ✅️ Hoate Sau ❌️",
     "link": "https://www.strava.com/activities/11223064571",
     "description": "So ham sich wohl die Pros bei Fleche Wallone gefühlt",
@@ -8433,6 +11632,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. April 2024 um 20:26",
+    "km": "7,46",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11218781323",
     "description": "8h aufgeschoben um im Regen zu laufen 🤝🏼",
@@ -8440,6 +11641,8 @@ const activitiesNiki = [
   },
   {
     "date": "16. April 2024",
+    "km": "59,60",
+    "hm": "784",
     "activity": "Nikko Ausfahrt",
     "link": "https://www.strava.com/activities/11196068824",
     "description": "Leider dezimiert",
@@ -8451,6 +11654,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. April 2024 um 19:55",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/11218781565",
     "description": "Lang is her",
@@ -8458,6 +11663,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. April 2024 um 13:28",
+    "km": "6,93",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/11187078130",
     "description": "",
@@ -8465,6 +11672,8 @@ const activitiesNiki = [
   },
   {
     "date": "14. April 2024",
+    "km": "49,62",
+    "hm": "476",
     "activity": "Donauinselanarchie",
     "link": "https://www.strava.com/activities/11181134517",
     "description": "Wo kommen die ganzen Leute her",
@@ -8474,6 +11683,8 @@ const activitiesNiki = [
   },
   {
     "date": "13. April 2024",
+    "km": "15,40",
+    "hm": 0,
     "activity": "Long Run mit Maxl",
     "link": "https://www.strava.com/activities/11169000398",
     "description": "Mim Radcomputer aufgezeichnet 😂",
@@ -8483,6 +11694,8 @@ const activitiesNiki = [
   },
   {
     "date": "12. April 2024",
+    "km": "71,93",
+    "hm": "1.245",
     "activity": "Hohe Wand",
     "link": "https://www.strava.com/activities/11165626348",
     "description": "Long time no see",
@@ -8492,6 +11705,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. April 2024 um 17:06",
+    "km": "55,92",
+    "hm": "86",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/11158608960",
     "description": "",
@@ -8499,6 +11714,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. April 2024 um 16:35",
+    "km": "6,88",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/11142293621",
     "description": "Intervalle 3x4 \nGeschwindigkeit geht no zach 🥵",
@@ -8506,6 +11723,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. April 2024 um 17:44",
+    "km": "57,22",
+    "hm": "90",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/11136272966",
     "description": "Wenn man merkt wie perfekt der Fit vom Leihrad war 💀",
@@ -8513,6 +11732,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. April 2024 um 19:44",
+    "km": "13,02",
+    "hm": 0,
     "activity": "Long Run",
     "link": "https://www.strava.com/activities/11130106243",
     "description": "",
@@ -8520,6 +11741,8 @@ const activitiesNiki = [
   },
   {
     "date": "5. April 2024",
+    "km": "40,94",
+    "hm": "520",
     "activity": "Ausrollen am Hausberg | Mallorca 6",
     "link": "https://www.strava.com/activities/11110890072",
     "description": "Geile Woche geht zu Ende 🫶🏻",
@@ -8531,6 +11754,8 @@ const activitiesNiki = [
   },
   {
     "date": "4. April 2024",
+    "km": "112,24",
+    "hm": "2.032",
     "activity": "Sa Calobra | Mallorca 5",
     "link": "https://www.strava.com/activities/11105564627",
     "description": "Mit den Recovery Boys Stefan Krajnik und Julian Wenzel",
@@ -8542,6 +11767,8 @@ const activitiesNiki = [
   },
   {
     "date": "3. April 2024",
+    "km": "203,70",
+    "hm": "4.067",
     "activity": "Königsetappe | Mallorca 4",
     "link": "https://www.strava.com/activities/11099114787",
     "description": "Port de Valldemosa - Puig Major - Sa Calobra \n\n4k+ Kalorien gegessen 🤢",
@@ -8552,6 +11779,8 @@ const activitiesNiki = [
   },
   {
     "date": "2. April 2024",
+    "km": "91,14",
+    "hm": "747",
     "activity": "Drink & Ride (legal version) | Mallorca 3",
     "link": "https://www.strava.com/activities/11090712291",
     "description": "",
@@ -8564,6 +11793,8 @@ const activitiesNiki = [
   },
   {
     "date": "2. April 2024",
+    "km": "8,73",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/11088651428",
     "description": "Maxl Lauf",
@@ -8573,6 +11804,8 @@ const activitiesNiki = [
   },
   {
     "date": "1. April 2024",
+    "km": "149,17",
+    "hm": "2.413",
     "activity": "Coll de Sóller | Mallorca 2",
     "link": "https://www.strava.com/activities/11084620526",
     "description": "Wieder fett Wind und teilweise Regen ⛈️",
@@ -8584,6 +11817,8 @@ const activitiesNiki = [
   },
   {
     "date": "31. März 2024",
+    "km": "57,55",
+    "hm": "937",
     "activity": "Cap Formentor | Mallorca 1",
     "link": "https://www.strava.com/activities/11076484459",
     "description": "Fettes Verkehrschaos 🚦\n40kmh Windböen 🌪\nRegen ☔️",
@@ -8596,6 +11831,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 31. März 2024 um 09:54",
+    "km": "10,23",
+    "hm": 0,
     "activity": "First Look",
     "link": "https://www.strava.com/activities/11074104226",
     "description": "Stefan Krajnik \nFast ned heimgefunden",
@@ -8603,6 +11840,8 @@ const activitiesNiki = [
   },
   {
     "date": "29. März 2024",
+    "km": "55,97",
+    "hm": "320",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/11062480642",
     "description": "",
@@ -8612,6 +11851,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. März 2024 um 07:53",
+    "km": "12,96",
+    "hm": 0,
     "activity": "Long Run",
     "link": "https://www.strava.com/activities/11059735073",
     "description": "",
@@ -8619,6 +11860,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. März 2024 um 15:36",
+    "km": "67,57",
+    "hm": "158",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/11056391014",
     "description": "🌪",
@@ -8626,6 +11869,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. März 2024 um 13:48",
+    "km": "5,79",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/11048718721",
     "description": "🌬🌬",
@@ -8633,6 +11878,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. März 2024 um 20:03",
+    "km": "7,54",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11044111291",
     "description": "",
@@ -8640,6 +11887,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. März 2024 um 16:24",
+    "km": "52,66",
+    "hm": "76",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/11036059571",
     "description": "",
@@ -8647,6 +11896,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. März 2024 um 12:06",
+    "km": "11,68",
+    "hm": 0,
     "activity": "Home Run",
     "link": "https://www.strava.com/activities/11027666415",
     "description": "",
@@ -8654,6 +11905,8 @@ const activitiesNiki = [
   },
   {
     "date": "23. März 2024",
+    "km": "83,50",
+    "hm": "1.272",
     "activity": "Puchbergpress",
     "link": "https://www.strava.com/activities/11020569962",
     "description": "Wieder mal bissl Schub",
@@ -8664,6 +11917,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. März 2024 um 19:24",
+    "km": "5,05",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/11016332592",
     "description": "",
@@ -8671,6 +11926,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. März 2024 um 18:43",
+    "km": "7,66",
+    "hm": 0,
     "activity": "Social Run mim Enzi",
     "link": "https://www.strava.com/activities/11009670176",
     "description": "",
@@ -8678,6 +11935,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. März 2024 um 15:45",
+    "km": "53,03",
+    "hm": "70",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/11008884960",
     "description": "",
@@ -8685,6 +11944,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. März 2024 um 12:50",
+    "km": "33,00",
+    "hm": 0,
     "activity": "Mittagsradfahrt",
     "link": "https://www.strava.com/activities/10992575572",
     "description": "133 Watt average, 123 average HR",
@@ -8692,6 +11953,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. März 2024 um 21:31",
+    "km": "0,84",
+    "hm": 0,
     "activity": "Strides",
     "link": "https://www.strava.com/activities/10988501627",
     "description": "",
@@ -8699,6 +11962,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. März 2024 um 20:48",
+    "km": "6,21",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/10988502455",
     "description": "",
@@ -8706,6 +11971,8 @@ const activitiesNiki = [
   },
   {
     "date": "17. März 2024",
+    "km": "214,17",
+    "hm": "391",
     "activity": "Im Lenz nach Wien",
     "link": "https://www.strava.com/activities/10979815304",
     "description": "Mit Praschl Meme und HR-Tod",
@@ -8715,6 +11982,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. März 2024 um 18:08",
+    "km": "11,45",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/10973908361",
     "description": "Mit Nachwirkungen von gestern",
@@ -8722,6 +11991,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. März 2024 um 12:30",
+    "km": "77,54",
+    "hm": "119",
     "activity": "Tulln",
     "link": "https://www.strava.com/activities/10964941796",
     "description": "",
@@ -8729,6 +12000,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. März 2024 um 19:21",
+    "km": "34,85",
+    "hm": 0,
     "activity": "Intervalle 3x20",
     "link": "https://www.strava.com/activities/10953250115",
     "description": "Kickr fail wtfff",
@@ -8736,6 +12009,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. März 2024 um 13:36",
+    "km": "0,87",
+    "hm": 0,
     "activity": "Strides",
     "link": "https://www.strava.com/activities/10950224001",
     "description": "",
@@ -8743,6 +12018,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. März 2024 um 12:50",
+    "km": "7,21",
+    "hm": 0,
     "activity": "Lunch Run",
     "link": "https://www.strava.com/activities/10950224941",
     "description": "",
@@ -8750,6 +12027,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. März 2024 um 19:54",
+    "km": "1.158",
+    "hm": 0,
     "activity": "Evening Swim",
     "link": "https://www.strava.com/activities/10945929397",
     "description": "",
@@ -8757,6 +12036,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. März 2024 um 16:14",
+    "km": "48,09",
+    "hm": 0,
     "activity": "Cycling",
     "link": "https://www.strava.com/activities/10944471550",
     "description": "",
@@ -8764,6 +12045,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. März 2024 um 20:30",
+    "km": "5,96",
+    "hm": 0,
     "activity": "Abendlauf",
     "link": "https://www.strava.com/activities/10939179992",
     "description": "6:46 pace, 144 Durchschnittspuls, mega heiß im Gym",
@@ -8771,6 +12054,8 @@ const activitiesNiki = [
   },
   {
     "date": "10. März 2024",
+    "km": "101,90",
+    "hm": "639",
     "activity": "Segelkurs ⛵️⛵️",
     "link": "https://www.strava.com/activities/10929890434",
     "description": "",
@@ -8781,6 +12066,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. März 2024 um 12:18",
+    "km": "10,75",
+    "hm": 0,
     "activity": "Long Run",
     "link": "https://www.strava.com/activities/10922514825",
     "description": "",
@@ -8788,6 +12075,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. März 2024 um 16:35",
+    "km": "48,13",
+    "hm": 0,
     "activity": "Cycling",
     "link": "https://www.strava.com/activities/10917696849",
     "description": "",
@@ -8795,6 +12084,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. März 2024 um 07:45",
+    "km": "6,64",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/10907885661",
     "description": "",
@@ -8802,6 +12093,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. März 2024 um 16:29",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/10903873039",
     "description": "",
@@ -8809,6 +12102,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. März 2024 um 16:19",
+    "km": "37,29",
+    "hm": 0,
     "activity": "Intervalle 4x8'",
     "link": "https://www.strava.com/activities/10896460255",
     "description": "",
@@ -8816,6 +12111,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. März 2024 um 12:22",
+    "km": "6,55",
+    "hm": 0,
     "activity": "Lunch Run",
     "link": "https://www.strava.com/activities/10894793858",
     "description": "",
@@ -8823,6 +12120,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. März 2024 um 14:20",
+    "km": "53,90",
+    "hm": "115",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/10888661500",
     "description": "Erstes Mal Outdoor ohne Knieschmerzen seit 5 Monaten🫡",
@@ -8830,6 +12129,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. März 2024 um 19:37",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/10894794785",
     "description": "",
@@ -8837,6 +12138,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. März 2024 um 10:05",
+    "km": "9,12",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/10879729356",
     "description": "Ultrakurzer Omabesuch",
@@ -8844,6 +12147,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. März 2024 um 14:48",
+    "km": "72,22",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/10868554284",
     "description": "",
@@ -8851,6 +12156,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. Februar 2024 um 17:49",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/10862619847",
     "description": "",
@@ -8858,6 +12165,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. Februar 2024 um 16:41",
+    "km": "5,91",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/10862621366",
     "description": "",
@@ -8865,6 +12174,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Februar 2024 um 18:58",
+    "km": "25,18",
+    "hm": 0,
     "activity": "Intervalle 2x15",
     "link": "https://www.strava.com/activities/10856668116",
     "description": "",
@@ -8872,6 +12183,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Februar 2024 um 20:20",
+    "km": "3,96",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/10850125950",
     "description": "",
@@ -8879,6 +12192,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Februar 2024 um 18:02",
+    "km": "48,76",
+    "hm": 0,
     "activity": "Cycling",
     "link": "https://www.strava.com/activities/10849582349",
     "description": "",
@@ -8886,6 +12201,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. Februar 2024 um 21:01",
+    "km": 0,
+    "hm": 0,
     "activity": "Night Weight Training",
     "link": "https://www.strava.com/activities/10840099612",
     "description": "",
@@ -8893,6 +12210,8 @@ const activitiesNiki = [
   },
   {
     "date": "25. Februar 2024",
+    "km": "4,75",
+    "hm": 0,
     "activity": "Maxl Lauf",
     "link": "https://www.strava.com/activities/10833026457",
     "description": "",
@@ -8902,6 +12221,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Februar 2024 um 07:01",
+    "km": "50,81",
+    "hm": 0,
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/10824467802",
     "description": "",
@@ -8909,6 +12230,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Februar 2024 um 18:56",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/10833026970",
     "description": "",
@@ -8916,6 +12239,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Februar 2024 um 16:39",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/10833028076",
     "description": "",
@@ -8923,6 +12248,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Februar 2024 um 15:57",
+    "km": "0,13",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/10833027971",
     "description": "",
@@ -8930,6 +12257,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Februar 2024 um 18:24",
+    "km": "25,10",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/10809180713",
     "description": "",
@@ -8937,6 +12266,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Februar 2024 um 20:53",
+    "km": "3,08",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/10833028992",
     "description": "",
@@ -8944,6 +12275,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Februar 2024 um 13:23",
+    "km": "7,04",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/10727186682",
     "description": "",
@@ -8951,6 +12284,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Februar 2024 um 07:20",
+    "km": "12,73",
+    "hm": "1.170",
     "activity": "Kuhkaser \"Schi\"tour",
     "link": "https://www.strava.com/activities/10715162493",
     "description": "500+ HM Schischuhwandern bis Schnee 🫡",
@@ -8958,6 +12293,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Februar 2024 um 13:18",
+    "km": "5,06",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/10715139587",
     "description": "",
@@ -8965,6 +12302,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. Februar 2024 um 21:38",
+    "km": "23,67",
+    "hm": 0,
     "activity": "Night Ride",
     "link": "https://www.strava.com/activities/10677109519",
     "description": "",
@@ -8972,6 +12311,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Januar 2024 um 10:10",
+    "km": "38,13",
+    "hm": "154",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/10646632551",
     "description": "",
@@ -8979,6 +12320,8 @@ const activitiesNiki = [
   },
   {
     "date": "27. Januar 2024",
+    "km": "4,54",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/10639279751",
     "description": "Freiland Comeback mim Boi",
@@ -8988,6 +12331,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Januar 2024 um 09:20",
+    "km": "30,76",
+    "hm": 0,
     "activity": "Cycling",
     "link": "https://www.strava.com/activities/10637716864",
     "description": "",
@@ -8995,6 +12340,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. Januar 2024 um 18:36",
+    "km": "0,11",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/10639262657",
     "description": "",
@@ -9002,6 +12349,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. Januar 2024 um 17:32",
+    "km": "16,85",
+    "hm": 0,
     "activity": "HIT 2x4",
     "link": "https://www.strava.com/activities/10627861648",
     "description": "",
@@ -9009,6 +12358,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Januar 2024 um 16:22",
+    "km": "41,12",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/10621425229",
     "description": "",
@@ -9016,6 +12367,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Januar 2024 um 16:37",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs mit Je 1 Übung Brust/Rücken",
     "link": "https://www.strava.com/activities/10615435819",
     "description": "",
@@ -9023,6 +12376,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Januar 2024 um 15:41",
+    "km": "0,06",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/10615435630",
     "description": "2 min gehen, 6x (1min gehen, 3 min laufen), 4 min gehen\n\n6km/h gehen, 8.5km/h laufen",
@@ -9030,6 +12385,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Januar 2024 um 17:17",
+    "km": "43,94",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/10608727683",
     "description": "",
@@ -9037,6 +12394,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Januar 2024 um 13:44",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/10594410925",
     "description": "",
@@ -9044,6 +12403,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Januar 2024 um 12:58",
+    "km": "0,00",
+    "hm": 0,
     "activity": "Lunch Run",
     "link": "https://www.strava.com/activities/10594411429",
     "description": "3 min gehen, 7x (1:15min gehen, 1:45 min laufen), 4 min gehen\n6kmh gehen, 8.5-9kmh laufen",
@@ -9051,6 +12412,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Januar 2024 um 15:46",
+    "km": "44,92",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/10589171758",
     "description": "",
@@ -9058,6 +12421,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Januar 2024 um 20:18",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/10594412601",
     "description": "",
@@ -9065,6 +12430,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Januar 2024 um 19:39",
+    "km": "0,09",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/10594413462",
     "description": "3 min gehen, 7x (1:30min gehen, 1:30 min laufen), 4 min gehen\n6kmh gehen, 8.5-9kmh laufen",
@@ -9072,6 +12439,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. Januar 2024 um 17:07",
+    "km": "42,96",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/10564432666",
     "description": "",
@@ -9079,6 +12448,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Januar 2024 um 15:19",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/10552218151",
     "description": "",
@@ -9086,6 +12457,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Januar 2024 um 14:07",
+    "km": "0,39",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/10552218397",
     "description": "3 min gehen, 7x (2min gehen, 1 min laufen), 4 min gehen\n6kmh gehen, 9,5kmh laufen",
@@ -9093,6 +12466,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Januar 2024 um 18:45",
+    "km": "35,85",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/10539256366",
     "description": "",
@@ -9100,6 +12475,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Januar 2024 um 17:18",
+    "km": "0,09",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/10540124902",
     "description": "3 min gehen, 7x (2min gehen, 1 min laufen), 4 min gehen\n6kmh gehen, 9,5kmh laufen",
@@ -9107,6 +12484,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Januar 2024 um 15:47",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/10540125283",
     "description": "",
@@ -9114,6 +12493,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Januar 2024 um 15:10",
+    "km": "0,01",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/10540125572",
     "description": "7x (2min gehen, 1 min laufen), 4 min gehen\n6kmh gehen, 9,5kmh laufen",
@@ -9121,6 +12502,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. Januar 2024 um 12:19",
+    "km": "36,40",
+    "hm": 0,
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/10517517675",
     "description": "",
@@ -9128,6 +12511,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Januar 2024 um 17:05",
+    "km": "35,03",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/10513572202",
     "description": "",
@@ -9135,6 +12520,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. Dezember 2023 um 10:00",
+    "km": "27,22",
+    "hm": 0,
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/10460545995",
     "description": "",
@@ -9142,6 +12529,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Dezember 2023 um 20:51",
+    "km": "27,49",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/10452761024",
     "description": "",
@@ -9149,6 +12538,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Dezember 2023 um 18:17",
+    "km": "23,49",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/10446351566",
     "description": "",
@@ -9156,6 +12547,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Dezember 2023 um 22:21",
+    "km": "19,47",
+    "hm": 0,
     "activity": "Night Ride",
     "link": "https://www.strava.com/activities/10421672572",
     "description": "",
@@ -9163,6 +12556,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Dezember 2023 um 18:54",
+    "km": "12,83",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/10405908489",
     "description": "",
@@ -9170,6 +12565,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. November 2023 um 14:35",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/10300134481",
     "description": "",
@@ -9177,6 +12574,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. November 2023 um 15:18",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/10300134695",
     "description": "",
@@ -9184,6 +12583,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. November 2023 um 16:49",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/10300135124",
     "description": "",
@@ -9191,6 +12592,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. November 2023 um 15:54",
+    "km": "17,93",
+    "hm": "20",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/10300097777",
     "description": "",
@@ -9198,6 +12601,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. November 2023 um 14:20",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/10300135481",
     "description": "",
@@ -9205,6 +12610,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. November 2023 um 16:37",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/10300135713",
     "description": "",
@@ -9212,6 +12619,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. November 2023 um 16:59",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/10300136080",
     "description": "",
@@ -9219,6 +12628,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. November 2023 um 10:45",
+    "km": 0,
+    "hm": 0,
     "activity": "Morning Weight Training",
     "link": "https://www.strava.com/activities/10300136345",
     "description": "",
@@ -9226,6 +12637,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. November 2023 um 13:39",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/10300136599",
     "description": "",
@@ -9233,6 +12646,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. November 2023 um 17:07",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/10300136915",
     "description": "",
@@ -9240,6 +12655,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. November 2023 um 20:27",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/10300137157",
     "description": "",
@@ -9247,6 +12664,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. November 2023 um 15:19",
+    "km": "25,72",
+    "hm": "141",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/10159400245",
     "description": "Nice schon zuviel für die Sehne anscheinend 🙃",
@@ -9254,6 +12673,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Oktober 2023 um 17:44",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/10097237122",
     "description": "",
@@ -9261,6 +12682,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Oktober 2023 um 18:54",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/10097237574",
     "description": "",
@@ -9268,6 +12691,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. Oktober 2023 um 19:59",
+    "km": "3,80",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/10056862272",
     "description": "",
@@ -9275,6 +12700,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. Oktober 2023 um 15:27",
+    "km": "47,80",
+    "hm": "197",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/10049476045",
     "description": "Mit Brudi bissl",
@@ -9282,6 +12709,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. Oktober 2023 um 13:05",
+    "km": "3,77",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/10042808046",
     "description": "",
@@ -9289,6 +12718,8 @@ const activitiesNiki = [
   },
   {
     "date": "12. Oktober 2023",
+    "km": "52,22",
+    "hm": "737",
     "activity": "Kahlenberg Déjà-vu",
     "link": "https://www.strava.com/activities/10026198292",
     "description": "",
@@ -9298,6 +12729,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Oktober 2023 um 17:55",
+    "km": "3,50",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/10020022722",
     "description": "",
@@ -9305,6 +12738,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. Oktober 2023 um 17:10",
+    "km": "45,85",
+    "hm": "437",
     "activity": "Kahlenberg",
     "link": "https://www.strava.com/activities/10013997723",
     "description": "",
@@ -9312,6 +12747,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Oktober 2023 um 15:30",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/10020023263",
     "description": "",
@@ -9319,6 +12756,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Oktober 2023 um 20:38",
+    "km": "2,00",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/9983531244",
     "description": "",
@@ -9326,6 +12765,8 @@ const activitiesNiki = [
   },
   {
     "date": "3. Oktober 2023",
+    "km": "48,11",
+    "hm": "606",
     "activity": "Hochrotherd",
     "link": "https://www.strava.com/activities/9969832353",
     "description": "Mit de Guaden",
@@ -9336,6 +12777,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. Oktober 2023 um 14:37",
+    "km": "32,10",
+    "hm": "45",
     "activity": "Trisi New Bike Day",
     "link": "https://www.strava.com/activities/9956381046",
     "description": "Comeback v4 v1 mit Gravel",
@@ -9343,6 +12786,8 @@ const activitiesNiki = [
   },
   {
     "date": "31. August 2023",
+    "km": "58,90",
+    "hm": "724",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/9757632985",
     "description": "Mim Maxl",
@@ -9352,6 +12797,8 @@ const activitiesNiki = [
   },
   {
     "date": "27. August 2023",
+    "km": "215,58",
+    "hm": "4.302",
     "activity": "Kitzbüheler Radmarathon 2023 🏔",
     "link": "https://www.strava.com/activities/9731646352",
     "description": "Klassische Regenpartie 🌧️ Ohne Lukas Strasser  nicht möglich \nSehr zu empfehlen 🤓\n\nRennbericht ✍🏻:\nPass Thurn: Abfahrt sehr nice wenn die Straße ned nass wär\n\nGerlos Pass: Zach unregelmäßig, Abfahrt Teil 1 selbst bei Regen 🔥Teil 2 üble Spitzkehren mit viel Regen",
@@ -9361,6 +12808,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. August 2023 um 09:26",
+    "km": "43,67",
+    "hm": "36",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/9716803796",
     "description": "Fit für Sonntag 🤓",
@@ -9368,6 +12817,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. August 2023 um 19:47",
+    "km": "25,78",
+    "hm": "31",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/9693700635",
     "description": "Nächster Versuch 💁",
@@ -9375,6 +12826,8 @@ const activitiesNiki = [
   },
   {
     "date": "18. August 2023",
+    "km": "6,99",
+    "hm": "0",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/9693701165",
     "description": "",
@@ -9384,6 +12837,8 @@ const activitiesNiki = [
   },
   {
     "date": "11. August 2023",
+    "km": "43,52",
+    "hm": "1.749",
     "activity": "Glocknerstraße 2023 🏔",
     "link": "https://www.strava.com/activities/9625769288",
     "description": "Guter Einstieg nach 5 Wochen Pause",
@@ -9394,6 +12849,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. August 2023 um 12:42",
+    "km": "15,21",
+    "hm": "265",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/9625770088",
     "description": "",
@@ -9401,6 +12858,8 @@ const activitiesNiki = [
   },
   {
     "date": "15. Juli 2023",
+    "km": "33,56",
+    "hm": "320",
     "activity": "Comeback oder Krankenstandsverlängerung",
     "link": "https://www.strava.com/activities/9457905458",
     "description": "Update Sonntag: Krankenstandsverlängerung",
@@ -9411,6 +12870,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. Juli 2023 um 19:15",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/9381919000",
     "description": "",
@@ -9418,6 +12879,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. Juli 2023 um 18:41",
+    "km": "4,07",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/9381539371",
     "description": "",
@@ -9425,6 +12888,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. Juli 2023 um 09:25",
+    "km": "142,10",
+    "hm": "1.707",
     "activity": "Neulengbach Anstiege",
     "link": "https://www.strava.com/activities/9374544987",
     "description": "Mit Gravelsection und extremen Wind (manchmal auch gut)",
@@ -9432,6 +12897,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. Juli 2023 um 13:15",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/9381539605",
     "description": "",
@@ -9439,6 +12906,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. Juni 2023 um 20:22",
+    "km": "3,29",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/9363981685",
     "description": "",
@@ -9446,6 +12915,8 @@ const activitiesNiki = [
   },
   {
     "date": "29. Juni 2023",
+    "km": "66,83",
+    "hm": "522",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/9358044917",
     "description": "Fetzn statt Easyday mit Martin und Ziaga Winkler\n\nBuben besuchen 🐈",
@@ -9455,6 +12926,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Juni 2023 um 19:57",
+    "km": "3,00",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/9352047684",
     "description": "",
@@ -9462,6 +12935,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Juni 2023 um 18:36",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/9351790953",
     "description": "Neues Gym, neue längere Wartzeiten",
@@ -9469,6 +12944,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Juni 2023 um 17:46",
+    "km": "65,62",
+    "hm": "1.286",
     "activity": "Hadersfeld",
     "link": "https://www.strava.com/activities/9345969238",
     "description": "Diesmal ohne Sturz 🤓",
@@ -9476,6 +12953,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. Juni 2023 um 18:58",
+    "km": "49,95",
+    "hm": "59",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/9339655334",
     "description": "",
@@ -9483,6 +12962,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juni 2023 um 09:19",
+    "km": "56,54",
+    "hm": "690",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/9318476301",
     "description": "Viel Wind, keine Beine",
@@ -9490,6 +12971,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Juni 2023 um 17:14",
+    "km": "44,67",
+    "hm": "28",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/9314805714",
     "description": "",
@@ -9497,6 +12980,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Juni 2023 um 15:28",
+    "km": "15,91",
+    "hm": "7",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/9314030762",
     "description": "",
@@ -9504,6 +12989,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Juni 2023 um 18:44",
+    "km": "29,71",
+    "hm": "855",
     "activity": "Kahlenberg",
     "link": "https://www.strava.com/activities/9302873039",
     "description": "",
@@ -9511,6 +12998,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Juni 2023 um 19:47",
+    "km": "1,80",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/9296270312",
     "description": "",
@@ -9518,6 +13007,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Juni 2023 um 17:38",
+    "km": "50,63",
+    "hm": "36",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/9296295593",
     "description": "",
@@ -9525,6 +13016,8 @@ const activitiesNiki = [
   },
   {
     "date": "18. Juni 2023",
+    "km": "8,32",
+    "hm": "357",
     "activity": "Raxplateau 2/2",
     "link": "https://www.strava.com/activities/9290223344",
     "description": "Heim",
@@ -9537,6 +13030,8 @@ const activitiesNiki = [
   },
   {
     "date": "17. Juni 2023",
+    "km": "15,71",
+    "hm": "1.007",
     "activity": "Raxplateau 1/2",
     "link": "https://www.strava.com/activities/9290212271",
     "description": "Übernachtung Habsburghaus",
@@ -9549,6 +13044,8 @@ const activitiesNiki = [
   },
   {
     "date": "16. Juni 2023",
+    "km": "23,67",
+    "hm": "630",
     "activity": "Peilstein",
     "link": "https://www.strava.com/activities/9277686635",
     "description": "Guade",
@@ -9559,6 +13056,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. Juni 2023 um 09:19",
+    "km": "75,08",
+    "hm": "1.453",
     "activity": "Dürnbach & Co",
     "link": "https://www.strava.com/activities/9275604676",
     "description": "Nette Anstiege, grindige Abfahrten",
@@ -9566,6 +13065,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. Juni 2023 um 19:17",
+    "km": "1,46",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/9271675782",
     "description": "",
@@ -9573,6 +13074,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Juni 2023 um 18:03",
+    "km": "45,94",
+    "hm": "35",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/9265598874",
     "description": "",
@@ -9580,6 +13083,8 @@ const activitiesNiki = [
   },
   {
     "date": "13. Juni 2023",
+    "km": "50,67",
+    "hm": "517",
     "activity": "NIKKO Fotoshooting Hochrotherd",
     "link": "https://www.strava.com/activities/9259049055",
     "description": "📷© Martin Nitsche",
@@ -9590,6 +13095,8 @@ const activitiesNiki = [
   },
   {
     "date": "10. Juni 2023",
+    "km": "5,22",
+    "hm": 0,
     "activity": "Neufeld Sprint Triathlon 2023 Run",
     "link": "https://www.strava.com/activities/9240499980",
     "description": "1:17:26\n3. Altersklasse M24-29\nT2 00:01:20",
@@ -9599,6 +13106,8 @@ const activitiesNiki = [
   },
   {
     "date": "10. Juni 2023",
+    "km": "19,68",
+    "hm": "122",
     "activity": "Neufeld Sprint Triathlon 2023 Ride",
     "link": "https://www.strava.com/activities/9240499970",
     "description": "Besser gepaced diesmal\nT1 00:02:11",
@@ -9608,6 +13117,8 @@ const activitiesNiki = [
   },
   {
     "date": "10. Juni 2023",
+    "km": "863",
+    "hm": 0,
     "activity": "Neufeld Sprint Triathlon 2023 Swim",
     "link": "https://www.strava.com/activities/9240499953",
     "description": "",
@@ -9617,6 +13128,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. Juni 2023 um 13:03",
+    "km": "393",
+    "hm": 0,
     "activity": "Afternoon Swim",
     "link": "https://www.strava.com/activities/9238274446",
     "description": "",
@@ -9624,6 +13137,8 @@ const activitiesNiki = [
   },
   {
     "date": "10. Juni 2023",
+    "km": "19,50",
+    "hm": "107",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/9238274807",
     "description": "Strecke checken",
@@ -9634,6 +13149,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. Juni 2023 um 11:34",
+    "km": "0,80",
+    "hm": 0,
     "activity": "Lunch Run",
     "link": "https://www.strava.com/activities/9238274857",
     "description": "",
@@ -9641,6 +13158,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. Juni 2023 um 09:14",
+    "km": "46,36",
+    "hm": "35",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/9225007272",
     "description": "",
@@ -9648,6 +13167,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Juni 2023 um 16:40",
+    "km": "47,39",
+    "hm": "41",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/9221194597",
     "description": "🌧🌧🌧",
@@ -9655,6 +13176,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Juni 2023 um 19:43",
+    "km": "33,84",
+    "hm": 0,
     "activity": "Intervalle 4x8",
     "link": "https://www.strava.com/activities/9209174855",
     "description": "Auf Formsuche",
@@ -9662,6 +13185,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. Juni 2023 um 21:49",
+    "km": "6,74",
+    "hm": "32",
     "activity": "Night Ride",
     "link": "https://www.strava.com/activities/9208602106",
     "description": "",
@@ -9669,6 +13194,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. Juni 2023 um 11:44",
+    "km": "56,97",
+    "hm": "24",
     "activity": "Silosophie Feier",
     "link": "https://www.strava.com/activities/9193790739",
     "description": "https://silosophie.at/",
@@ -9676,6 +13203,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. Juni 2023 um 17:33",
+    "km": "48,16",
+    "hm": "31",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/9189500101",
     "description": "",
@@ -9683,6 +13212,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. Juni 2023 um 11:52",
+    "km": "15,79",
+    "hm": "7",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/9189501170",
     "description": "",
@@ -9690,6 +13221,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 31. Mai 2023 um 18:53",
+    "km": "28,16",
+    "hm": "55",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/9177445486",
     "description": "Mal wieder entspannt für die volle Genesung",
@@ -9697,6 +13230,8 @@ const activitiesNiki = [
   },
   {
     "date": "27. Mai 2023",
+    "km": "105,16",
+    "hm": "1.438",
     "activity": "Giro d'Italia St. 20 Monte Lussari TT",
     "link": "https://www.strava.com/activities/9151931734",
     "description": "Team Roglic 💯💯\nGeile Stimmung 🔥",
@@ -9708,6 +13243,8 @@ const activitiesNiki = [
   },
   {
     "date": "26. Mai 2023",
+    "km": "125,05",
+    "hm": "1.978",
     "activity": "Mangart Bergstraße",
     "link": "https://www.strava.com/activities/9143927176",
     "description": "Schönste Bergstraße bis jetzt 🔥vor allem ohne Motorräder",
@@ -9717,6 +13254,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Mai 2023 um 20:05",
+    "km": "310,92",
+    "hm": "2.710",
     "activity": "Race Around Niederösterreich mit Bruder Lukas",
     "link": "https://www.strava.com/activities/9107775354",
     "description": "21h:33 🚴‍♂️\nIm letzten Drittel dann die Fitness gefunden 😅\n600km 6000hm\n\nDanke an die Betreuer Felix Brandstetter Resa Kühmayer Max Tretthann",
@@ -9724,6 +13263,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Mai 2023 um 11:37",
+    "km": "27,58",
+    "hm": "19",
     "activity": "Krankenstand Ende",
     "link": "https://www.strava.com/activities/9093307272",
     "description": "So die Hoffnung",
@@ -9731,6 +13272,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Mai 2023 um 18:33",
+    "km": "7,36",
+    "hm": "58",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/9065139436",
     "description": "",
@@ -9738,6 +13281,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. Mai 2023 um 08:54",
+    "km": "40,70",
+    "hm": "987",
     "activity": "MTB Wien",
     "link": "https://www.strava.com/activities/8989239998",
     "description": "Zum ersten Mal seit langem mim Bruder",
@@ -9745,6 +13290,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. April 2023 um 09:13",
+    "km": "90,27",
+    "hm": "1.047",
     "activity": "Radsporttreff Ausfahrt",
     "link": "https://www.strava.com/activities/8983545804",
     "description": "Bergab und auf da geraden is recht langweilig mim 2-Speed das maximal 30kmh schafft 😅",
@@ -9752,6 +13299,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. April 2023 um 15:14",
+    "km": "72,85",
+    "hm": "1.026",
     "activity": "Sturzprobe vorm Hochzeitsabsturz",
     "link": "https://www.strava.com/activities/8968287901",
     "description": "Inklusive hiniges schaltwerk 🤦🏼‍♂️",
@@ -9759,6 +13308,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. April 2023 um 15:40",
+    "km": "93,36",
+    "hm": "114",
     "activity": "RAN Intervalle",
     "link": "https://www.strava.com/activities/8955360740",
     "description": "",
@@ -9766,6 +13317,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. April 2023 um 11:01",
+    "km": "98,21",
+    "hm": "85",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/8936103031",
     "description": "Weiter am RAN setup werkeln",
@@ -9773,6 +13326,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. April 2023 um 11:13",
+    "km": "57,27",
+    "hm": "43",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/8929814935",
     "description": "RAN Tt setup mit random Brudertreffen",
@@ -9780,6 +13335,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. April 2023 um 19:35",
+    "km": "39,25",
+    "hm": 0,
     "activity": "Intervalle 4x8'",
     "link": "https://www.strava.com/activities/8920915847",
     "description": "",
@@ -9787,6 +13344,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. April 2023 um 16:46",
+    "km": "52,87",
+    "hm": "54",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8913888341",
     "description": "Wieder Nass und kalt 🥰",
@@ -9794,6 +13353,8 @@ const activitiesNiki = [
   },
   {
     "date": "16. April 2023",
+    "km": "79,94",
+    "hm": "1.027",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/8900407500",
     "description": "Fast so schön wie in Mallorca 🤓",
@@ -9804,6 +13365,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. April 2023 um 20:43",
+    "km": "53,46",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/8874097876",
     "description": "",
@@ -9811,6 +13374,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. April 2023 um 13:49",
+    "km": "84,80",
+    "hm": 0,
     "activity": "Paris-Roubaix",
     "link": "https://www.strava.com/activities/8860645101",
     "description": "Schneller als die Pros",
@@ -9818,6 +13383,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. April 2023 um 13:02",
+    "km": "53,06",
+    "hm": "38",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8847771603",
     "description": "Wieder Spätstart",
@@ -9825,6 +13392,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. April 2023 um 07:44",
+    "km": 0,
+    "hm": 0,
     "activity": "Morning Weight Training",
     "link": "https://www.strava.com/activities/8846036432",
     "description": "Bei dem Intervall zahl ich 15€ pro Training 😂🤦‍♂️",
@@ -9832,6 +13401,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. April 2023 um 10:50",
+    "km": "34,94",
+    "hm": 0,
     "activity": "Intervalle 5x5'",
     "link": "https://www.strava.com/activities/8835670195",
     "description": "",
@@ -9839,6 +13410,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. April 2023 um 15:20",
+    "km": "50,70",
+    "hm": "69",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8831327214",
     "description": "Warten auf einen Tag ohne 25+ kmh wind 🙃",
@@ -9846,6 +13419,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. April 2023 um 15:53",
+    "km": "53,55",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8825459782",
     "description": "",
@@ -9853,6 +13428,8 @@ const activitiesNiki = [
   },
   {
     "date": "1. April 2023",
+    "km": "104,03",
+    "hm": "1.840",
     "activity": "Sightseeingtour Maxi",
     "link": "https://www.strava.com/activities/8813750684",
     "description": "",
@@ -9862,6 +13439,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. März 2023 um 08:15",
+    "km": "10,79",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/8801386604",
     "description": "",
@@ -9869,6 +13448,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. März 2023 um 12:45",
+    "km": "29,63",
+    "hm": 0,
     "activity": "Intervalle 30/30's",
     "link": "https://www.strava.com/activities/8796759062",
     "description": "💀\nKickr macht manchmal echt iwas, Trittfrequenz gleich aber Watt weniger 🤦‍♂️",
@@ -9876,6 +13457,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. März 2023 um 07:17",
+    "km": "9,11",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/8789715392",
     "description": "",
@@ -9883,6 +13466,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. März 2023 um 15:02",
+    "km": "62,77",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8786328703",
     "description": "",
@@ -9890,6 +13475,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. März 2023 um 16:01",
+    "km": "39,39",
+    "hm": 0,
     "activity": "Intervalle 4x8",
     "link": "https://www.strava.com/activities/8781464081",
     "description": "",
@@ -9897,6 +13484,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. März 2023 um 08:22",
+    "km": "14,55",
+    "hm": 0,
     "activity": "Long Run",
     "link": "https://www.strava.com/activities/8772863287",
     "description": "🌬🌬",
@@ -9904,6 +13493,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. März 2023 um 08:17",
+    "km": "109,12",
+    "hm": "74",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/8768575543",
     "description": "",
@@ -9911,6 +13502,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. März 2023 um 11:47",
+    "km": "8,70",
+    "hm": 0,
     "activity": "Lunch Run",
     "link": "https://www.strava.com/activities/8763307848",
     "description": "",
@@ -9918,6 +13511,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. März 2023 um 15:36",
+    "km": "45,88",
+    "hm": 0,
     "activity": "Intervalle 3x20'",
     "link": "https://www.strava.com/activities/8758835831",
     "description": "",
@@ -9925,6 +13520,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. März 2023 um 15:50",
+    "km": "53,41",
+    "hm": "45",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8753107876",
     "description": "5km zu spät gestartet",
@@ -9932,6 +13529,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. März 2023 um 07:19",
+    "km": "7,76",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/8750429844",
     "description": "",
@@ -9939,6 +13538,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. März 2023 um 10:46",
+    "km": "111,93",
+    "hm": "1.498",
     "activity": "Joyride",
     "link": "https://www.strava.com/activities/8741555214",
     "description": "Zumindest bis Hadersfeld, dann Bonk",
@@ -9946,6 +13547,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. März 2023 um 13:10",
+    "km": "13,52",
+    "hm": 0,
     "activity": "Long Run",
     "link": "https://www.strava.com/activities/8734977988",
     "description": "☀️☀️",
@@ -9953,6 +13556,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. März 2023 um 11:40",
+    "km": "26,58",
+    "hm": 0,
     "activity": "Intervalle 4x4'",
     "link": "https://www.strava.com/activities/8728830282",
     "description": "",
@@ -9960,6 +13565,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. März 2023 um 13:59",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/8724607761",
     "description": "",
@@ -9967,6 +13574,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. März 2023 um 07:52",
+    "km": "7,39",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/8722460823",
     "description": "",
@@ -9974,6 +13583,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. März 2023 um 15:38",
+    "km": "69,05",
+    "hm": "58",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8719419777",
     "description": "🌬🌬🌬🌬🌬\nTT setup",
@@ -9981,6 +13592,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. März 2023 um 18:50",
+    "km": "8,93",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/8714372335",
     "description": "",
@@ -9988,6 +13601,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. März 2023 um 15:36",
+    "km": "42,69",
+    "hm": "41",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8708047087",
     "description": "😴\nTT setup",
@@ -9995,6 +13610,8 @@ const activitiesNiki = [
   },
   {
     "date": "11. März 2023",
+    "km": "3,91",
+    "hm": "476",
     "activity": "Polterwandern",
     "link": "https://www.strava.com/activities/8697182899",
     "description": "",
@@ -10005,6 +13622,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. März 2023 um 11:04",
+    "km": "38,11",
+    "hm": 0,
     "activity": "Intervalle 2x20",
     "link": "https://www.strava.com/activities/8685295336",
     "description": "Versteift^10 vo gestern",
@@ -10012,6 +13631,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. März 2023 um 11:40",
+    "km": "68,59",
+    "hm": "71",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/8680632772",
     "description": "RAN TT setup tunen",
@@ -10019,6 +13640,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. März 2023 um 15:59",
+    "km": "33,57",
+    "hm": 0,
     "activity": "Intervalle 4x8",
     "link": "https://www.strava.com/activities/8675850982",
     "description": "",
@@ -10026,6 +13649,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. März 2023 um 15:56",
+    "km": "51,09",
+    "hm": 0,
     "activity": "Formel 1",
     "link": "https://www.strava.com/activities/8665713114",
     "description": "Zumindest am Bildschirm",
@@ -10033,6 +13658,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. März 2023 um 11:46",
+    "km": "7,22",
+    "hm": 0,
     "activity": "Lunch Run",
     "link": "https://www.strava.com/activities/8663378160",
     "description": "",
@@ -10040,6 +13667,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. März 2023 um 18:35",
+    "km": "36,11",
+    "hm": 0,
     "activity": "Intervalle 2x20",
     "link": "https://www.strava.com/activities/8660002201",
     "description": "",
@@ -10047,6 +13676,8 @@ const activitiesNiki = [
   },
   {
     "date": "4. März 2023",
+    "km": "36,20",
+    "hm": "128",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/8658171539",
     "description": "Mit Resa und Kaffeepause",
@@ -10056,6 +13687,8 @@ const activitiesNiki = [
   },
   {
     "date": "3. März 2023",
+    "km": "51,54",
+    "hm": "54",
     "activity": "Donauinsel",
     "link": "https://www.strava.com/activities/8653364834",
     "description": "Mim Brandstifter",
@@ -10065,6 +13698,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. März 2023 um 14:53",
+    "km": "5,10",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/8647559922",
     "description": "Wer hätte gedacht dass Straßenlaufschuhe angenehmer auf der Straße sind als Trailschuhe",
@@ -10072,6 +13707,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. März 2023 um 16:35",
+    "km": "31,98",
+    "hm": 0,
     "activity": "Intervalle 5x5",
     "link": "https://www.strava.com/activities/8642680270",
     "description": "",
@@ -10079,6 +13716,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Februar 2023 um 17:57",
+    "km": "42,39",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8637757338",
     "description": "",
@@ -10086,6 +13725,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Februar 2023 um 14:29",
+    "km": "1.533",
+    "hm": 0,
     "activity": "Afternoon Swim",
     "link": "https://www.strava.com/activities/8636381721",
     "description": "",
@@ -10093,6 +13734,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Februar 2023 um 17:18",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8631802007",
     "description": "",
@@ -10100,6 +13743,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. Februar 2023 um 12:30",
+    "km": "86,67",
+    "hm": "1.310",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/8626459899",
     "description": "Mit Bruder, viel 🌬️ und ❄️",
@@ -10107,6 +13752,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Februar 2023 um 11:08",
+    "km": "31,83",
+    "hm": 0,
     "activity": "Intervalle",
     "link": "https://www.strava.com/activities/8613744715",
     "description": "4x8",
@@ -10114,6 +13761,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Februar 2023 um 16:36",
+    "km": "62,46",
+    "hm": 0,
     "activity": "Indoor Cycling",
     "link": "https://www.strava.com/activities/8610563987",
     "description": "",
@@ -10121,6 +13770,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Februar 2023 um 08:11",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8631802581",
     "description": "",
@@ -10128,6 +13779,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Februar 2023 um 17:38",
+    "km": "26,95",
+    "hm": 0,
     "activity": "Intervalle",
     "link": "https://www.strava.com/activities/8599574815",
     "description": "Tabada 2x12",
@@ -10135,6 +13788,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Februar 2023 um 15:19",
+    "km": "48,57",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8593276432",
     "description": "",
@@ -10142,6 +13797,8 @@ const activitiesNiki = [
   },
   {
     "date": "17. Februar 2023",
+    "km": "41,88",
+    "hm": "400",
     "activity": "Vom Regen in die Single-Speed Traufe",
     "link": "https://www.strava.com/activities/8575470490",
     "description": "",
@@ -10151,6 +13808,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. Februar 2023 um 14:52",
+    "km": "44,23",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8571481602",
     "description": "",
@@ -10158,6 +13817,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. Februar 2023 um 14:57",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8565646814",
     "description": "",
@@ -10165,6 +13826,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Februar 2023 um 17:23",
+    "km": "22,86",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8555132710",
     "description": "Intervalle 4x4",
@@ -10172,6 +13835,8 @@ const activitiesNiki = [
   },
   {
     "date": "12. Februar 2023",
+    "km": "70,31",
+    "hm": "50",
     "activity": "Tuin",
     "link": "https://www.strava.com/activities/8549314879",
     "description": "",
@@ -10181,6 +13846,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Februar 2023 um 09:47",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8541253824",
     "description": "",
@@ -10188,6 +13855,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. Februar 2023 um 14:22",
+    "km": "30,98",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8537436488",
     "description": "4x8@90%",
@@ -10195,6 +13864,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Februar 2023 um 17:43",
+    "km": "50,58",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8533554880",
     "description": "",
@@ -10202,6 +13873,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Februar 2023 um 16:36",
+    "km": "17,58",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8521332662",
     "description": "2x4@100%",
@@ -10209,6 +13882,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Februar 2023 um 12:33",
+    "km": "38,37",
+    "hm": 0,
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/8509438789",
     "description": "",
@@ -10216,6 +13891,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. Februar 2023 um 20:17",
+    "km": "44,96",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/8500030643",
     "description": "",
@@ -10223,6 +13900,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. Februar 2023 um 18:10",
+    "km": "44,24",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/8489147979",
     "description": "",
@@ -10230,6 +13909,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Januar 2023 um 15:34",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8541254140",
     "description": "Legs",
@@ -10237,6 +13918,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Januar 2023 um 18:19",
+    "km": "36,33",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/8461448673",
     "description": "",
@@ -10244,6 +13927,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Januar 2023 um 14:12",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8541254471",
     "description": "",
@@ -10251,6 +13936,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Januar 2023 um 16:47",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8444843378",
     "description": "",
@@ -10258,6 +13945,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Januar 2023 um 19:29",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8444843428",
     "description": "",
@@ -10265,6 +13954,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Januar 2023 um 19:07",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8444843859",
     "description": "",
@@ -10272,6 +13963,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Januar 2023 um 13:41",
+    "km": "39,03",
+    "hm": "42",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8390413572",
     "description": "Mal wieder was tun",
@@ -10279,6 +13972,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Januar 2023 um 10:29",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8384511879",
     "description": "",
@@ -10286,6 +13981,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Januar 2023 um 19:43",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8384512077",
     "description": "",
@@ -10293,6 +13990,8 @@ const activitiesNiki = [
   },
   {
     "date": "31. Dezember 2022",
+    "km": "106,62",
+    "hm": "892",
     "activity": "Silvesterausfahrt",
     "link": "https://www.strava.com/activities/8316684396",
     "description": "12/12 Alfonso am letzten Drücker",
@@ -10304,6 +14003,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. Dezember 2022 um 11:42",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8384512342",
     "description": "",
@@ -10311,6 +14012,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Dezember 2022 um 18:22",
+    "km": "36,79",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/8267715402",
     "description": "",
@@ -10318,6 +14021,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. Dezember 2022 um 16:27",
+    "km": "10,46",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/8259654601",
     "description": "",
@@ -10325,6 +14030,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. Dezember 2022 um 18:03",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8252253437",
     "description": "",
@@ -10332,6 +14039,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Dezember 2022 um 20:18",
+    "km": "35,71",
+    "hm": 0,
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/8249046516",
     "description": "",
@@ -10339,6 +14048,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. Dezember 2022 um 16:34",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8248550080",
     "description": "",
@@ -10346,6 +14057,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Dezember 2022 um 18:53",
+    "km": "6,95",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/8244642069",
     "description": "",
@@ -10353,6 +14066,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. Dezember 2022 um 16:52",
+    "km": "27,40",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8240335778",
     "description": "",
@@ -10360,6 +14075,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Dezember 2022 um 18:18",
+    "km": "7,82",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/8237278879",
     "description": "",
@@ -10367,6 +14084,8 @@ const activitiesNiki = [
   },
   {
     "date": "8. Dezember 2022",
+    "km": "68,74",
+    "hm": 0,
     "activity": "Schladming",
     "link": "https://www.strava.com/activities/8223846915",
     "description": "",
@@ -10376,6 +14095,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Dezember 2022 um 15:35",
+    "km": "6,78",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/8219495697",
     "description": "Offseason Ende? 🤔",
@@ -10383,6 +14104,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Dezember 2022 um 19:26",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8216506697",
     "description": "",
@@ -10390,6 +14113,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Dezember 2022 um 15:48",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8207526607",
     "description": "",
@@ -10397,6 +14122,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. Dezember 2022 um 19:01",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8195353263",
     "description": "",
@@ -10404,6 +14131,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. November 2022 um 18:09",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8195353418",
     "description": "",
@@ -10411,6 +14140,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. November 2022 um 20:42",
+    "km": "4,54",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/8186251447",
     "description": "",
@@ -10418,6 +14149,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. November 2022 um 14:53",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8166810261",
     "description": "",
@@ -10425,6 +14158,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. November 2022 um 16:19",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8162893365",
     "description": "",
@@ -10432,6 +14167,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. November 2022 um 18:14",
+    "km": "4,90",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/8158467670",
     "description": "",
@@ -10439,6 +14176,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. November 2022 um 17:07",
+    "km": "2.698",
+    "hm": 0,
     "activity": "Afternoon Swim",
     "link": "https://www.strava.com/activities/8153963034",
     "description": "",
@@ -10446,6 +14185,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. November 2022 um 18:02",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8150208861",
     "description": "",
@@ -10453,6 +14194,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. November 2022 um 18:01",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8146059807",
     "description": "",
@@ -10460,6 +14203,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. November 2022 um 19:36",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8135522430",
     "description": "War eher 40 min",
@@ -10467,6 +14212,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. November 2022 um 16:18",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8127337646",
     "description": "",
@@ -10474,6 +14221,8 @@ const activitiesNiki = [
   },
   {
     "date": "13. November 2022",
+    "km": "83,43",
+    "hm": "919",
     "activity": "Hochstraß",
     "link": "https://www.strava.com/activities/8111282690",
     "description": "Ab KM 5 nur mehr mim Bier vorm Auge gefahren",
@@ -10483,6 +14232,8 @@ const activitiesNiki = [
   },
   {
     "date": "12. November 2022",
+    "km": "19,74",
+    "hm": "506",
     "activity": "Waxeneck mit de Guaden",
     "link": "https://www.strava.com/activities/8106856428",
     "description": "",
@@ -10495,6 +14246,8 @@ const activitiesNiki = [
   },
   {
     "date": "11. November 2022",
+    "km": "103,99",
+    "hm": "1.081",
     "activity": "Kalte Kuchl",
     "link": "https://www.strava.com/activities/8101372126",
     "description": "Maxi: 🚂\nIch: 🦽",
@@ -10504,6 +14257,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. November 2022 um 15:24",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8106856262",
     "description": "",
@@ -10511,6 +14266,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. November 2022 um 18:46",
+    "km": "41,91",
+    "hm": "269",
     "activity": "Lake Pukaki | New Zealand",
     "link": "https://www.strava.com/activities/8088513397",
     "description": "Komplett iwas mim Winkler 😂",
@@ -10518,6 +14275,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. November 2022 um 17:20",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8083131962",
     "description": "",
@@ -10525,6 +14284,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. November 2022 um 16:11",
+    "km": "59,97",
+    "hm": "58",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8078891067",
     "description": "Komplette Oasch Route im Dunkeln 🤦‍♂️",
@@ -10532,6 +14293,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. November 2022 um 12:58",
+    "km": 0,
+    "hm": 0,
     "activity": "Full Body",
     "link": "https://www.strava.com/activities/8067326117",
     "description": "",
@@ -10539,6 +14302,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. November 2022 um 14:45",
+    "km": "51,18",
+    "hm": "625",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8058202326",
     "description": "",
@@ -10546,6 +14311,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 31. Oktober 2022 um 15:39",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8048248613",
     "description": "",
@@ -10553,6 +14320,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. Oktober 2022 um 17:17",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8044384844",
     "description": "",
@@ -10560,6 +14329,8 @@ const activitiesNiki = [
   },
   {
     "date": "29. Oktober 2022",
+    "km": "20,37",
+    "hm": "509",
     "activity": "Waxeneck",
     "link": "https://www.strava.com/activities/8037957390",
     "description": "Mit Resa und viel Laub 🍁🍂",
@@ -10569,6 +14340,8 @@ const activitiesNiki = [
   },
   {
     "date": "28. Oktober 2022",
+    "km": "41,13",
+    "hm": "492",
     "activity": "Nebelpartie 🌫🌫",
     "link": "https://www.strava.com/activities/8032841408",
     "description": "",
@@ -10578,6 +14351,8 @@ const activitiesNiki = [
   },
   {
     "date": "26. Oktober 2022",
+    "km": "361,50",
+    "hm": "1.059",
     "activity": "Heim von Salzburg",
     "link": "https://www.strava.com/activities/8023915117",
     "description": "Mit Lukas, am Ende Hunger Delirium 💀😂",
@@ -10587,6 +14362,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Oktober 2022 um 16:27",
+    "km": "51,36",
+    "hm": "35",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/8012754161",
     "description": "",
@@ -10594,6 +14371,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Oktober 2022 um 16:03",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8007797911",
     "description": "",
@@ -10601,6 +14380,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Oktober 2022 um 19:56",
+    "km": 0,
+    "hm": 0,
     "activity": "Upper",
     "link": "https://www.strava.com/activities/8007798586",
     "description": "",
@@ -10608,6 +14389,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Oktober 2022 um 11:34",
+    "km": "53,54",
+    "hm": "59",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/7996521829",
     "description": "Oasch wind mit Auflieger",
@@ -10615,6 +14398,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Oktober 2022 um 17:36",
+    "km": 0,
+    "hm": 0,
     "activity": "Legs",
     "link": "https://www.strava.com/activities/8007799593",
     "description": "",
@@ -10622,6 +14407,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Oktober 2022 um 17:05",
+    "km": "2.250",
+    "hm": 0,
     "activity": "Afternoon Swim",
     "link": "https://www.strava.com/activities/7983256351",
     "description": "",
@@ -10629,6 +14416,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Oktober 2022 um 14:32",
+    "km": "32,33",
+    "hm": "29",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7982233075",
     "description": "Bissl Auflieger üben",
@@ -10636,6 +14425,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. Oktober 2022 um 17:12",
+    "km": 0,
+    "hm": 0,
     "activity": "Full Body",
     "link": "https://www.strava.com/activities/7983257170",
     "description": "",
@@ -10643,6 +14434,8 @@ const activitiesNiki = [
   },
   {
     "date": "15. Oktober 2022",
+    "km": "215,34",
+    "hm": "1.170",
     "activity": "Bratislava",
     "link": "https://www.strava.com/activities/7967766256",
     "description": "180km nass 💦",
@@ -10653,6 +14446,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. Oktober 2022 um 15:59",
+    "km": "60,91",
+    "hm": "396",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7952677669",
     "description": "",
@@ -10660,6 +14455,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. Oktober 2022 um 19:41",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/7942746655",
     "description": "",
@@ -10667,6 +14464,8 @@ const activitiesNiki = [
   },
   {
     "date": "10. Oktober 2022",
+    "km": "43,20",
+    "hm": "60",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7942053054",
     "description": "",
@@ -10676,6 +14475,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Oktober 2022 um 08:15",
+    "km": "90,99",
+    "hm": "684",
     "activity": "Herbstlich 🌬🌬🚲",
     "link": "https://www.strava.com/activities/7924488723",
     "description": "",
@@ -10683,6 +14484,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Oktober 2022 um 17:54",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/7921605093",
     "description": "",
@@ -10690,6 +14493,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Oktober 2022 um 17:08",
+    "km": "2.098",
+    "hm": 0,
     "activity": "Afternoon Swim",
     "link": "https://www.strava.com/activities/7911620015",
     "description": "",
@@ -10697,6 +14502,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Oktober 2022 um 08:15",
+    "km": 0,
+    "hm": 0,
     "activity": "Morning Weight Training",
     "link": "https://www.strava.com/activities/7908451109",
     "description": "",
@@ -10704,6 +14511,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. Oktober 2022 um 15:48",
+    "km": "43,91",
+    "hm": "72",
     "activity": "Sturm alkoholfrei 🌬🚲",
     "link": "https://www.strava.com/activities/7905397178",
     "description": "50-60kmh+ Böen aber dafür nie von der Seite",
@@ -10711,6 +14520,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. Oktober 2022 um 20:26",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Weight Training",
     "link": "https://www.strava.com/activities/7906825133",
     "description": "",
@@ -10718,6 +14529,8 @@ const activitiesNiki = [
   },
   {
     "date": "30. September 2022",
+    "km": "46,04",
+    "hm": "445",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7890105786",
     "description": "Mim maxi gibts nur Schub \nWinkler 🍰 Ride",
@@ -10727,6 +14540,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. September 2022 um 19:01",
+    "km": "19,94",
+    "hm": "325",
     "activity": "Eiserne",
     "link": "https://www.strava.com/activities/7886259241",
     "description": "3 Puls höher als der maximale beim Doc 😂",
@@ -10734,6 +14549,8 @@ const activitiesNiki = [
   },
   {
     "date": "28. September 2022",
+    "km": "40,82",
+    "hm": "42",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7880586137",
     "description": "",
@@ -10743,6 +14560,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. September 2022 um 16:05",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Weight Training",
     "link": "https://www.strava.com/activities/7906825298",
     "description": "",
@@ -10750,6 +14569,8 @@ const activitiesNiki = [
   },
   {
     "date": "24. September 2022",
+    "km": "10,94",
+    "hm": "1.295",
     "activity": "Schneeberg",
     "link": "https://www.strava.com/activities/7859400026",
     "description": "Bier und Schnee is sche 🍺❄️",
@@ -10761,6 +14582,8 @@ const activitiesNiki = [
   },
   {
     "date": "23. September 2022",
+    "km": "47,68",
+    "hm": "666",
     "activity": "Herbstbeginn",
     "link": "https://www.strava.com/activities/7853629091",
     "description": "Felix Eiserne raufjagen",
@@ -10770,6 +14593,8 @@ const activitiesNiki = [
   },
   {
     "date": "18. September 2022",
+    "km": "101,40",
+    "hm": "1.410",
     "activity": "Velo/Run 2022 Team Nikko",
     "link": "https://www.strava.com/activities/7826730852",
     "description": "30 kmh wind 💀🌬🌬🌬🌬🌬\nGesamt 51.",
@@ -10780,6 +14605,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. September 2022 um 17:30",
+    "km": "39,63",
+    "hm": "41",
     "activity": "Nass und Nässer",
     "link": "https://www.strava.com/activities/7818397046",
     "description": "",
@@ -10787,6 +14614,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. September 2022 um 19:28",
+    "km": "26,49",
+    "hm": 0,
     "activity": "Mini Indoor Intervalle",
     "link": "https://www.strava.com/activities/7808505758",
     "description": "",
@@ -10794,6 +14623,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. September 2022 um 14:52",
+    "km": "35,87",
+    "hm": "42",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7801650281",
     "description": "",
@@ -10801,6 +14632,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. September 2022 um 16:55",
+    "km": "33,83",
+    "hm": 0,
     "activity": "Intervalle Tabada",
     "link": "https://www.strava.com/activities/7796690515",
     "description": "2x12x30\"@155%",
@@ -10808,6 +14641,8 @@ const activitiesNiki = [
   },
   {
     "date": "9. September 2022",
+    "km": "105,92",
+    "hm": "1.425",
     "activity": "Wüdsau Ride im Monsoon",
     "link": "https://www.strava.com/activities/7780371489",
     "description": "",
@@ -10818,6 +14653,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. September 2022 um 15:47",
+    "km": "67,76",
+    "hm": "42",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7770372556",
     "description": "",
@@ -10825,6 +14662,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. September 2022 um 08:35",
+    "km": 0,
+    "hm": 0,
     "activity": "Morning Workout full body",
     "link": "https://www.strava.com/activities/7762240568",
     "description": "Eigentlich 1:20h",
@@ -10832,6 +14671,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. September 2022 um 15:55",
+    "km": "43,33",
+    "hm": 0,
     "activity": "Intervalle 5x5",
     "link": "https://www.strava.com/activities/7758709242",
     "description": "5x5@115% \n3:30 rest",
@@ -10839,6 +14680,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. September 2022 um 09:47",
+    "km": "103,54",
+    "hm": "1.791",
     "activity": "Velo/Run Wiener Art",
     "link": "https://www.strava.com/activities/7741591954",
     "description": "Testfahrt",
@@ -10846,6 +14689,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. September 2022 um 17:35",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Workout",
     "link": "https://www.strava.com/activities/7737534112",
     "description": "",
@@ -10853,6 +14698,8 @@ const activitiesNiki = [
   },
   {
     "date": "31. August 2022",
+    "km": "43,05",
+    "hm": "427",
     "activity": "Sophienresl",
     "link": "https://www.strava.com/activities/7730992513",
     "description": "",
@@ -10863,6 +14710,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. August 2022 um 18:25",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Workout",
     "link": "https://www.strava.com/activities/7737534536",
     "description": "",
@@ -10870,6 +14719,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. August 2022 um 07:33",
+    "km": "7,09",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/7723576016",
     "description": "",
@@ -10877,6 +14728,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. August 2022 um 15:44",
+    "km": "68,43",
+    "hm": "43",
     "activity": "Tulln ☀️",
     "link": "https://www.strava.com/activities/7720736831",
     "description": "",
@@ -10884,6 +14737,8 @@ const activitiesNiki = [
   },
   {
     "date": "28. August 2022",
+    "km": "31,62",
+    "hm": "777",
     "activity": "Restfettn recovery group ride",
     "link": "https://www.strava.com/activities/7716181839",
     "description": "",
@@ -10893,6 +14748,8 @@ const activitiesNiki = [
   },
   {
     "date": "26. August 2022",
+    "km": "56,49",
+    "hm": "356",
     "activity": "Winklers Feierabendrunde",
     "link": "https://www.strava.com/activities/7703650447",
     "description": "",
@@ -10902,6 +14759,8 @@ const activitiesNiki = [
   },
   {
     "date": "26. August 2022",
+    "km": "55,36",
+    "hm": "515",
     "activity": "Hochroterd Klassiker",
     "link": "https://www.strava.com/activities/7702552864",
     "description": "",
@@ -10911,6 +14770,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. August 2022 um 18:31",
+    "km": "50,83",
+    "hm": "47",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/7693944497",
     "description": "",
@@ -10918,6 +14779,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. August 2022 um 07:22",
+    "km": 0,
+    "hm": 0,
     "activity": "Morning Workout",
     "link": "https://www.strava.com/activities/7690460200",
     "description": "Push + Legs squat DL",
@@ -10925,6 +14788,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. August 2022 um 19:09",
+    "km": "5,19",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/7687706984",
     "description": "😴",
@@ -10932,6 +14797,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. August 2022 um 15:48",
+    "km": "21,64",
+    "hm": 0,
     "activity": "Intervalle mit Vuelta",
     "link": "https://www.strava.com/activities/7686712871",
     "description": "5x5@110%",
@@ -10939,6 +14806,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. August 2022 um 19:08",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Workout",
     "link": "https://www.strava.com/activities/7687707829",
     "description": "",
@@ -10946,6 +14815,8 @@ const activitiesNiki = [
   },
   {
     "date": "20. August 2022",
+    "km": "10,91",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/7667676176",
     "description": "Mit Maxl und Winki",
@@ -10956,6 +14827,8 @@ const activitiesNiki = [
   },
   {
     "date": "19. August 2022",
+    "km": "57,19",
+    "hm": "482",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7665001755",
     "description": "🌬🚲☄️",
@@ -10965,6 +14838,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. August 2022 um 08:14",
+    "km": "7,02",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/7662702056",
     "description": "",
@@ -10972,6 +14847,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. August 2022 um 19:52",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Workout",
     "link": "https://www.strava.com/activities/7661061480",
     "description": "",
@@ -10979,6 +14856,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. August 2022 um 19:18",
+    "km": "47,72",
+    "hm": "34",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/7655303309",
     "description": "😴",
@@ -10986,6 +14865,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 14. August 2022 um 12:35",
+    "km": "82,55",
+    "hm": "1.417",
     "activity": "Sölkpass",
     "link": "https://www.strava.com/activities/7637036292",
     "description": "Sehr geile Abfahrt wenn man Glück hat und keinen Verkehr vor sich hat",
@@ -10993,6 +14874,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. August 2022 um 08:51",
+    "km": "107,75",
+    "hm": "2.779",
     "activity": "Schönfeldsattel - Nockalmstraße - Turracher Höhe",
     "link": "https://www.strava.com/activities/7630689919",
     "description": "Turracher Höhe vom Süden kommend is am Ende nur noch 💀\n\nHF-Sensor is gleich am Anfang eingegangen 🤷",
@@ -11000,6 +14883,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. August 2022 um 11:54",
+    "km": "7,01",
+    "hm": 0,
     "activity": "Lunch Run",
     "link": "https://www.strava.com/activities/7619547274",
     "description": "Wenn ma 3 Platten hat geht ma hald laufen 🤷🤦‍♂️",
@@ -11007,6 +14892,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. August 2022 um 08:20",
+    "km": "16,27",
+    "hm": "162",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/7628889104",
     "description": "Fail platten　\n🎷🐛 16.17 new kilometers\n\n-- From Wandrer.earth",
@@ -11014,6 +14901,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. August 2022 um 17:46",
+    "km": "37,20",
+    "hm": 0,
     "activity": "Indoor Cycling Intervalle",
     "link": "https://www.strava.com/activities/7610008587",
     "description": "Tabata 2x15x30\"@150% \n💀",
@@ -11021,6 +14910,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. August 2022 um 17:50",
+    "km": "54,23",
+    "hm": 0,
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7604570225",
     "description": "KickrCore Testride",
@@ -11028,6 +14919,8 @@ const activitiesNiki = [
   },
   {
     "date": "6. August 2022",
+    "km": "172,01",
+    "hm": "2.575",
     "activity": "Forchtenstein - Hohe Wand - Puchberg - Hals",
     "link": "https://www.strava.com/activities/7592716572",
     "description": "Wind goes brrrrr aus allen Richtungen 🌪️🤴",
@@ -11037,6 +14930,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. August 2022 um 11:50",
+    "km": 0,
+    "hm": 0,
     "activity": "Lunch Workout",
     "link": "https://www.strava.com/activities/7585933897",
     "description": "",
@@ -11044,6 +14939,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. August 2022 um 16:52",
+    "km": "51,32",
+    "hm": "81",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7582492948",
     "description": "Entspannt mim Bruder",
@@ -11051,6 +14948,8 @@ const activitiesNiki = [
   },
   {
     "date": "3. August 2022",
+    "km": "43,41",
+    "hm": "430",
     "activity": "Sophienalpe",
     "link": "https://www.strava.com/activities/7576955591",
     "description": "Mit Nestbegutachtung 🦅",
@@ -11060,6 +14959,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. August 2022 um 07:09",
+    "km": "52,15",
+    "hm": "42",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/7568182427",
     "description": "",
@@ -11067,6 +14968,8 @@ const activitiesNiki = [
   },
   {
     "date": "31. Juli 2022",
+    "km": "83,98",
+    "hm": "964",
     "activity": "Hohe Wand",
     "link": "https://www.strava.com/activities/7559995034",
     "description": "Mit Resa, Martin, Julian",
@@ -11078,6 +14981,8 @@ const activitiesNiki = [
   },
   {
     "date": "30. Juli 2022",
+    "km": "104,55",
+    "hm": "490",
     "activity": "Regenpartie",
     "link": "https://www.strava.com/activities/7552907020",
     "description": "Mit Tina und Alex",
@@ -11087,6 +14992,8 @@ const activitiesNiki = [
   },
   {
     "date": "29. Juli 2022",
+    "km": "61,99",
+    "hm": "627",
     "activity": "Bisamberg",
     "link": "https://www.strava.com/activities/7547335755",
     "description": "Felix begleiten statt Intervalle",
@@ -11096,6 +15003,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Juli 2022 um 07:08",
+    "km": "27,81",
+    "hm": "50",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/7541166634",
     "description": "Viel zu kurz weil Platten 🥴\nDafür Gewissheit dass ma die neuen engen Mäntel auch neben der Straße runter und rauf bekommt",
@@ -11103,6 +15012,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Juli 2022 um 17:44",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Workout",
     "link": "https://www.strava.com/activities/7585934105",
     "description": "",
@@ -11110,6 +15021,8 @@ const activitiesNiki = [
   },
   {
     "date": "26. Juli 2022",
+    "km": "46,68",
+    "hm": "59",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/7532920778",
     "description": "GA1 mit Bruder",
@@ -11119,6 +15032,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juli 2022 um 16:06",
+    "km": "17,88",
+    "hm": "225",
     "activity": "Kaindorf 24h Team Runde 6 (31:22)",
     "link": "https://www.strava.com/activities/7515685360",
     "description": "Rechtzeitig zur letzten Runde fetter Gegenwind 🥴",
@@ -11126,6 +15041,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juli 2022 um 12:16",
+    "km": "17,93",
+    "hm": "196",
     "activity": "Kaindorf 24h Team Runde 5 (29:50)",
     "link": "https://www.strava.com/activities/7514387197",
     "description": "Extrem schwül 🥵",
@@ -11133,6 +15050,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juli 2022 um 08:33",
+    "km": "17,81",
+    "hm": "194",
     "activity": "Kaindorf 24h Team Runde 4 (29:44)",
     "link": "https://www.strava.com/activities/7513250027",
     "description": "",
@@ -11140,6 +15059,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juli 2022 um 04:12",
+    "km": "17,89",
+    "hm": "197",
     "activity": "Kaindorf 24h Team Runde 3 (31:26)",
     "link": "https://www.strava.com/activities/7512734687",
     "description": "Wieder solo",
@@ -11147,6 +15068,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juli 2022 um 00:15",
+    "km": "17,92",
+    "hm": "194",
     "activity": "Kaindorf 24h Team Runde 2 (31:42)",
     "link": "https://www.strava.com/activities/7512145722",
     "description": "Alleine unterwegs",
@@ -11154,6 +15077,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Juli 2022 um 19:22",
+    "km": "17,78",
+    "hm": "186",
     "activity": "Kaindorf 24h Team Runde 1 (29:20)",
     "link": "https://www.strava.com/activities/7511194828",
     "description": "Nette Runde mit der Nr. 913",
@@ -11161,6 +15086,8 @@ const activitiesNiki = [
   },
   {
     "date": "19. Juli 2022",
+    "km": "56,98",
+    "hm": "360",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/7495505595",
     "description": "Letztes Mal vor Kaindorf\nInklusive Traktorpacing 🚜🚜",
@@ -11170,6 +15097,8 @@ const activitiesNiki = [
   },
   {
     "date": "17. Juli 2022",
+    "km": "213,11",
+    "hm": "1.108",
     "activity": "Neusiedlersee Umrundung",
     "link": "https://www.strava.com/activities/7484625130",
     "description": "",
@@ -11180,6 +15109,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. Juli 2022 um 12:48",
+    "km": "48,20",
+    "hm": "274",
     "activity": "Gerichtsberg",
     "link": "https://www.strava.com/activities/7472682218",
     "description": "",
@@ -11187,6 +15118,8 @@ const activitiesNiki = [
   },
   {
     "date": "14. Juli 2022",
+    "km": "14,03",
+    "hm": "1.311",
     "activity": "Großer Wildkamm & Hohe Veitsch",
     "link": "https://www.strava.com/activities/7467493795",
     "description": "Zua nach 2 Bier beim Graf-Meran-Haus",
@@ -11196,6 +15129,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Juli 2022 um 17:55",
+    "km": "54,41",
+    "hm": "826",
     "activity": "Hocheck",
     "link": "https://www.strava.com/activities/7463703264",
     "description": "",
@@ -11203,6 +15138,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. Juli 2022 um 20:18",
+    "km": "5,66",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/7458414646",
     "description": "Langsam laufen üben 😴",
@@ -11210,6 +15147,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Juli 2022 um 17:42",
+    "km": "45,18",
+    "hm": "43",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7452237864",
     "description": "Heut hat mal der Wind mitgespielt",
@@ -11217,6 +15156,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Juli 2022 um 13:20",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Workout",
     "link": "https://www.strava.com/activities/7419182308",
     "description": "",
@@ -11224,6 +15165,8 @@ const activitiesNiki = [
   },
   {
     "date": "4. Juli 2022",
+    "km": "36,85",
+    "hm": "61",
     "activity": "Bruderausfahrt",
     "link": "https://www.strava.com/activities/7415034039",
     "description": "",
@@ -11233,6 +15176,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Juli 2022 um 16:10",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Workout",
     "link": "https://www.strava.com/activities/7419182581",
     "description": "",
@@ -11240,6 +15185,8 @@ const activitiesNiki = [
   },
   {
     "date": "2. Juli 2022",
+    "km": "101,04",
+    "hm": "1.167",
     "activity": "Wilder Kaiser Umrundung",
     "link": "https://www.strava.com/activities/7402907166",
     "description": "",
@@ -11252,6 +15199,8 @@ const activitiesNiki = [
   },
   {
     "date": "30. Juni 2022",
+    "km": "65,01",
+    "hm": "443",
     "activity": "Kitzhitz 🥵",
     "link": "https://www.strava.com/activities/7391859712",
     "description": "",
@@ -11264,6 +15213,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Juni 2022 um 09:35",
+    "km": "5,33",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/7380563833",
     "description": "Ausnüchtern auf nüchternen Magen",
@@ -11271,6 +15222,8 @@ const activitiesNiki = [
   },
   {
     "date": "27. Juni 2022",
+    "km": "55,63",
+    "hm": "2.034",
     "activity": "Glocknerstraße 2022 🏔",
     "link": "https://www.strava.com/activities/7376089044",
     "description": "Perfektes Wetter mit der Gang",
@@ -11282,6 +15235,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juni 2022 um 14:41",
+    "km": "63,72",
+    "hm": "997",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7356339861",
     "description": "",
@@ -11289,6 +15244,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Juni 2022 um 20:49",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Workout",
     "link": "https://www.strava.com/activities/7352708778",
     "description": "",
@@ -11296,6 +15253,8 @@ const activitiesNiki = [
   },
   {
     "date": "21. Juni 2022",
+    "km": "55,90",
+    "hm": "692",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7345572015",
     "description": "Mim Brandstifter",
@@ -11305,6 +15264,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Juni 2022 um 18:18",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Workout",
     "link": "https://www.strava.com/activities/7352708963",
     "description": "",
@@ -11312,6 +15273,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Juni 2022 um 13:11",
+    "km": "37,19",
+    "hm": "113",
     "activity": "☀️🥵",
     "link": "https://www.strava.com/activities/7328606417",
     "description": "Fast 2L Wasser verbraucht, Herbst kann kommen",
@@ -11319,6 +15282,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. Juni 2022 um 09:05",
+    "km": "184,27",
+    "hm": "3.994",
     "activity": "Gaisberg - Roßfeld Panoramastraße - Berchtesgaden- Bad Reichenhall - Salzburg",
     "link": "https://www.strava.com/activities/7324585428",
     "description": "\"Eine wirklich klasse Feierabendrunde, schwierig ist hier nichts.\" - Andy84 vermutlich\n\nRoßfeld Panoramastraße mit Oldtimer Begleitung, wobei die Motorräder mit dem alten Motor mich komplett eingenebelt haben 🤦🏼‍♂️",
@@ -11326,6 +15291,8 @@ const activitiesNiki = [
   },
   {
     "date": "15. Juni 2022",
+    "km": "77,26",
+    "hm": "533",
     "activity": "Zisch",
     "link": "https://www.strava.com/activities/7314627659",
     "description": "Winkler in Form bringen",
@@ -11335,6 +15302,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. Juni 2022 um 14:24",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Workout",
     "link": "https://www.strava.com/activities/7352709218",
     "description": "",
@@ -11342,6 +15311,8 @@ const activitiesNiki = [
   },
   {
     "date": "13. Juni 2022",
+    "km": "46,08",
+    "hm": "74",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/7303779049",
     "description": "Erweiterte WG Ausfahrt",
@@ -11352,6 +15323,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Juni 2022 um 17:57",
+    "km": "5,22",
+    "hm": 0,
     "activity": "Neufeld Triathlon Lauf",
     "link": "https://www.strava.com/activities/7292392258",
     "description": "1:22:31 \n69. Nice",
@@ -11359,6 +15332,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Juni 2022 um 17:22",
+    "km": "19,50",
+    "hm": "123",
     "activity": "Neufeld Triathlon Rad",
     "link": "https://www.strava.com/activities/7292392358",
     "description": "",
@@ -11366,6 +15341,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Juni 2022 um 17:00",
+    "km": "880",
+    "hm": 0,
     "activity": "Neufeld Triathlon Swim",
     "link": "https://www.strava.com/activities/7292392320",
     "description": "",
@@ -11373,6 +15350,8 @@ const activitiesNiki = [
   },
   {
     "date": "11. Juni 2022",
+    "km": "19,40",
+    "hm": "116",
     "activity": "Scouting",
     "link": "https://www.strava.com/activities/7292414625",
     "description": "",
@@ -11383,6 +15362,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Juni 2022 um 16:17",
+    "km": "499",
+    "hm": 0,
     "activity": "Schwimmen",
     "link": "https://www.strava.com/activities/7280822106",
     "description": "",
@@ -11390,6 +15371,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. Juni 2022 um 18:03",
+    "km": "5,05",
+    "hm": 0,
     "activity": "Shorter",
     "link": "https://www.strava.com/activities/7276001674",
     "description": "",
@@ -11397,6 +15380,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. Juni 2022 um 16:41",
+    "km": "25,81",
+    "hm": "25",
     "activity": "Short",
     "link": "https://www.strava.com/activities/7275725465",
     "description": "",
@@ -11404,6 +15389,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Juni 2022 um 21:13",
+    "km": 0,
+    "hm": 0,
     "activity": "Night Activity",
     "link": "https://www.strava.com/activities/7272078076",
     "description": "",
@@ -11411,6 +15398,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Juni 2022 um 09:51",
+    "km": "3,20",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/7272078562",
     "description": "",
@@ -11418,6 +15407,8 @@ const activitiesNiki = [
   },
   {
     "date": "3. Juni 2022",
+    "km": "106,66",
+    "hm": "869",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/7247655863",
     "description": "Robin Triathlontest",
@@ -11427,6 +15418,8 @@ const activitiesNiki = [
   },
   {
     "date": "2. Juni 2022",
+    "km": "48,38",
+    "hm": "448",
     "activity": "Martin Revival",
     "link": "https://www.strava.com/activities/7244528711",
     "description": "",
@@ -11437,6 +15430,8 @@ const activitiesNiki = [
   },
   {
     "date": "30. Mai 2022",
+    "km": "52,78",
+    "hm": "738",
     "activity": "WG Ausfahrt",
     "link": "https://www.strava.com/activities/7228138839",
     "description": "",
@@ -11446,6 +15441,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. Mai 2022 um 20:03",
+    "km": "2,97",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/7260689166",
     "description": "",
@@ -11453,6 +15450,8 @@ const activitiesNiki = [
   },
   {
     "date": "26. Mai 2022",
+    "km": "6,76",
+    "hm": "23",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/7260689209",
     "description": "",
@@ -11462,6 +15461,8 @@ const activitiesNiki = [
   },
   {
     "date": "26. Mai 2022",
+    "km": "45,42",
+    "hm": "85",
     "activity": "Regenerationstag 2 mit Felix",
     "link": "https://www.strava.com/activities/7204101486",
     "description": "",
@@ -11471,6 +15472,8 @@ const activitiesNiki = [
   },
   {
     "date": "24. Mai 2022",
+    "km": "36,87",
+    "hm": "44",
     "activity": "GA1 mit Bruder und Mähschiffen",
     "link": "https://www.strava.com/activities/7193523252",
     "description": "",
@@ -11480,6 +15483,8 @@ const activitiesNiki = [
   },
   {
     "date": "23. Mai 2022",
+    "km": "32,92",
+    "hm": "411",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/7191130230",
     "description": "Eni erste Gruppenausfahrt",
@@ -11490,6 +15495,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Mai 2022 um 21:05",
+    "km": 0,
+    "hm": 0,
     "activity": "Night Activity",
     "link": "https://www.strava.com/activities/7187128415",
     "description": "",
@@ -11497,6 +15504,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Mai 2022 um 16:58",
+    "km": "65,87",
+    "hm": "441",
     "activity": "Steinplatte und zurück nach Reith",
     "link": "https://www.strava.com/activities/7180254259",
     "description": "",
@@ -11504,6 +15513,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Mai 2022 um 16:24",
+    "km": "53,48",
+    "hm": "1.609",
     "activity": "Kitzbüheler Horn 🏔",
     "link": "https://www.strava.com/activities/7174820227",
     "description": "Rauf mit ieiner 50+ Legende",
@@ -11511,6 +15522,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Mai 2022 um 20:04",
+    "km": "1.098",
+    "hm": 0,
     "activity": "Evening Swim",
     "link": "https://www.strava.com/activities/7165314297",
     "description": "",
@@ -11518,6 +15531,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Mai 2022 um 12:23",
+    "km": "53,49",
+    "hm": "666",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/7162818742",
     "description": "",
@@ -11525,6 +15540,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 16. Mai 2022 um 21:23",
+    "km": "6,03",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/7154009850",
     "description": "1.km Aufwärmen",
@@ -11532,6 +15549,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. Mai 2022 um 21:08",
+    "km": 0,
+    "hm": 0,
     "activity": "Night Activity",
     "link": "https://www.strava.com/activities/7149313114",
     "description": "",
@@ -11539,6 +15558,8 @@ const activitiesNiki = [
   },
   {
     "date": "14. Mai 2022",
+    "km": "107,69",
+    "hm": "1.093",
     "activity": "Kalte Kuchl",
     "link": "https://www.strava.com/activities/7140675023",
     "description": "Guad is",
@@ -11549,6 +15570,8 @@ const activitiesNiki = [
   },
   {
     "date": "13. Mai 2022",
+    "km": "8,16",
+    "hm": 0,
     "activity": "Winkler Hausstrecke",
     "link": "https://www.strava.com/activities/7135645911",
     "description": "",
@@ -11558,6 +15581,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. Mai 2022 um 15:34",
+    "km": "63,19",
+    "hm": "729",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7130996159",
     "description": "☀",
@@ -11565,6 +15590,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Mai 2022 um 20:08",
+    "km": "2.173",
+    "hm": 0,
     "activity": "Evening Swim",
     "link": "https://www.strava.com/activities/7127086246",
     "description": "",
@@ -11572,6 +15599,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. Mai 2022 um 14:44",
+    "km": "55,25",
+    "hm": "692",
     "activity": "Frühlingsfahrt mit Robin",
     "link": "https://www.strava.com/activities/7119447213",
     "description": "",
@@ -11579,6 +15608,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Mai 2022 um 17:07",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Activity",
     "link": "https://www.strava.com/activities/7117483057",
     "description": "",
@@ -11586,6 +15617,8 @@ const activitiesNiki = [
   },
   {
     "date": "8. Mai 2022",
+    "km": "18,62",
+    "hm": 0,
     "activity": "Wings for life Run mim Winkler",
     "link": "https://www.strava.com/activities/7108117966",
     "description": "Gut dass die App einfach 800m weniger hat 🙃",
@@ -11595,6 +15628,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Mai 2022 um 12:27",
+    "km": 0,
+    "hm": 0,
     "activity": "Lunch Activity",
     "link": "https://www.strava.com/activities/7106578009",
     "description": "",
@@ -11602,6 +15637,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Mai 2022 um 10:24",
+    "km": "5,50",
+    "hm": 0,
     "activity": "Morning Run",
     "link": "https://www.strava.com/activities/7096257404",
     "description": "Mit Robin",
@@ -11609,6 +15646,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Mai 2022 um 15:21",
+    "km": "62,31",
+    "hm": "50",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7092889240",
     "description": "",
@@ -11616,6 +15655,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Mai 2022 um 15:46",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Activity",
     "link": "https://www.strava.com/activities/7094034119",
     "description": "",
@@ -11623,6 +15664,8 @@ const activitiesNiki = [
   },
   {
     "date": "3. Mai 2022",
+    "km": "71,88",
+    "hm": "1.117",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7082372976",
     "description": "Bissl vom Bruder ziehen lassen",
@@ -11632,6 +15675,8 @@ const activitiesNiki = [
   },
   {
     "date": "1. Mai 2022",
+    "km": "67,13",
+    "hm": "940",
     "activity": "AnnaNass 🍍",
     "link": "https://www.strava.com/activities/7070340683",
     "description": "Anna 1. längere Ausfahrt mit Höhenmetern bei nettem Regen ☔️",
@@ -11643,6 +15688,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. April 2022 um 18:39",
+    "km": "10,06",
+    "hm": 0,
     "activity": "Evening Run",
     "link": "https://www.strava.com/activities/7066353296",
     "description": "",
@@ -11650,6 +15697,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. April 2022 um 17:56",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Activity",
     "link": "https://www.strava.com/activities/7060578562",
     "description": "",
@@ -11657,6 +15706,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. April 2022 um 11:39",
+    "km": "56,22",
+    "hm": "60",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/7059205167",
     "description": "",
@@ -11664,6 +15715,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. April 2022 um 15:09",
+    "km": "6,03",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/7049327212",
     "description": "500m gehen, 2,5k laufen, 500m gehen, 2,5k laufen",
@@ -11671,6 +15724,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. April 2022 um 14:36",
+    "km": "46,52",
+    "hm": "57",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7044034446",
     "description": "",
@@ -11678,6 +15733,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. April 2022 um 20:31",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Activity",
     "link": "https://www.strava.com/activities/7035683247",
     "description": "",
@@ -11685,6 +15742,8 @@ const activitiesNiki = [
   },
   {
     "date": "24. April 2022",
+    "km": "61,28",
+    "hm": "735",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/7032768452",
     "description": "",
@@ -11695,6 +15754,8 @@ const activitiesNiki = [
   },
   {
     "date": "23. April 2022",
+    "km": "5,13",
+    "hm": 0,
     "activity": "Afternoon Run",
     "link": "https://www.strava.com/activities/7027437976",
     "description": "1. Lauf seit Jahren 🥵",
@@ -11705,6 +15766,8 @@ const activitiesNiki = [
   },
   {
     "date": "23. April 2022",
+    "km": "34,13",
+    "hm": "203",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/7027156968",
     "description": "Chillig Triathlon Teilstrecke scouten",
@@ -11715,6 +15778,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. April 2022 um 10:22",
+    "km": "774",
+    "hm": 0,
     "activity": "Morning Swim",
     "link": "https://www.strava.com/activities/7027438243",
     "description": "💀",
@@ -11722,6 +15787,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. April 2022 um 18:34",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Activity",
     "link": "https://www.strava.com/activities/7024172700",
     "description": "",
@@ -11729,6 +15796,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. April 2022 um 12:25",
+    "km": 0,
+    "hm": 0,
     "activity": "Lunch Activity",
     "link": "https://www.strava.com/activities/7022351474",
     "description": "",
@@ -11736,6 +15805,8 @@ const activitiesNiki = [
   },
   {
     "date": "20. April 2022",
+    "km": "63,32",
+    "hm": "729",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/7013686466",
     "description": "",
@@ -11746,6 +15817,8 @@ const activitiesNiki = [
   },
   {
     "date": "18. April 2022",
+    "km": "75,85",
+    "hm": "996",
     "activity": "Velorun Kurz Pottenstein Version Reverse",
     "link": "https://www.strava.com/activities/7001156046",
     "description": "Regen und Graupelpartie",
@@ -11755,6 +15828,8 @@ const activitiesNiki = [
   },
   {
     "date": "15. April 2022",
+    "km": "42,26",
+    "hm": "438",
     "activity": "RAN Generalprobe",
     "link": "https://www.strava.com/activities/6985492028",
     "description": "Nikko Werksteam, Wechseln üben",
@@ -11765,6 +15840,8 @@ const activitiesNiki = [
   },
   {
     "date": "14. April 2022",
+    "km": "58,25",
+    "hm": "733",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/6981964583",
     "description": "",
@@ -11774,6 +15851,8 @@ const activitiesNiki = [
   },
   {
     "date": "13. April 2022",
+    "km": "23,20",
+    "hm": "584",
     "activity": "Kahlenberg",
     "link": "https://www.strava.com/activities/6976165568",
     "description": "Oben entspannt",
@@ -11783,6 +15862,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. April 2022 um 16:21",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Activity",
     "link": "https://www.strava.com/activities/6970758711",
     "description": "",
@@ -11790,6 +15871,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. April 2022 um 14:43",
+    "km": "74,18",
+    "hm": "1.021",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/6965266551",
     "description": "",
@@ -11797,6 +15880,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. April 2022 um 13:22",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Activity",
     "link": "https://www.strava.com/activities/6959717873",
     "description": "",
@@ -11804,6 +15889,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 8. April 2022 um 11:27",
+    "km": "104,92",
+    "hm": "2.541",
     "activity": "Exelberg Ritzelchallenge + Kahlenberg",
     "link": "https://www.strava.com/activities/6949781443",
     "description": "Exelberg Ritzelreihenfolge: 25 ➔ 27 ➔ 23 ➔ 21 ➔ 19 ➔ 17 ➔ 15 ➔ 13 ➔ 11\n19 und 15 waren am schnellsten, warum auch immer\n\nKa wie das passiert is, eigentlich wollt ich gar ned fahren 😅",
@@ -11811,6 +15898,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. April 2022 um 20:04",
+    "km": "1.225",
+    "hm": 0,
     "activity": "Evening Swim",
     "link": "https://www.strava.com/activities/6942050584",
     "description": "",
@@ -11818,6 +15907,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. April 2022 um 15:16",
+    "km": "34,48",
+    "hm": "390",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/6940329425",
     "description": "Von 5 einigermaßen möglichen Abfahren vom Kahlenberg sind 3 einfach so oasch und 2 gepflastert",
@@ -11825,6 +15916,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. April 2022 um 15:25",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Activity",
     "link": "https://www.strava.com/activities/6931230889",
     "description": "",
@@ -11832,6 +15925,8 @@ const activitiesNiki = [
   },
   {
     "date": "3. April 2022",
+    "km": "102,40",
+    "hm": "427",
     "activity": "Endstation Retz Reverse",
     "link": "https://www.strava.com/activities/6925532181",
     "description": "",
@@ -11841,6 +15936,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. April 2022 um 12:18",
+    "km": 0,
+    "hm": 0,
     "activity": "Lunch Activity",
     "link": "https://www.strava.com/activities/6919741248",
     "description": "",
@@ -11848,225 +15945,284 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. April 2022 um 13:40",
+    "km": "58,77",
+    "hm": "795",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/6915807854",
     "description": "🌬🌬🌬🚴🏻‍♂️",
     "buddies": []
   },
   {
-    "date": "Am 30. April 2022 um 18:39",
-    "activity": "Evening Run",
-    "link": "https://www.strava.com/activities/7066353296",
-    "description": "",
-    "buddies": []
-  },
-  {
-    "date": "Am 29. April 2022 um 17:56",
-    "activity": "Afternoon Activity",
-    "link": "https://www.strava.com/activities/7060578562",
-    "description": "",
-    "buddies": []
-  },
-  {
-    "date": "Am 29. April 2022 um 11:39",
-    "activity": "Lunch Ride",
-    "link": "https://www.strava.com/activities/7059205167",
-    "description": "",
-    "buddies": []
-  },
-  {
-    "date": "Am 27. April 2022 um 15:09",
-    "activity": "Afternoon Run",
-    "link": "https://www.strava.com/activities/7049327212",
-    "description": "500m gehen, 2,5k laufen, 500m gehen, 2,5k laufen",
-    "buddies": []
-  },
-  {
-    "date": "Am 26. April 2022 um 14:36",
+    "date": "Am 29. März 2022 um 17:02",
+    "km": "53,91",
+    "hm": "646",
     "activity": "Afternoon Ride",
-    "link": "https://www.strava.com/activities/7044034446",
+    "link": "https://www.strava.com/activities/6902518035",
     "description": "",
     "buddies": []
   },
   {
-    "date": "Am 24. April 2022 um 20:31",
+    "date": "26. März 2022",
+    "km": "43,22",
+    "hm": "617",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/6886676527",
+    "description": "Ausnüchtern",
+    "buddies": [
+      "Martin Nitsche",
+      "Julian Wenzel"
+    ]
+  },
+  {
+    "date": "Am 25. März 2022 um 11:01",
+    "km": "121,17",
+    "hm": "1.784",
+    "activity": "Kaltenleutgeben -  - Hocheck",
+    "link": "https://www.strava.com/activities/6880603809",
+    "description": "☀️🏔",
+    "buddies": []
+  },
+  {
+    "date": "Am 23. März 2022 um 20:04",
+    "km": "1.600",
+    "hm": 0,
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/6872210366",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 22. März 2022 um 19:22",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Activity",
-    "link": "https://www.strava.com/activities/7035683247",
+    "link": "https://www.strava.com/activities/6866223253",
     "description": "",
     "buddies": []
   },
   {
-    "date": "24. April 2022",
+    "date": "22. März 2022",
+    "km": "38,95",
+    "hm": "70",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/6865003722",
+    "description": "Bissl regenerieren",
+    "buddies": [
+      "Resa Kühmayer"
+    ]
+  },
+  {
+    "date": "20. März 2022",
+    "km": "132,47",
+    "hm": "1.185",
+    "activity": "Rohr - Gloggnitz - Bier",
+    "link": "https://www.strava.com/activities/6854693692",
+    "description": "",
+    "buddies": [
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "18. März 2022",
+    "km": "71,09",
+    "hm": "949",
+    "activity": "Tulln und Greifenstein",
+    "link": "https://www.strava.com/activities/6843231955",
+    "description": "",
+    "buddies": [
+      "Resa Kühmayer",
+      "Martin Nitsche"
+    ]
+  },
+  {
+    "date": "Am 17. März 2022 um 15:23",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Activity",
+    "link": "https://www.strava.com/activities/6838571486",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 16. März 2022 um 20:06",
+    "km": "1.375",
+    "hm": 0,
+    "activity": "Usi kurs",
+    "link": "https://www.strava.com/activities/6835067973",
+    "description": "Uhr hat teilweise ned gezählt",
+    "buddies": []
+  },
+  {
+    "date": "Am 15. März 2022 um 16:22",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Activity",
+    "link": "https://www.strava.com/activities/6828656718",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "14. März 2022",
+    "km": "113,73",
+    "hm": "946",
+    "activity": "Aufe nach Laa",
+    "link": "https://www.strava.com/activities/6822598862",
+    "description": "Kurzurlaub, Martin begleiten",
+    "buddies": [
+      "Martin Nitsche",
+      "Julian Wenzel"
+    ]
+  },
+  {
+    "date": "Am 13. März 2022 um 13:57",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Activity",
+    "link": "https://www.strava.com/activities/6824191459",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "12. März 2022",
+    "km": "60,04",
+    "hm": "647",
+    "activity": "Zum Wienerwaldsee",
+    "link": "https://www.strava.com/activities/6812043968",
+    "description": "Schön (windig) ☀️",
+    "buddies": [
+      "Martin Nitsche"
+    ]
+  },
+  {
+    "date": "Am 11. März 2022 um 14:17",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Activity",
+    "link": "https://www.strava.com/activities/6824192036",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 11. März 2022 um 11:55",
+    "km": "23,54",
+    "hm": "388",
+    "activity": "Höhenstraße auf den Kahlenberg",
+    "link": "https://www.strava.com/activities/6806925626",
+    "description": "Auf entspannt",
+    "buddies": []
+  },
+  {
+    "date": "10. März 2022",
+    "km": "61,27",
+    "hm": "454",
+    "activity": "Lunch Ride",
+    "link": "https://www.strava.com/activities/6802616653",
+    "description": "☀️",
+    "buddies": [
+      "Martin Nitsche",
+      "Julian Wenzel"
+    ]
+  },
+  {
+    "date": "Am 9. März 2022 um 20:04",
+    "km": "1.350",
+    "hm": 0,
+    "activity": "Evening Swim",
+    "link": "https://www.strava.com/activities/6799491393",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 7. März 2022 um 15:37",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Activity",
+    "link": "https://www.strava.com/activities/6787505001",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "6. März 2022",
+    "km": "46,78",
+    "hm": "640",
+    "activity": "Afternoon Ride",
+    "link": "https://www.strava.com/activities/6782520889",
+    "description": "Nachmittagsprogramm",
+    "buddies": [
+      "Julian Wenzel",
+      "Christoph Winkler"
+    ]
+  },
+  {
+    "date": "6. März 2022",
+    "km": "11,48",
+    "hm": "483",
+    "activity": "Waxeneck",
+    "link": "https://www.strava.com/activities/6783924571",
+    "description": "Pannenparty 🎉",
+    "buddies": [
+      "Resa Kühmayer",
+      "Verena Struempl"
+    ]
+  },
+  {
+    "date": "Am 4. März 2022 um 10:35",
+    "km": "70,14",
+    "hm": "1.348",
     "activity": "Morning Ride",
-    "link": "https://www.strava.com/activities/7032768452",
-    "description": "",
-    "buddies": [
-      "Resa Kühmayer",
-      "Christoph Winkler"
-    ]
+    "link": "https://www.strava.com/activities/6771345721",
+    "description": "Das zachste kommt zum Schluss: Endgegner Eisernenhandgasse auf den Kahlenberg",
+    "buddies": []
   },
   {
-    "date": "23. April 2022",
+    "date": "Am 3. März 2022 um 15:33",
+    "km": 0,
+    "hm": 0,
+    "activity": "Afternoon Activity",
+    "link": "https://www.strava.com/activities/6775428371",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. März 2022 um 20:08",
+    "km": "1.300",
+    "hm": 0,
+    "activity": "Usi Kurs",
+    "link": "https://www.strava.com/activities/6763767279",
+    "description": "",
+    "buddies": []
+  },
+  {
+    "date": "Am 2. März 2022 um 16:05",
+    "km": "3,21",
+    "hm": 0,
     "activity": "Afternoon Run",
-    "link": "https://www.strava.com/activities/7027437976",
-    "description": "1. Lauf seit Jahren 🥵",
-    "buddies": [
-      "Resa Kühmayer",
-      "Verena Struempl"
-    ]
-  },
-  {
-    "date": "23. April 2022",
-    "activity": "Lunch Ride",
-    "link": "https://www.strava.com/activities/7027156968",
-    "description": "Chillig Triathlon Teilstrecke scouten",
-    "buddies": [
-      "Resa Kühmayer",
-      "Verena Struempl"
-    ]
-  },
-  {
-    "date": "Am 23. April 2022 um 10:22",
-    "activity": "Morning Swim",
-    "link": "https://www.strava.com/activities/7027438243",
-    "description": "💀",
+    "link": "https://www.strava.com/activities/6763767604",
+    "description": "",
     "buddies": []
   },
   {
-    "date": "Am 22. April 2022 um 18:34",
+    "date": "Am 1. März 2022 um 19:15",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Activity",
-    "link": "https://www.strava.com/activities/7024172700",
+    "link": "https://www.strava.com/activities/6763767862",
     "description": "",
     "buddies": []
   },
   {
-    "date": "Am 22. April 2022 um 12:25",
-    "activity": "Lunch Activity",
-    "link": "https://www.strava.com/activities/7022351474",
-    "description": "",
-    "buddies": []
-  },
-  {
-    "date": "20. April 2022",
+    "date": "Am 1. März 2022 um 14:12",
+    "km": "53,88",
+    "hm": "680",
     "activity": "Afternoon Ride",
-    "link": "https://www.strava.com/activities/7013686466",
+    "link": "https://www.strava.com/activities/6756754054",
     "description": "",
-    "buddies": [
-      "Resa Kühmayer",
-      "Christoph Winkler"
-    ]
-  },
-  {
-    "date": "18. April 2022",
-    "activity": "Velorun Kurz Pottenstein Version Reverse",
-    "link": "https://www.strava.com/activities/7001156046",
-    "description": "Regen und Graupelpartie",
-    "buddies": [
-      "Christoph Winkler"
-    ]
-  },
-  {
-    "date": "15. April 2022",
-    "activity": "RAN Generalprobe",
-    "link": "https://www.strava.com/activities/6985492028",
-    "description": "Nikko Werksteam, Wechseln üben",
-    "buddies": [
-      "Jakob Köstler",
-      "Lukas Strasser"
-    ]
-  },
-  {
-    "date": "14. April 2022",
-    "activity": "Afternoon Ride",
-    "link": "https://www.strava.com/activities/6981964583",
-    "description": "",
-    "buddies": [
-      "Resa Kühmayer"
-    ]
-  },
-  {
-    "date": "13. April 2022",
-    "activity": "Kahlenberg",
-    "link": "https://www.strava.com/activities/6976165568",
-    "description": "Oben entspannt",
-    "buddies": [
-      "Lukas Strasser"
-    ]
-  },
-  {
-    "date": "Am 12. April 2022 um 16:21",
-    "activity": "Afternoon Activity",
-    "link": "https://www.strava.com/activities/6970758711",
-    "description": "",
-    "buddies": []
-  },
-  {
-    "date": "Am 11. April 2022 um 14:43",
-    "activity": "Afternoon Ride",
-    "link": "https://www.strava.com/activities/6965266551",
-    "description": "",
-    "buddies": []
-  },
-  {
-    "date": "Am 10. April 2022 um 13:22",
-    "activity": "Afternoon Activity",
-    "link": "https://www.strava.com/activities/6959717873",
-    "description": "",
-    "buddies": []
-  },
-  {
-    "date": "Am 8. April 2022 um 11:27",
-    "activity": "Exelberg Ritzelchallenge + Kahlenberg",
-    "link": "https://www.strava.com/activities/6949781443",
-    "description": "Exelberg Ritzelreihenfolge: 25 ➔ 27 ➔ 23 ➔ 21 ➔ 19 ➔ 17 ➔ 15 ➔ 13 ➔ 11\n19 und 15 waren am schnellsten, warum auch immer\n\nKa wie das passiert is, eigentlich wollt ich gar ned fahren 😅",
-    "buddies": []
-  },
-  {
-    "date": "Am 6. April 2022 um 20:04",
-    "activity": "Evening Swim",
-    "link": "https://www.strava.com/activities/6942050584",
-    "description": "",
-    "buddies": []
-  },
-  {
-    "date": "Am 6. April 2022 um 15:16",
-    "activity": "Afternoon Ride",
-    "link": "https://www.strava.com/activities/6940329425",
-    "description": "Von 5 einigermaßen möglichen Abfahren vom Kahlenberg sind 3 einfach so oasch und 2 gepflastert",
-    "buddies": []
-  },
-  {
-    "date": "Am 4. April 2022 um 15:25",
-    "activity": "Afternoon Activity",
-    "link": "https://www.strava.com/activities/6931230889",
-    "description": "",
-    "buddies": []
-  },
-  {
-    "date": "3. April 2022",
-    "activity": "Endstation Retz Reverse",
-    "link": "https://www.strava.com/activities/6925532181",
-    "description": "",
-    "buddies": [
-      "Resa Kühmayer"
-    ]
-  },
-  {
-    "date": "Am 2. April 2022 um 12:18",
-    "activity": "Lunch Activity",
-    "link": "https://www.strava.com/activities/6919741248",
-    "description": "",
-    "buddies": []
-  },
-  {
-    "date": "Am 1. April 2022 um 13:40",
-    "activity": "Afternoon Ride",
-    "link": "https://www.strava.com/activities/6915807854",
-    "description": "🌬🌬🌬🚴🏻‍♂️",
     "buddies": []
   },
   {
     "date": "Am 26. Februar 2022 um 14:52",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Activity",
     "link": "https://www.strava.com/activities/6740830003",
     "description": "",
@@ -12074,6 +16230,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. Februar 2022 um 09:54",
+    "km": "106,23",
+    "hm": "994",
     "activity": "Heim von",
     "link": "https://www.strava.com/activities/6735784063",
     "description": "Gegenwind ausgetrickst",
@@ -12081,6 +16239,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Februar 2022 um 21:05",
+    "km": 0,
+    "hm": 0,
     "activity": "Night Activity",
     "link": "https://www.strava.com/activities/6740830702",
     "description": "",
@@ -12088,6 +16248,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Februar 2022 um 20:40",
+    "km": 0,
+    "hm": 0,
     "activity": "Evening Activity",
     "link": "https://www.strava.com/activities/6740831044",
     "description": "",
@@ -12095,6 +16257,8 @@ const activitiesNiki = [
   },
   {
     "date": "19. Februar 2022",
+    "km": "21,80",
+    "hm": "510",
     "activity": "Waxeneck",
     "link": "https://www.strava.com/activities/6706783276",
     "description": "",
@@ -12104,6 +16268,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. Februar 2022 um 11:14",
+    "km": "35,47",
+    "hm": "74",
     "activity": "Donaukanal/Insel",
     "link": "https://www.strava.com/activities/6701063927",
     "description": "Entspanntes Corona Comeback",
@@ -12111,6 +16277,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 31. Januar 2022 um 09:23",
+    "km": "7,01",
+    "hm": "1.103",
     "activity": "Kuhkaser",
     "link": "https://www.strava.com/activities/6610043660",
     "description": "Schneesturm und 0 Sicht oben",
@@ -12118,6 +16286,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. Januar 2022 um 15:55",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Activity",
     "link": "https://www.strava.com/activities/6610043513",
     "description": "",
@@ -12125,6 +16295,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Januar 2022 um 09:31",
+    "km": "1.138",
+    "hm": 0,
     "activity": "Morning Swim",
     "link": "https://www.strava.com/activities/6610043794",
     "description": "",
@@ -12132,6 +16304,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. Januar 2022 um 17:06",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Activity",
     "link": "https://www.strava.com/activities/6610043994",
     "description": "",
@@ -12139,6 +16313,8 @@ const activitiesNiki = [
   },
   {
     "date": "26. Januar 2022",
+    "km": "106,26",
+    "hm": "692",
     "activity": "Tullnerrunde",
     "link": "https://www.strava.com/activities/6584910805",
     "description": "",
@@ -12148,6 +16324,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. Januar 2022 um 16:22",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Activity",
     "link": "https://www.strava.com/activities/6610044195",
     "description": "",
@@ -12155,6 +16333,8 @@ const activitiesNiki = [
   },
   {
     "date": "22. Januar 2022",
+    "km": "8,26",
+    "hm": "406",
     "activity": "Waxeneck Schneesturm",
     "link": "https://www.strava.com/activities/6564004285",
     "description": "",
@@ -12165,6 +16345,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Januar 2022 um 18:05",
+    "km": "1.175",
+    "hm": 0,
     "activity": "Evening Swim",
     "link": "https://www.strava.com/activities/6564003768",
     "description": "",
@@ -12172,6 +16354,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Januar 2022 um 12:40",
+    "km": 0,
+    "hm": 0,
     "activity": "Lunch Activity",
     "link": "https://www.strava.com/activities/6564004308",
     "description": "",
@@ -12179,6 +16363,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. Januar 2022 um 17:44",
+    "km": 0,
+    "hm": 0,
     "activity": "Afternoon Activity",
     "link": "https://www.strava.com/activities/6564004890",
     "description": "",
@@ -12186,6 +16372,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Januar 2022 um 12:18",
+    "km": "76,72",
+    "hm": "1.017",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/6548723559",
     "description": "Zwischendurch mit Resa",
@@ -12193,6 +16381,8 @@ const activitiesNiki = [
   },
   {
     "date": "15. Januar 2022",
+    "km": "72,92",
+    "hm": "1.033",
     "activity": "Puchberg",
     "link": "https://www.strava.com/activities/6527723963",
     "description": "",
@@ -12205,6 +16395,8 @@ const activitiesNiki = [
   },
   {
     "date": "14. Januar 2022",
+    "km": "67,76",
+    "hm": "534",
     "activity": "Irenental",
     "link": "https://www.strava.com/activities/6521940073",
     "description": "Wind^10",
@@ -12214,6 +16406,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Januar 2022 um 10:36",
+    "km": "5,79",
+    "hm": "1.074",
     "activity": "Staffkogel",
     "link": "https://www.strava.com/activities/6486366043",
     "description": "",
@@ -12221,6 +16415,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Januar 2022 um 10:44",
+    "km": "4,70",
+    "hm": "931",
     "activity": "Weißkopfkogel",
     "link": "https://www.strava.com/activities/6481551300",
     "description": "",
@@ -12228,6 +16424,8 @@ const activitiesNiki = [
   },
   {
     "date": "31. Dezember 2021",
+    "km": "117,50",
+    "hm": "1.421",
     "activity": "Silvesterrunde Forchtenstein",
     "link": "https://www.strava.com/activities/6451315406",
     "description": "Mit Robin",
@@ -12239,6 +16437,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. Dezember 2021 um 15:54",
+    "km": "425",
+    "hm": 0,
     "activity": "Afternoon Swim",
     "link": "https://www.strava.com/activities/6447272218",
     "description": "",
@@ -12246,6 +16446,8 @@ const activitiesNiki = [
   },
   {
     "date": "28. Dezember 2021",
+    "km": "67,05",
+    "hm": "563",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/6438021352",
     "description": "Eisige Kurven = 👎🏻",
@@ -12258,6 +16460,8 @@ const activitiesNiki = [
   },
   {
     "date": "24. Dezember 2021",
+    "km": "38,88",
+    "hm": "533",
     "activity": "Weihnachtsfahrt",
     "link": "https://www.strava.com/activities/6422717320",
     "description": "Gach und zach mim Bruder",
@@ -12267,6 +16471,8 @@ const activitiesNiki = [
   },
   {
     "date": "23. Dezember 2021",
+    "km": "71,60",
+    "hm": "900",
     "activity": "Eiszeit",
     "link": "https://www.strava.com/activities/6418504291",
     "description": "Flaschen halb durchgefroren 😅",
@@ -12276,6 +16482,8 @@ const activitiesNiki = [
   },
   {
     "date": "20. Dezember 2021",
+    "km": "33,70",
+    "hm": "411",
     "activity": "Kalt und kurz",
     "link": "https://www.strava.com/activities/6406918319",
     "description": "Robin bei 1. Ausfahrt begleiten",
@@ -12285,6 +16493,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. Dezember 2021 um 11:43",
+    "km": "90,18",
+    "hm": "1.083",
     "activity": "Verweht",
     "link": "https://www.strava.com/activities/6394972812",
     "description": "",
@@ -12292,6 +16502,8 @@ const activitiesNiki = [
   },
   {
     "date": "8. Dezember 2021",
+    "km": "57,27",
+    "hm": "533",
     "activity": "Hochroterd",
     "link": "https://www.strava.com/activities/6358534842",
     "description": "",
@@ -12304,6 +16516,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Dezember 2021 um 21:15",
+    "km": "4,09",
+    "hm": 0,
     "activity": "Night Run",
     "link": "https://www.strava.com/activities/6352288594",
     "description": "",
@@ -12311,6 +16525,8 @@ const activitiesNiki = [
   },
   {
     "date": "3. Dezember 2021",
+    "km": "35,04",
+    "hm": "413",
     "activity": "Windiges Wien",
     "link": "https://www.strava.com/activities/6338046907",
     "description": "",
@@ -12321,6 +16537,8 @@ const activitiesNiki = [
   },
   {
     "date": "27. November 2021",
+    "km": "23,79",
+    "hm": "513",
     "activity": "Erste Schneepartie",
     "link": "https://www.strava.com/activities/6312971583",
     "description": "",
@@ -12331,6 +16549,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. November 2021 um 15:03",
+    "km": "46,72",
+    "hm": "461",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/6270793264",
     "description": "",
@@ -12338,6 +16558,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. November 2021 um 10:31",
+    "km": "4,89",
+    "hm": "423",
     "activity": "Morning Hike",
     "link": "https://www.strava.com/activities/6270793648",
     "description": "",
@@ -12345,6 +16567,8 @@ const activitiesNiki = [
   },
   {
     "date": "6. November 2021",
+    "km": "90,60",
+    "hm": "1.003",
     "activity": "Hart  - Hals - Heim",
     "link": "https://www.strava.com/activities/6219934125",
     "description": "New bike who dis",
@@ -12354,6 +16578,8 @@ const activitiesNiki = [
   },
   {
     "date": "31. Oktober 2021",
+    "km": "33,03",
+    "hm": "793",
     "activity": "Eisernes Tor",
     "link": "https://www.strava.com/activities/6191983974",
     "description": "",
@@ -12363,6 +16589,8 @@ const activitiesNiki = [
   },
   {
     "date": "28. Oktober 2021",
+    "km": "52,87",
+    "hm": "536",
     "activity": "Herbsttour",
     "link": "https://www.strava.com/activities/6179026099",
     "description": "",
@@ -12372,6 +16600,8 @@ const activitiesNiki = [
   },
   {
     "date": "26. Oktober 2021",
+    "km": "53,37",
+    "hm": "726",
     "activity": "Feiertagsrunde Greifenstein",
     "link": "https://www.strava.com/activities/6168934647",
     "description": "Unterwegs mit dem Nikko Service Team",
@@ -12381,6 +16611,8 @@ const activitiesNiki = [
   },
   {
     "date": "24. Oktober 2021",
+    "km": "27,66",
+    "hm": "205",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/6159744541",
     "description": "Resas 1. Rennradfahrt",
@@ -12390,6 +16622,8 @@ const activitiesNiki = [
   },
   {
     "date": "16. Oktober 2021",
+    "km": "121,23",
+    "hm": "883",
     "activity": "Wiener Hizzy House",
     "link": "https://www.strava.com/activities/6121700707",
     "description": "Nach 2 Wochen Pause gleich Zerstörung",
@@ -12400,6 +16634,8 @@ const activitiesNiki = [
   },
   {
     "date": "1. Oktober 2021",
+    "km": "48,24",
+    "hm": "568",
     "activity": "Hochrotherd",
     "link": "https://www.strava.com/activities/6047899497",
     "description": "Mit den boiz",
@@ -12411,6 +16647,8 @@ const activitiesNiki = [
   },
   {
     "date": "25. September 2021",
+    "km": "65,57",
+    "hm": "1.501",
     "activity": "Hohe Wand",
     "link": "https://www.strava.com/activities/6017279715",
     "description": "Rauf Schnecke, runter Highspeed\nMantelriss is ok wenn 100 Meter entfernt ein Freund  wohnt und der gleich an Ersatz hat xD danke winkler",
@@ -12420,6 +16658,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. September 2021 um 09:28",
+    "km": "25,75",
+    "hm": "505",
     "activity": "Peilstein Aufwärmen",
     "link": "https://www.strava.com/activities/6017280024",
     "description": "",
@@ -12427,6 +16667,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 20. September 2021 um 11:37",
+    "km": "102,56",
+    "hm": "1.079",
     "activity": "Kalte Kuchl",
     "link": "https://www.strava.com/activities/5990751805",
     "description": "",
@@ -12434,6 +16676,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 18. September 2021 um 09:27",
+    "km": "19,66",
+    "hm": "477",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/5979123258",
     "description": "",
@@ -12441,6 +16685,8 @@ const activitiesNiki = [
   },
   {
     "date": "17. September 2021",
+    "km": "54,78",
+    "hm": "685",
     "activity": "Hügel erkunden",
     "link": "https://www.strava.com/activities/5975189416",
     "description": "",
@@ -12450,6 +16696,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. September 2021 um 18:32",
+    "km": "31,57",
+    "hm": "90",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/5966252421",
     "description": "Es ist doch sehr schnell dunkel geworden xD 🤦",
@@ -12457,6 +16705,8 @@ const activitiesNiki = [
   },
   {
     "date": "12. September 2021",
+    "km": "101,66",
+    "hm": "1.410",
     "activity": "Velo/Run 2021",
     "link": "https://www.strava.com/activities/5947095646",
     "description": "Nikko Team",
@@ -12466,6 +16716,8 @@ const activitiesNiki = [
   },
   {
     "date": "10. September 2021",
+    "km": "48,07",
+    "hm": "93",
     "activity": "Donauinsel entspannt",
     "link": "https://www.strava.com/activities/5936769382",
     "description": "",
@@ -12475,6 +16727,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. September 2021 um 14:21",
+    "km": "59,60",
+    "hm": "493",
     "activity": "1. Wienfahrt",
     "link": "https://www.strava.com/activities/5915458908",
     "description": "Höhenmeter suchen und Donauinsel bissl erkunden",
@@ -12482,6 +16736,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. September 2021 um 10:36",
+    "km": "51,82",
+    "hm": "507",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/5897813812",
     "description": "",
@@ -12489,6 +16745,8 @@ const activitiesNiki = [
   },
   {
     "date": "31. August 2021",
+    "km": "67,81",
+    "hm": "1.180",
     "activity": "Velo/Run Kurz",
     "link": "https://www.strava.com/activities/5883260797",
     "description": "",
@@ -12499,6 +16757,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. August 2021 um 08:36",
+    "km": "9,42",
+    "hm": "840",
     "activity": "Morning Hike",
     "link": "https://www.strava.com/activities/5866958288",
     "description": "",
@@ -12506,6 +16766,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 27. August 2021 um 15:55",
+    "km": "8,00",
+    "hm": "627",
     "activity": "Alpenrose Hütte",
     "link": "https://www.strava.com/activities/5862223195",
     "description": "Hoffen auf keinen Regen morgen",
@@ -12513,6 +16775,8 @@ const activitiesNiki = [
   },
   {
     "date": "20. August 2021",
+    "km": "57,12",
+    "hm": "571",
     "activity": "St. Corona Runde",
     "link": "https://www.strava.com/activities/5824513444",
     "description": "",
@@ -12523,6 +16787,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. August 2021 um 17:39",
+    "km": "18,57",
+    "hm": "500",
     "activity": "Waxeneck",
     "link": "https://www.strava.com/activities/5819371871",
     "description": "Geil Kette im Laufrad",
@@ -12530,6 +16796,8 @@ const activitiesNiki = [
   },
   {
     "date": "17. August 2021",
+    "km": "48,45",
+    "hm": "568",
     "activity": "Landpartie",
     "link": "https://www.strava.com/activities/5808638956",
     "description": "1. Mal normal seit 6 Wochen = F*ckerei",
@@ -12540,6 +16808,8 @@ const activitiesNiki = [
   },
   {
     "date": "11. August 2021",
+    "km": "16,51",
+    "hm": "1.077",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5808641431",
     "description": "",
@@ -12549,6 +16819,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 10. August 2021 um 10:24",
+    "km": "5,74",
+    "hm": "1.096",
     "activity": "Bischof",
     "link": "https://www.strava.com/activities/5769752829",
     "description": "",
@@ -12556,6 +16828,8 @@ const activitiesNiki = [
   },
   {
     "date": "9. August 2021",
+    "km": "18,81",
+    "hm": "1.053",
     "activity": "Bisschen Trails",
     "link": "https://www.strava.com/activities/5769748476",
     "description": "Fleckalmtrail und Hahnenkammtrail",
@@ -12565,6 +16839,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. August 2021 um 08:15",
+    "km": "6,22",
+    "hm": "863",
     "activity": "Haidsteig",
     "link": "https://www.strava.com/activities/5769751709",
     "description": "GPS hat bissl spät gestartet",
@@ -12572,6 +16848,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 2. August 2021 um 18:43",
+    "km": "0,22",
+    "hm": "0",
     "activity": "Evening Activity",
     "link": "https://www.strava.com/activities/5727725024",
     "description": "",
@@ -12579,6 +16857,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Juli 2021 um 15:42",
+    "km": "17,61",
+    "hm": "175",
     "activity": "24h Kaindorf 5/5",
     "link": "https://www.strava.com/activities/5679757909",
     "description": "Unaufgewärmt rein wegen Platten vom Teamkollegen",
@@ -12586,6 +16866,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Juli 2021 um 09:23",
+    "km": "17,91",
+    "hm": "176",
     "activity": "Kaindorf Runde 4 (32:18)",
     "link": "https://www.strava.com/activities/5677565716",
     "description": "Wird schon heiß und mega zach",
@@ -12593,6 +16875,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Juli 2021 um 04:43",
+    "km": "17,88",
+    "hm": "176",
     "activity": "Kaindorf Runde 3 (31:31)",
     "link": "https://www.strava.com/activities/5676878873",
     "description": "Fast schon hell",
@@ -12600,6 +16884,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juli 2021 um 23:57",
+    "km": "17,48",
+    "hm": "174",
     "activity": "Kaindorf Mitternachtsrunde (2) (32:48)",
     "link": "https://www.strava.com/activities/5676178946",
     "description": "24h Kaindorf Team",
@@ -12607,6 +16893,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. Juli 2021 um 19:18",
+    "km": "17,76",
+    "hm": "176",
     "activity": "Kaindorf 24h Team Runde 1 (32:02)",
     "link": "https://www.strava.com/activities/5675341369",
     "description": "",
@@ -12614,6 +16902,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. Juli 2021 um 12:57",
+    "km": "85,83",
+    "hm": "1.030",
     "activity": "Velorun Variation",
     "link": "https://www.strava.com/activities/5589720621",
     "description": "",
@@ -12621,6 +16911,8 @@ const activitiesNiki = [
   },
   {
     "date": "2. Juli 2021",
+    "km": "37,13",
+    "hm": "684",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/5562345806",
     "description": "Zu wenig angezogen , regnerisch und viel Wind = kurze Fahrt",
@@ -12630,6 +16922,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Juni 2021 um 14:21",
+    "km": "23,95",
+    "hm": "232",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5542674052",
     "description": "",
@@ -12637,6 +16931,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. Juni 2021 um 10:39",
+    "km": "121,87",
+    "hm": "1.986",
     "activity": "Salzburgrunde",
     "link": "https://www.strava.com/activities/5532786968",
     "description": "Schönes Wetter, Gaisberg, viele Seen und Nachbar besuchen 🇩🇪\n\nVollbremsumg bei 70 kmh weil ein wireless Kopfhörer rausgefallen is 😂 zum Glück gefunden und nix kaputt\n\nKa hätten eigentlich über 2000hm sein sollen so close \n(mehr Infos in Bildbeschreibungen)",
@@ -12644,6 +16940,8 @@ const activitiesNiki = [
   },
   {
     "date": "23. Juni 2021",
+    "km": "44,43",
+    "hm": "905",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5517537347",
     "description": "Viele Kollegen unterwegs heute",
@@ -12653,6 +16951,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 22. Juni 2021 um 16:49",
+    "km": "43,89",
+    "hm": "472",
     "activity": "Auto holen",
     "link": "https://www.strava.com/activities/5511738707",
     "description": "",
@@ -12660,6 +16960,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Juni 2021 um 18:32",
+    "km": "4,00",
+    "hm": "1.085",
     "activity": "Evening Hike",
     "link": "https://www.strava.com/activities/5498842757",
     "description": "Schneeberg Sonnenuntergang und Sonnenaufgang",
@@ -12667,6 +16969,8 @@ const activitiesNiki = [
   },
   {
     "date": "18. Juni 2021",
+    "km": "69,28",
+    "hm": "1.367",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/5489753447",
     "description": "Heiß, Hohe Wand und Abstecher auf Hart",
@@ -12676,6 +16980,8 @@ const activitiesNiki = [
   },
   {
     "date": "14. Juni 2021",
+    "km": "53,76",
+    "hm": "671",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5469530960",
     "description": "Perfektes wetter",
@@ -12686,6 +16992,8 @@ const activitiesNiki = [
   },
   {
     "date": "10. Juni 2021",
+    "km": "106,76",
+    "hm": "1.421",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5447415128",
     "description": "Velo/Run lange Version mit Bruder\n\nBrunnen am Hafnerberg war lebensretter",
@@ -12695,6 +17003,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Juni 2021 um 20:17",
+    "km": "13,54",
+    "hm": "29",
     "activity": "Evening Ride",
     "link": "https://www.strava.com/activities/5447405495",
     "description": "",
@@ -12702,6 +17012,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Juni 2021 um 15:16",
+    "km": "14,17",
+    "hm": "128",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5447416679",
     "description": "",
@@ -12709,6 +17021,8 @@ const activitiesNiki = [
   },
   {
     "date": "3. Juni 2021",
+    "km": "74,39",
+    "hm": "737",
     "activity": "Eichhörnchenroute",
     "link": "https://www.strava.com/activities/5406460395",
     "description": "🐿️🐿️",
@@ -12719,6 +17033,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. Juni 2021 um 14:55",
+    "km": "91,84",
+    "hm": "1.068",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5395399917",
     "description": "Die Antwort auf die Frage ob ich lernen soll",
@@ -12726,6 +17042,8 @@ const activitiesNiki = [
   },
   {
     "date": "29. Mai 2021",
+    "km": "106,64",
+    "hm": "648",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/5377415185",
     "description": "Gran Fondo mit den Boys",
@@ -12737,6 +17055,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. Mai 2021 um 16:18",
+    "km": "56,64",
+    "hm": "1.304",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5362150597",
     "description": "Rauf und runter um dem Wind zu entgehen",
@@ -12744,6 +17064,8 @@ const activitiesNiki = [
   },
   {
     "date": "21. Mai 2021",
+    "km": "67,99",
+    "hm": "949",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/5333447214",
     "description": "",
@@ -12753,6 +17075,8 @@ const activitiesNiki = [
   },
   {
     "date": "18. Mai 2021",
+    "km": "31,83",
+    "hm": "301",
     "activity": "Zeitmangeltour",
     "link": "https://www.strava.com/activities/5317734609",
     "description": "",
@@ -12762,6 +17086,8 @@ const activitiesNiki = [
   },
   {
     "date": "14. Mai 2021",
+    "km": "18,25",
+    "hm": "451",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5296093781",
     "description": "Crashtest bestanden",
@@ -12771,6 +17097,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. Mai 2021 um 16:37",
+    "km": "83,77",
+    "hm": "242",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5285630605",
     "description": "Nach 6 km wieder zurück weil ich meinen Helm vergessen hab 🤦🏼‍♂️😂",
@@ -12778,6 +17106,8 @@ const activitiesNiki = [
   },
   {
     "date": "10. Mai 2021",
+    "km": "46,37",
+    "hm": "424",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5273963118",
     "description": "Sonne hat gfetzt",
@@ -12788,6 +17118,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 30. April 2021 um 11:42",
+    "km": "85,57",
+    "hm": "992",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/5217878439",
     "description": "Velo/Run Testfahrt, mein Bruder war bissl übermotiviert",
@@ -12795,6 +17127,8 @@ const activitiesNiki = [
   },
   {
     "date": "25. April 2021",
+    "km": "57,39",
+    "hm": "586",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/5190487246",
     "description": "Mit den Boys",
@@ -12806,6 +17140,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 23. April 2021 um 14:52",
+    "km": "87,74",
+    "hm": "1.057",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5178677210",
     "description": "Wind und Wiesen",
@@ -12813,6 +17149,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. April 2021 um 16:17",
+    "km": "58,45",
+    "hm": "542",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5155568857",
     "description": "Regenwind",
@@ -12820,6 +17158,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. April 2021 um 11:49",
+    "km": "92,68",
+    "hm": "1.432",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/5108905707",
     "description": "Velo/Run scouten, nice Gegenwind am Schluss",
@@ -12827,6 +17167,8 @@ const activitiesNiki = [
   },
   {
     "date": "9. April 2021",
+    "km": "72,76",
+    "hm": "181",
     "activity": "Schwechat Flughafen",
     "link": "https://www.strava.com/activities/5096410291",
     "description": "(Gegen) Wind, Gravel & Donau",
@@ -12836,6 +17178,8 @@ const activitiesNiki = [
   },
   {
     "date": "2. April 2021",
+    "km": "30,79",
+    "hm": "695",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5056680511",
     "description": "",
@@ -12847,6 +17191,8 @@ const activitiesNiki = [
   },
   {
     "date": "31. März 2021",
+    "km": "59,31",
+    "hm": "956",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5045136221",
     "description": "",
@@ -12856,6 +17202,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 29. März 2021 um 17:13",
+    "km": "58,10",
+    "hm": "689",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/5032174548",
     "description": "",
@@ -12863,6 +17211,8 @@ const activitiesNiki = [
   },
   {
     "date": "20. März 2021",
+    "km": "31,14",
+    "hm": "662",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/4977991615",
     "description": "",
@@ -12872,6 +17222,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. März 2021 um 11:13",
+    "km": "14,28",
+    "hm": "115",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/4977984069",
     "description": "",
@@ -12879,6 +17231,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. März 2021 um 08:50",
+    "km": "6,81",
+    "hm": "649",
     "activity": "Morning Hike",
     "link": "https://www.strava.com/activities/4977987084",
     "description": "",
@@ -12886,6 +17240,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 12. März 2021 um 10:23",
+    "km": "75,06",
+    "hm": "848",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/4933612445",
     "description": "Gegenwind^10 bis kurz vorm Ende",
@@ -12893,6 +17249,8 @@ const activitiesNiki = [
   },
   {
     "date": "10. März 2021",
+    "km": "52,01",
+    "hm": "387",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/4924445786",
     "description": "",
@@ -12902,6 +17260,8 @@ const activitiesNiki = [
   },
   {
     "date": "7. März 2021",
+    "km": "73,99",
+    "hm": "233",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/4907798966",
     "description": "",
@@ -12912,6 +17272,8 @@ const activitiesNiki = [
   },
   {
     "date": "6. März 2021",
+    "km": "19,60",
+    "hm": "403",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/4900567315",
     "description": "",
@@ -12921,6 +17283,8 @@ const activitiesNiki = [
   },
   {
     "date": "3. März 2021",
+    "km": "50,32",
+    "hm": "313",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/4883940676",
     "description": "",
@@ -12930,6 +17294,8 @@ const activitiesNiki = [
   },
   {
     "date": "28. Februar 2021",
+    "km": "24,81",
+    "hm": "891",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/4865462453",
     "description": "Eisernes Tor auf Umwegen",
@@ -12939,6 +17305,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. Februar 2021 um 14:21",
+    "km": "13,97",
+    "hm": "321",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/4854665335",
     "description": "",
@@ -12946,6 +17314,8 @@ const activitiesNiki = [
   },
   {
     "date": "25. Februar 2021",
+    "km": "37,26",
+    "hm": "190",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/4848177317",
     "description": "",
@@ -12955,6 +17325,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 24. Februar 2021 um 14:39",
+    "km": "52,95",
+    "hm": "359",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/4842220994",
     "description": "",
@@ -12962,6 +17334,8 @@ const activitiesNiki = [
   },
   {
     "date": "21. Februar 2021",
+    "km": "35,90",
+    "hm": "272",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/4824360175",
     "description": "",
@@ -12972,6 +17346,8 @@ const activitiesNiki = [
   },
   {
     "date": "20. Februar 2021",
+    "km": "10,43",
+    "hm": "219",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/4819126090",
     "description": "",
@@ -12981,6 +17357,8 @@ const activitiesNiki = [
   },
   {
     "date": "19. Februar 2021",
+    "km": "25,55",
+    "hm": "689",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/4819130213",
     "description": "",
@@ -12990,6 +17368,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 13. Februar 2021 um 09:03",
+    "km": "6,97",
+    "hm": "1.291",
     "activity": "Morning Activity",
     "link": "https://www.strava.com/activities/4782323411",
     "description": "",
@@ -12997,6 +17377,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Januar 2021 um 11:21",
+    "km": "74,25",
+    "hm": "381",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/4694661478",
     "description": "",
@@ -13004,6 +17386,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. Januar 2021 um 13:20",
+    "km": "4,29",
+    "hm": "651",
     "activity": "Afternoon Activity",
     "link": "https://www.strava.com/activities/4685203229",
     "description": "Unterberg",
@@ -13011,6 +17395,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. Januar 2021 um 11:46",
+    "km": "66,29",
+    "hm": "654",
     "activity": "Lunch Ride - Zacher Wind",
     "link": "https://www.strava.com/activities/4603517918",
     "description": "",
@@ -13018,6 +17404,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Januar 2021 um 10:57",
+    "km": "67,17",
+    "hm": "157",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/4570738203",
     "description": "",
@@ -13025,6 +17413,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 31. Dezember 2020 um 14:31",
+    "km": "15,80",
+    "hm": "41",
     "activity": "Test Ride",
     "link": "https://www.strava.com/activities/4544440412",
     "description": "",
@@ -13032,6 +17422,8 @@ const activitiesNiki = [
   },
   {
     "date": "29. Dezember 2020",
+    "km": "4,86",
+    "hm": "1.018",
     "activity": "Morning Activity",
     "link": "https://www.strava.com/activities/4534513887",
     "description": "Bruder Lukas hat die Uhr getragen",
@@ -13041,6 +17433,8 @@ const activitiesNiki = [
   },
   {
     "date": "25. Dezember 2020",
+    "km": "5,19",
+    "hm": "641",
     "activity": "Lunch Activity",
     "link": "https://www.strava.com/activities/4515947963",
     "description": "",
@@ -13050,6 +17444,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Dezember 2020 um 11:56",
+    "km": "72,30",
+    "hm": "512",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/4500086236",
     "description": "",
@@ -13057,6 +17453,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 15. Dezember 2020 um 11:52",
+    "km": "52,71",
+    "hm": "141",
     "activity": "Sch*** Wind",
     "link": "https://www.strava.com/activities/4474947414",
     "description": "",
@@ -13064,6 +17462,8 @@ const activitiesNiki = [
   },
   {
     "date": "13. Dezember 2020",
+    "km": "70,95",
+    "hm": "596",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/4467382488",
     "description": "",
@@ -13073,6 +17473,8 @@ const activitiesNiki = [
   },
   {
     "date": "8. Dezember 2020",
+    "km": "49,64",
+    "hm": "750",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/4445952299",
     "description": "",
@@ -13082,6 +17484,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 5. Dezember 2020 um 11:32",
+    "km": "65,27",
+    "hm": "162",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/4432514361",
     "description": "",
@@ -13089,6 +17493,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 1. Dezember 2020 um 11:18",
+    "km": "52,56",
+    "hm": "140",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/4415706925",
     "description": "",
@@ -13096,6 +17502,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. November 2020 um 03:49",
+    "km": "5,69",
+    "hm": "1.337",
     "activity": "Night Hike",
     "link": "https://www.strava.com/activities/4400745632",
     "description": "",
@@ -13103,6 +17511,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 26. November 2020 um 12:20",
+    "km": "43,90",
+    "hm": "120",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/4392915682",
     "description": "Miese Straßen erste Hälfte",
@@ -13110,6 +17520,8 @@ const activitiesNiki = [
   },
   {
     "date": "22. November 2020",
+    "km": "46,34",
+    "hm": "152",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/4374866191",
     "description": "",
@@ -13119,6 +17531,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. November 2020 um 14:34",
+    "km": "35,68",
+    "hm": "89",
     "activity": "Afternoon Ride",
     "link": "https://www.strava.com/activities/4360360865",
     "description": "",
@@ -13126,6 +17540,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 17. November 2020 um 12:18",
+    "km": "29,50",
+    "hm": "148",
     "activity": "Lunch Ride",
     "link": "https://www.strava.com/activities/4350429190",
     "description": "",
@@ -13133,6 +17549,8 @@ const activitiesNiki = [
   },
   {
     "date": "15. November 2020",
+    "km": "39,96",
+    "hm": "365",
     "activity": "Morning Ride",
     "link": "https://www.strava.com/activities/4340567925",
     "description": "",
@@ -13142,6 +17560,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 11. November 2020 um 11:42",
+    "km": "28,46",
+    "hm": "85",
     "activity": "Mittagsradfahrt",
     "link": "https://www.strava.com/activities/4341892873",
     "description": "",
@@ -13149,6 +17569,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 7. November 2020 um 13:14",
+    "km": "31,39",
+    "hm": "293",
     "activity": "Fahrt am Nachmittag",
     "link": "https://www.strava.com/activities/4341893008",
     "description": "",
@@ -13156,6 +17578,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. November 2020 um 12:18",
+    "km": "50,88",
+    "hm": "373",
     "activity": "Mittagsradfahrt",
     "link": "https://www.strava.com/activities/4341893168",
     "description": "",
@@ -13163,6 +17587,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. November 2020 um 13:24",
+    "km": "22,88",
+    "hm": "52",
     "activity": "Fahrt am Nachmittag",
     "link": "https://www.strava.com/activities/4341892646",
     "description": "",
@@ -13170,6 +17596,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 28. Oktober 2020 um 11:48",
+    "km": "22,87",
+    "hm": "52",
     "activity": "Mittagsradfahrt",
     "link": "https://www.strava.com/activities/4341892599",
     "description": "",
@@ -13177,6 +17605,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 25. Oktober 2020 um 15:31",
+    "km": "34,27",
+    "hm": "69",
     "activity": "Fahrt am Nachmittag",
     "link": "https://www.strava.com/activities/4341892626",
     "description": "",
@@ -13184,6 +17614,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 21. Oktober 2020 um 16:41",
+    "km": "24,90",
+    "hm": "61",
     "activity": "Fahrt am Nachmittag",
     "link": "https://www.strava.com/activities/4341892445",
     "description": "",
@@ -13191,6 +17623,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 19. Oktober 2020 um 12:52",
+    "km": "23,01",
+    "hm": "52",
     "activity": "Mittagsradfahrt",
     "link": "https://www.strava.com/activities/4341892407",
     "description": "",
@@ -13198,6 +17632,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 9. Oktober 2020 um 17:42",
+    "km": "20,01",
+    "hm": "57",
     "activity": "Fahrt am Nachmittag",
     "link": "https://www.strava.com/activities/4342578256",
     "description": "",
@@ -13205,6 +17641,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 6. Oktober 2020 um 09:16",
+    "km": "15,20",
+    "hm": "39",
     "activity": "Fahrt am Morgen",
     "link": "https://www.strava.com/activities/4342578134",
     "description": "",
@@ -13212,6 +17650,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 4. Oktober 2020 um 13:38",
+    "km": "29,71",
+    "hm": "57",
     "activity": "Fahrt am Nachmittag",
     "link": "https://www.strava.com/activities/4342578294",
     "description": "",
@@ -13219,6 +17659,8 @@ const activitiesNiki = [
   },
   {
     "date": "Am 3. Oktober 2020 um 15:55",
+    "km": "37,03",
+    "hm": "306",
     "activity": "Fahrt am Nachmittag",
     "link": "https://www.strava.com/activities/4342578431",
     "description": "",
@@ -23696,6 +28138,13 @@ function displayActivities(activities, listName, h1Name, clearName) {
         const date = document.createElement('p');
         date.textContent = `${activity.date}`;
 
+        let infos;
+
+        if (activity.km) {
+          infos = document.createElement('p');
+          infos.textContent = `${activity.km} KM - ${activity.hm} HM`;
+        }
+
         // Create the link
         const link = document.createElement('p');
         const hyperlink = document.createElement('a');
@@ -23731,6 +28180,10 @@ function displayActivities(activities, listName, h1Name, clearName) {
 
         activityItem.appendChild(activityTitle);
         activityItem.appendChild(date);
+
+        if (infos) {
+          activityItem.appendChild(infos);
+        }
 
         if (buddies) {
           activityItem.appendChild(buddies);
@@ -23917,3 +28370,31 @@ document.getElementById('toggleButton-maxi').addEventListener('click', function(
         this.textContent = 'Gridliste';
     }
 });
+
+console.log(analyzeRides(activitiesNiki, "Christoph Winkler"));
+console.log(analyzeRides(activitiesNiki, "Martin Nitsche"));
+console.log(analyzeRides(activitiesNiki, "Julian Wenzel"));
+console.log(analyzeRides(activitiesNiki, "Max Tretthann"));
+
+function analyzeRides(rides, buddy) {
+  const withBuddy = rides.filter(r => r.buddies.includes(buddy));
+
+  const parseKm = (km) => km ? parseFloat(km.replace(',', '.')) : 0;
+  const parseHm = (hm) => hm ? parseInt(hm, 10) : 0;
+
+  const totalKm = withBuddy.reduce((sum, r) => sum + parseKm(r.km), 0);
+  const totalHm = withBuddy.reduce((sum, r) => sum + parseHm(r.hm), 0);
+
+  const ridesOver100 = withBuddy.filter(r => parseKm(r.km) > 100);
+
+  //console.log(`Rides with Christoph over 100km (${ridesOver100.length}):`);
+  //ridesOver100.forEach(r => console.log(`${r.km}km - ${r.link}`));
+
+  return {
+    buddy: buddy,
+    count: withBuddy.length,
+    totalKmW: Math.round(totalKm * 100) / 100,
+    totalHm: totalHm,
+    ridesOver100km: ridesOver100.length
+  };
+}
