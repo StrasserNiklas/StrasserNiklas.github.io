@@ -28372,9 +28372,16 @@ document.getElementById('toggleButton-maxi').addEventListener('click', function(
 });
 
 console.log(analyzeRides(activitiesNiki, "Christoph Winkler"));
-console.log(analyzeRides(activitiesNiki, "Martin Nitsche"));
 console.log(analyzeRides(activitiesNiki, "Julian Wenzel"));
+console.log(analyzeRides(activitiesNiki, "Martin Nitsche"));
 console.log(analyzeRides(activitiesNiki, "Max Tretthann"));
+console.log(analyzeRides(activitiesNiki, "Resa Kühmayer"));
+console.log(analyzeRides(activitiesNiki, "Erich Weszelits"));
+console.log(analyzeRides(activitiesNiki, "Felix Brandstetter"));
+console.log(analyzeRides(activitiesNiki, "David Reischer"));
+console.log(analyzeRides(activitiesNiki, "Lukas Pulling"));
+console.log(analyzeRides(activitiesNiki, "Lena Novacek"));
+
 
 function analyzeRides(rides, buddy) {
   const withBuddy = rides.filter(r => r.buddies.includes(buddy));
